@@ -17,8 +17,8 @@
     "authors": [
         {
             "name": "DevMe",
-            "email": "support@devme.com",
-            "homepage": "https://devme.com"
+            "email": "support@dev.me",
+            "homepage": "https://dev.me"
         }
     ],
     "require": {

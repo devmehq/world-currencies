@@ -4,7 +4,7 @@ Gem::Specification.new do |spec|
   spec.name          = 'devmehq-world-currencies'
   spec.version       = '1.0.0'
   spec.authors       = ['DevMe']
-  spec.email         = ['support@devme.com']
+  spec.email         = ['support@dev.me']
 
   spec.summary       = 'A comprehensive library providing currency information for all world currencies'
   spec.description   = 'Access detailed information about world currencies including ISO codes, symbols, native names, and more. Part of the DevMe ecosystem.'

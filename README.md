@@ -281,7 +281,7 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 ## Support
 
-- 📧 Email: support@devme.com
+- 📧 Email: support@dev.me
 - 🐛 Issues: [GitHub Issues](https://github.com/devmehq/world-currencies/issues)
 - 💬 Discussions: [GitHub Discussions](https://github.com/devmehq/world-currencies/discussions)
 - 💖 Sponsor: [GitHub Sponsors](https://github.com/sponsors/devmehq)
@@ -295,7 +295,7 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 ## Credits
 
-Created and maintained by [DevMe](https://devme.com).
+Created and maintained by [DevMe](https://dev.me).
 
 ## Changelog
 
@@ -303,4 +303,4 @@ See [CHANGELOG.md](CHANGELOG.md) for a list of changes.
 
 ---
 
-<p align="center">Made with ❤️ by <a href="https://devme.com">DevMe</a></p>
+<p align="center">Made with ❤️ by <a href="https://dev.me">DevMe</a></p>
