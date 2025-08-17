@@ -286,13 +286,6 @@ MIT License - see [LICENSE](LICENSE) file for details.
 - 💬 Discussions: [GitHub Discussions](https://github.com/devmehq/world-currencies/discussions)
 - 💖 Sponsor: [GitHub Sponsors](https://github.com/sponsors/devmehq)
 
-## Related Projects
-
-- [DevMe SDK JS](https://github.com/devmehq/devme-sdk-js) - JavaScript SDK for DevMe API
-- [DevMe SDK Python](https://github.com/devmehq/devme-sdk-python) - Python SDK for DevMe API
-- [DevMe SDK Ruby](https://github.com/devmehq/devme-sdk-ruby) - Ruby SDK for DevMe API
-- [DevMe SDK PHP](https://github.com/devmehq/devme-sdk-php) - PHP SDK for DevMe API
-
 ## Credits
 
 Created and maintained by [DevMe](https://dev.me).
@@ -303,4 +296,4 @@ See [CHANGELOG.md](CHANGELOG.md) for a list of changes.
 
 ---
 
-<p align="center">Made with ❤️ by <a href="https://dev.me">DevMe</a></p>
+<p align="center">Made with ❤️ by <a href="https://dev.me">DEV.ME</a></p>
