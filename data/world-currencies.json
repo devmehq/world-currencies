@@ -1,0 +1,7899 @@
+{
+  "AED": {
+    "name": "United Arab Emirates Dirham",
+    "name_native": "درهم إماراتي",
+    "name_plural": "UAE dirhams",
+    "name_plural_native": "دراهم إماراتية",
+    "iso": {
+      "code": "AED",
+      "number": "784"
+    },
+    "symbol": "AED",
+    "symbol_native": "د.إ",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "dirham",
+        "symbol": "د.إ"
+      },
+      "minor": {
+        "name": "fils",
+        "symbol": "فلس",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "5 د.إ",
+        "10 د.إ",
+        "20 د.إ",
+        "50 د.إ",
+        "100 د.إ",
+        "200 د.إ",
+        "500 د.إ"
+      ],
+      "rare": [
+        "1000 د.إ"
+      ]
+    },
+    "coins": {
+      "frequent": [
+        "50 فلس",
+        "1 د.إ"
+      ],
+      "rare": [
+        "25 فلس",
+        "1 فلس",
+        "5 فلس",
+        "10 فلس"
+      ]
+    },
+    "countries": [
+      "AE"
+    ]
+  },
+  "AFN": {
+    "name": "Afghan Afghani",
+    "name_native": "افغانی",
+    "name_plural": "Afghan Afghanis",
+    "name_plural_native": "افغانی",
+    "iso": {
+      "code": "AFN",
+      "number": "971"
+    },
+    "symbol": "AFN",
+    "symbol_native": "؋",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "afghani",
+        "symbol": "؋"
+      },
+      "minor": {
+        "name": "pul",
+        "symbol": "",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "1؋",
+        "2؋",
+        "5؋",
+        "10؋",
+        "20؋",
+        "50؋",
+        "100؋",
+        "500؋",
+        "1000؋"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "1؋",
+        "2؋",
+        "5؋"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "AF"
+    ]
+  },
+  "ALL": {
+    "name": "Albanian Lek",
+    "name_native": "Lek",
+    "name_plural": "Albanian Lekë",
+    "name_plural_native": "Lekë",
+    "iso": {
+      "code": "ALL",
+      "number": "008"
+    },
+    "symbol": "ALL",
+    "symbol_native": "L",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "lek",
+        "symbol": "L"
+      },
+      "minor": {
+        "name": "qindarkë",
+        "symbol": "",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "200 L",
+        "500 L",
+        "1000 L",
+        "2000 L",
+        "5000 L"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "1 L",
+        "5 L",
+        "10 L",
+        "20 L",
+        "50 L",
+        "100 L"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "AL"
+    ]
+  },
+  "AMD": {
+    "name": "Armenian Dram",
+    "name_native": "Դրամ",
+    "name_plural": "Armenian Drams",
+    "name_plural_native": "Դրամ",
+    "iso": {
+      "code": "AMD",
+      "number": "051"
+    },
+    "symbol": "AMD",
+    "symbol_native": "֏",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "dram",
+        "symbol": "֏"
+      },
+      "minor": {
+        "name": "luma",
+        "symbol": "",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "500 ֏",
+        "1000 ֏",
+        "5000 ֏",
+        "10000 ֏",
+        "20000 ֏",
+        "50000 ֏",
+        "100000 ֏"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "10 ֏",
+        "20 ֏",
+        "50 ֏",
+        "100 ֏",
+        "200 ֏",
+        "500 ֏"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "AM"
+    ]
+  },
+  "ANG": {
+    "name": "Netherlands Antillean Guilder",
+    "name_native": "Gulden",
+    "name_plural": "Netherlands Antillean Guilders",
+    "name_plural_native": "Gulden",
+    "iso": {
+      "code": "ANG",
+      "number": "532"
+    },
+    "symbol": "ANG",
+    "symbol_native": "ƒ",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "guilder",
+        "symbol": "ƒ"
+      },
+      "minor": {
+        "name": "cent",
+        "symbol": "",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "ƒ10",
+        "ƒ25",
+        "ƒ50",
+        "ƒ100"
+      ],
+      "rare": [
+        "ƒ5",
+        "ƒ250"
+      ]
+    },
+    "coins": {
+      "frequent": [
+        "1 cent",
+        "5 cent",
+        "10 cent",
+        "25 cent",
+        "50 cent",
+        "ƒ1",
+        "ƒ2½",
+        "ƒ5"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "CW",
+      "SX"
+    ]
+  },
+  "AOA": {
+    "name": "Angolan Kwanza",
+    "name_native": "Kwanza",
+    "name_plural": "Angolan Kwanzas",
+    "name_plural_native": "Kwanzas",
+    "iso": {
+      "code": "AOA",
+      "number": "973"
+    },
+    "symbol": "AOA",
+    "symbol_native": "Kz",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "kwanza",
+        "symbol": "Kz"
+      },
+      "minor": {
+        "name": "cêntimo",
+        "symbol": "",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "Kz10",
+        "Kz50",
+        "Kz100",
+        "Kz200",
+        "Kz500",
+        "Kz1000",
+        "Kz2000"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "Kz1",
+        "Kz2",
+        "Kz5",
+        "10 cêntimos",
+        "50 cêntimos"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "AO"
+    ]
+  },
+  "ARS": {
+    "name": "Argentine Peso",
+    "name_native": "Peso argentino",
+    "name_plural": "Argentine Pesos",
+    "name_plural_native": "Pesos argentinos",
+    "iso": {
+      "code": "ARS",
+      "number": "032"
+    },
+    "symbol": "ARS",
+    "symbol_native": "$",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "peso",
+        "symbol": "$"
+      },
+      "minor": {
+        "name": "centavo",
+        "symbol": "",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "$10",
+        "$20",
+        "$50",
+        "$100",
+        "$200",
+        "$500",
+        "$1000",
+        "$2000"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "$1",
+        "$2",
+        "$5",
+        "$10"
+      ],
+      "rare": [
+        "5 centavos",
+        "10 centavos",
+        "25 centavos",
+        "50 centavos"
+      ]
+    },
+    "countries": [
+      "AR"
+    ]
+  },
+  "AUD": {
+    "name": "Australian Dollar",
+    "name_native": "Australian Dollar",
+    "name_plural": "Australian Dollars",
+    "name_plural_native": "Australian Dollars",
+    "iso": {
+      "code": "AUD",
+      "number": "036"
+    },
+    "symbol": "AUD",
+    "symbol_native": "$",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "dollar",
+        "symbol": "$"
+      },
+      "minor": {
+        "name": "cent",
+        "symbol": "c",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "$5",
+        "$10",
+        "$20",
+        "$50",
+        "$100"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "$1",
+        "$2",
+        "5c",
+        "10c",
+        "20c",
+        "50c"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "AU",
+      "CX",
+      "CC",
+      "HM",
+      "KI",
+      "NR",
+      "NF",
+      "TV"
+    ]
+  },
+  "AWG": {
+    "name": "Aruban Florin",
+    "name_native": "Florin",
+    "name_plural": "Aruban Florins",
+    "name_plural_native": "Florin",
+    "iso": {
+      "code": "AWG",
+      "number": "533"
+    },
+    "symbol": "AWG",
+    "symbol_native": "ƒ",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "florin",
+        "symbol": "ƒ"
+      },
+      "minor": {
+        "name": "cent",
+        "symbol": "",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "ƒ10",
+        "ƒ25",
+        "ƒ50",
+        "ƒ100",
+        "ƒ500"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "5 cent",
+        "10 cent",
+        "25 cent",
+        "50 cent",
+        "ƒ1",
+        "ƒ2.5",
+        "ƒ5"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "AW"
+    ]
+  },
+  "AZN": {
+    "name": "Azerbaijani Manat",
+    "name_native": "Manat",
+    "name_plural": "Azerbaijani Manats",
+    "name_plural_native": "Manat",
+    "iso": {
+      "code": "AZN",
+      "number": "944"
+    },
+    "symbol": "AZN",
+    "symbol_native": "₼",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "manat",
+        "symbol": "₼"
+      },
+      "minor": {
+        "name": "qəpik",
+        "symbol": "qp",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "1₼",
+        "5₼",
+        "10₼",
+        "20₼",
+        "50₼",
+        "100₼"
+      ],
+      "rare": [
+        "200₼"
+      ]
+    },
+    "coins": {
+      "frequent": [
+        "1qp",
+        "3qp",
+        "5qp",
+        "10qp",
+        "20qp",
+        "50qp"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "AZ"
+    ]
+  },
+  "BAM": {
+    "name": "Bosnia and Herzegovina Convertible Mark",
+    "name_native": "Konvertibilna marka",
+    "name_plural": "Bosnia and Herzegovina Convertible Marks",
+    "name_plural_native": "Konvertibilne marke",
+    "iso": {
+      "code": "BAM",
+      "number": "977"
+    },
+    "symbol": "BAM",
+    "symbol_native": "KM",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "convertible mark",
+        "symbol": "KM"
+      },
+      "minor": {
+        "name": "fening",
+        "symbol": "",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "10KM",
+        "20KM",
+        "50KM",
+        "100KM",
+        "200KM"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "5 feninga",
+        "10 feninga",
+        "20 feninga",
+        "50 feninga",
+        "1KM",
+        "2KM",
+        "5KM"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "BA"
+    ]
+  },
+  "BBD": {
+    "name": "Barbadian Dollar",
+    "name_native": "Barbadian Dollar",
+    "name_plural": "Barbadian Dollars",
+    "name_plural_native": "Barbadian Dollars",
+    "iso": {
+      "code": "BBD",
+      "number": "052"
+    },
+    "symbol": "BBD",
+    "symbol_native": "$",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "dollar",
+        "symbol": "$"
+      },
+      "minor": {
+        "name": "cent",
+        "symbol": "",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "$2",
+        "$5",
+        "$10",
+        "$20",
+        "$50",
+        "$100"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "1 cent",
+        "5 cent",
+        "10 cent",
+        "25 cent",
+        "$1"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "BB"
+    ]
+  },
+  "BDT": {
+    "name": "Bangladeshi Taka",
+    "name_native": "টাকা",
+    "name_plural": "Bangladeshi Takas",
+    "name_plural_native": "টাকা",
+    "iso": {
+      "code": "BDT",
+      "number": "050"
+    },
+    "symbol": "BDT",
+    "symbol_native": "৳",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "taka",
+        "symbol": "৳"
+      },
+      "minor": {
+        "name": "poisha",
+        "symbol": "",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "৳2",
+        "৳5",
+        "৳10",
+        "৳20",
+        "৳50",
+        "৳100",
+        "৳500",
+        "৳1000"
+      ],
+      "rare": [
+        "৳1"
+      ]
+    },
+    "coins": {
+      "frequent": [
+        "৳1",
+        "৳2",
+        "৳5"
+      ],
+      "rare": [
+        "1 poisha",
+        "5 poisha",
+        "10 poisha",
+        "25 poisha",
+        "50 poisha"
+      ]
+    },
+    "countries": [
+      "BD"
+    ]
+  },
+  "BGN": {
+    "name": "Bulgarian Lev",
+    "name_native": "Лев",
+    "name_plural": "Bulgarian Leva",
+    "name_plural_native": "Лева",
+    "iso": {
+      "code": "BGN",
+      "number": "975"
+    },
+    "symbol": "BGN",
+    "symbol_native": "лв",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "lev",
+        "symbol": "лв"
+      },
+      "minor": {
+        "name": "stotinka",
+        "symbol": "ст",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "2 лв",
+        "5 лв",
+        "10 лв",
+        "20 лв",
+        "50 лв",
+        "100 лв"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "1 ст",
+        "2 ст",
+        "5 ст",
+        "10 ст",
+        "20 ст",
+        "50 ст",
+        "1 лв",
+        "2 лв"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "BG"
+    ]
+  },
+  "BHD": {
+    "name": "Bahraini Dinar",
+    "name_native": "دينار بحريني",
+    "name_plural": "Bahraini Dinars",
+    "name_plural_native": "دينار بحريني",
+    "iso": {
+      "code": "BHD",
+      "number": "048"
+    },
+    "symbol": "BHD",
+    "symbol_native": "د.ب",
+    "decimal_digits": 3,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "dinar",
+        "symbol": "د.ب"
+      },
+      "minor": {
+        "name": "fils",
+        "symbol": "",
+        "majorValue": 0.001
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "0.5 د.ب",
+        "1 د.ب",
+        "5 د.ب",
+        "10 د.ب",
+        "20 د.ب"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "5 fils",
+        "10 fils",
+        "25 fils",
+        "50 fils",
+        "100 fils",
+        "500 fils"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "BH"
+    ]
+  },
+  "BIF": {
+    "name": "Burundian Franc",
+    "name_native": "Franc burundais",
+    "name_plural": "Burundian Francs",
+    "name_plural_native": "Francs burundais",
+    "iso": {
+      "code": "BIF",
+      "number": "108"
+    },
+    "symbol": "BIF",
+    "symbol_native": "FBu",
+    "decimal_digits": 0,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "franc",
+        "symbol": "FBu"
+      },
+      "minor": {
+        "name": "centime",
+        "symbol": "",
+        "majorValue": 0
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "100 FBu",
+        "500 FBu",
+        "1000 FBu",
+        "2000 FBu",
+        "5000 FBu",
+        "10000 FBu"
+      ],
+      "rare": [
+        "20 FBu",
+        "50 FBu"
+      ]
+    },
+    "coins": {
+      "frequent": [
+        "1 FBu",
+        "5 FBu",
+        "10 FBu",
+        "50 FBu"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "BI"
+    ]
+  },
+  "BMD": {
+    "name": "Bermudian Dollar",
+    "name_native": "Bermudian Dollar",
+    "name_plural": "Bermudian Dollars",
+    "name_plural_native": "Bermudian Dollars",
+    "iso": {
+      "code": "BMD",
+      "number": "060"
+    },
+    "symbol": "BMD",
+    "symbol_native": "$",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "dollar",
+        "symbol": "$"
+      },
+      "minor": {
+        "name": "cent",
+        "symbol": "¢",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "$2",
+        "$5",
+        "$10",
+        "$20",
+        "$50",
+        "$100"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "1¢",
+        "5¢",
+        "10¢",
+        "25¢",
+        "$1"
+      ],
+      "rare": [
+        "50¢",
+        "$5"
+      ]
+    },
+    "countries": [
+      "BM"
+    ]
+  },
+  "BND": {
+    "name": "Brunei Dollar",
+    "name_native": "Ringgit Brunei",
+    "name_plural": "Brunei Dollars",
+    "name_plural_native": "Ringgit Brunei",
+    "iso": {
+      "code": "BND",
+      "number": "096"
+    },
+    "symbol": "BND",
+    "symbol_native": "$",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "dollar",
+        "symbol": "$"
+      },
+      "minor": {
+        "name": "sen",
+        "symbol": "",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "$1",
+        "$5",
+        "$10",
+        "$50",
+        "$100"
+      ],
+      "rare": [
+        "$20",
+        "$25",
+        "$500",
+        "$1000",
+        "$10000"
+      ]
+    },
+    "coins": {
+      "frequent": [
+        "1 sen",
+        "5 sen",
+        "10 sen",
+        "20 sen",
+        "50 sen"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "BN"
+    ]
+  },
+  "BOB": {
+    "name": "Bolivian Boliviano",
+    "name_native": "Boliviano",
+    "name_plural": "Bolivian Bolivianos",
+    "name_plural_native": "Bolivianos",
+    "iso": {
+      "code": "BOB",
+      "number": "068"
+    },
+    "symbol": "BOB",
+    "symbol_native": "Bs.",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "boliviano",
+        "symbol": "Bs."
+      },
+      "minor": {
+        "name": "centavo",
+        "symbol": "",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "Bs.10",
+        "Bs.20",
+        "Bs.50",
+        "Bs.100",
+        "Bs.200"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "10 centavos",
+        "20 centavos",
+        "50 centavos",
+        "Bs.1",
+        "Bs.2",
+        "Bs.5"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "BO"
+    ]
+  },
+  "BRL": {
+    "name": "Brazilian Real",
+    "name_native": "Real",
+    "name_plural": "Brazilian Reais",
+    "name_plural_native": "Reais",
+    "iso": {
+      "code": "BRL",
+      "number": "986"
+    },
+    "symbol": "BRL",
+    "symbol_native": "R$",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "real",
+        "symbol": "R$"
+      },
+      "minor": {
+        "name": "centavo",
+        "symbol": "",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "R$2",
+        "R$5",
+        "R$10",
+        "R$20",
+        "R$50",
+        "R$100",
+        "R$200"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "5 centavos",
+        "10 centavos",
+        "25 centavos",
+        "50 centavos",
+        "R$1"
+      ],
+      "rare": [
+        "1 centavo"
+      ]
+    },
+    "countries": [
+      "BR"
+    ]
+  },
+  "BSD": {
+    "name": "Bahamian Dollar",
+    "name_native": "Bahamian Dollar",
+    "name_plural": "Bahamian Dollars",
+    "name_plural_native": "Bahamian Dollars",
+    "iso": {
+      "code": "BSD",
+      "number": "044"
+    },
+    "symbol": "BSD",
+    "symbol_native": "$",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "dollar",
+        "symbol": "$"
+      },
+      "minor": {
+        "name": "cent",
+        "symbol": "",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "$1",
+        "$5",
+        "$10",
+        "$20",
+        "$50",
+        "$100"
+      ],
+      "rare": [
+        "$1/2",
+        "$3"
+      ]
+    },
+    "coins": {
+      "frequent": [
+        "1 cent",
+        "5 cent",
+        "10 cent",
+        "25 cent"
+      ],
+      "rare": [
+        "15 cent",
+        "50 cent",
+        "$1",
+        "$2",
+        "$5"
+      ]
+    },
+    "countries": [
+      "BS"
+    ]
+  },
+  "BTN": {
+    "name": "Bhutanese Ngultrum",
+    "name_native": "དངུལ་ཀྲམ",
+    "name_plural": "Bhutanese Ngultrums",
+    "name_plural_native": "དངུལ་ཀྲམ",
+    "iso": {
+      "code": "BTN",
+      "number": "064"
+    },
+    "symbol": "BTN",
+    "symbol_native": "Nu.",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "ngultrum",
+        "symbol": "Nu."
+      },
+      "minor": {
+        "name": "chetrum",
+        "symbol": "Ch.",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "Nu.1",
+        "Nu.5",
+        "Nu.10",
+        "Nu.20",
+        "Nu.50",
+        "Nu.100",
+        "Nu.500",
+        "Nu.1000"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "Ch.25",
+        "Ch.50",
+        "Nu.1"
+      ],
+      "rare": [
+        "Ch.5",
+        "Ch.10",
+        "Ch.20"
+      ]
+    },
+    "countries": [
+      "BT"
+    ]
+  },
+  "BWP": {
+    "name": "Botswana Pula",
+    "name_native": "Pula",
+    "name_plural": "Botswana Pulas",
+    "name_plural_native": "Pula",
+    "iso": {
+      "code": "BWP",
+      "number": "072"
+    },
+    "symbol": "BWP",
+    "symbol_native": "P",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "pula",
+        "symbol": "P"
+      },
+      "minor": {
+        "name": "thebe",
+        "symbol": "t",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "P10",
+        "P20",
+        "P50",
+        "P100",
+        "P200"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "P1",
+        "P2",
+        "P5",
+        "5t",
+        "10t",
+        "25t",
+        "50t"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "BW"
+    ]
+  },
+  "BYN": {
+    "name": "Belarusian Ruble",
+    "name_native": "Беларускі рубель",
+    "name_plural": "Belarusian Rubles",
+    "name_plural_native": "Беларускія рублі",
+    "iso": {
+      "code": "BYN",
+      "number": "933"
+    },
+    "symbol": "BYN",
+    "symbol_native": "Br",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "ruble",
+        "symbol": "Br"
+      },
+      "minor": {
+        "name": "kopeyka",
+        "symbol": "k",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "5 Br",
+        "10 Br",
+        "20 Br",
+        "50 Br",
+        "100 Br",
+        "200 Br",
+        "500 Br"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "1k",
+        "2k",
+        "5k",
+        "10k",
+        "20k",
+        "50k",
+        "1 Br",
+        "2 Br"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "BY"
+    ]
+  },
+  "BZD": {
+    "name": "Belize Dollar",
+    "name_native": "Belize Dollar",
+    "name_plural": "Belize Dollars",
+    "name_plural_native": "Belize Dollars",
+    "iso": {
+      "code": "BZD",
+      "number": "084"
+    },
+    "symbol": "BZD",
+    "symbol_native": "$",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "dollar",
+        "symbol": "$"
+      },
+      "minor": {
+        "name": "cent",
+        "symbol": "",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "$2",
+        "$5",
+        "$10",
+        "$20",
+        "$50",
+        "$100"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "1 cent",
+        "5 cent",
+        "10 cent",
+        "25 cent",
+        "50 cent",
+        "$1",
+        "$2"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "BZ"
+    ]
+  },
+  "CAD": {
+    "name": "Canadian Dollar",
+    "name_native": "Dollar canadien",
+    "name_plural": "Canadian Dollars",
+    "name_plural_native": "Dollars canadiens",
+    "iso": {
+      "code": "CAD",
+      "number": "124"
+    },
+    "symbol": "CAD",
+    "symbol_native": "$",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "dollar",
+        "symbol": "$"
+      },
+      "minor": {
+        "name": "cent",
+        "symbol": "¢",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "$5",
+        "$10",
+        "$20",
+        "$50",
+        "$100"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "$1",
+        "$2",
+        "5¢",
+        "10¢",
+        "25¢"
+      ],
+      "rare": [
+        "1¢",
+        "50¢"
+      ]
+    },
+    "countries": [
+      "CA"
+    ]
+  },
+  "CHF": {
+    "name": "Swiss Franc",
+    "name_native": "Schweizer Franken",
+    "name_plural": "Swiss Francs",
+    "name_plural_native": "Schweizer Franken",
+    "iso": {
+      "code": "CHF",
+      "number": "756"
+    },
+    "symbol": "CHF",
+    "symbol_native": "Fr.",
+    "decimal_digits": 2,
+    "rounding": 0.05,
+    "units": {
+      "major": {
+        "name": "franc",
+        "symbol": "Fr."
+      },
+      "minor": {
+        "name": "rappen",
+        "symbol": "Rp.",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "10 Fr.",
+        "20 Fr.",
+        "50 Fr.",
+        "100 Fr.",
+        "200 Fr.",
+        "1000 Fr."
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "5 Rp.",
+        "10 Rp.",
+        "20 Rp.",
+        "50 Rp.",
+        "1 Fr.",
+        "2 Fr.",
+        "5 Fr."
+      ],
+      "rare": []
+    },
+    "countries": [
+      "CH",
+      "LI"
+    ]
+  },
+  "CLP": {
+    "name": "Chilean Peso",
+    "name_native": "Peso chileno",
+    "name_plural": "Chilean Pesos",
+    "name_plural_native": "Pesos chilenos",
+    "iso": {
+      "code": "CLP",
+      "number": "152"
+    },
+    "symbol": "CLP",
+    "symbol_native": "$",
+    "decimal_digits": 0,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "peso",
+        "symbol": "$"
+      },
+      "minor": {
+        "name": "centavo",
+        "symbol": "",
+        "majorValue": 0
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "$1000",
+        "$2000",
+        "$5000",
+        "$10000",
+        "$20000"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "$1",
+        "$5",
+        "$10",
+        "$50",
+        "$100",
+        "$500"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "CL"
+    ]
+  },
+  "CNY": {
+    "name": "Chinese Yuan",
+    "name_native": "人民币",
+    "name_plural": "Chinese Yuan",
+    "name_plural_native": "人民币",
+    "iso": {
+      "code": "CNY",
+      "number": "156"
+    },
+    "symbol": "CNY",
+    "symbol_native": "¥",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "yuan",
+        "symbol": "¥"
+      },
+      "minor": {
+        "name": "fen",
+        "symbol": "分",
+        "majorValue": 0.01
+      },
+      "minor2": {
+        "name": "jiao",
+        "symbol": "角",
+        "majorValue": 0.1
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "¥1",
+        "¥5",
+        "¥10",
+        "¥20",
+        "¥50",
+        "¥100"
+      ],
+      "rare": [
+        "¥2"
+      ]
+    },
+    "coins": {
+      "frequent": [
+        "1 fen",
+        "2 fen",
+        "5 fen",
+        "1 jiao",
+        "5 jiao",
+        "¥1"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "CN"
+    ]
+  },
+  "COP": {
+    "name": "Colombian Peso",
+    "name_native": "Peso colombiano",
+    "name_plural": "Colombian Pesos",
+    "name_plural_native": "Pesos colombianos",
+    "iso": {
+      "code": "COP",
+      "number": "170"
+    },
+    "symbol": "COP",
+    "symbol_native": "$",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "peso",
+        "symbol": "$"
+      },
+      "minor": {
+        "name": "centavo",
+        "symbol": "",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "$1000",
+        "$2000",
+        "$5000",
+        "$10000",
+        "$20000",
+        "$50000",
+        "$100000"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "$20",
+        "$50",
+        "$100",
+        "$200",
+        "$500",
+        "$1000"
+      ],
+      "rare": [
+        "$5",
+        "$10"
+      ]
+    },
+    "countries": [
+      "CO"
+    ]
+  },
+  "CRC": {
+    "name": "Costa Rican Colón",
+    "name_native": "Colón costarricense",
+    "name_plural": "Costa Rican Colónes",
+    "name_plural_native": "Colones costarricenses",
+    "iso": {
+      "code": "CRC",
+      "number": "188"
+    },
+    "symbol": "CRC",
+    "symbol_native": "₡",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "colón",
+        "symbol": "₡"
+      },
+      "minor": {
+        "name": "céntimo",
+        "symbol": "",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "₡1000",
+        "₡2000",
+        "₡5000",
+        "₡10000",
+        "₡20000",
+        "₡50000"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "₡5",
+        "₡10",
+        "₡25",
+        "₡50",
+        "₡100",
+        "₡500"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "CR"
+    ]
+  },
+  "CUC": {
+    "name": "Cuban Convertible Peso",
+    "name_native": "Cuban Convertible Peso",
+    "name_plural": "Cuban Convertible Pesos",
+    "name_plural_native": "Cuban Convertible Pesos",
+    "iso": {
+      "code": "CUC",
+      "number": "931"
+    },
+    "symbol": "CUC",
+    "symbol_native": "$",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "convertible peso",
+        "symbol": "$"
+      },
+      "minor": {
+        "name": "centavo",
+        "symbol": "¢",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "$1",
+        "$3",
+        "$5",
+        "$10",
+        "$20",
+        "$50",
+        "$100"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "1¢",
+        "5¢",
+        "10¢",
+        "25¢",
+        "50¢",
+        "$1"
+      ],
+      "rare": [
+        "$5"
+      ]
+    },
+    "countries": [
+      "CU"
+    ]
+  },
+  "CUP": {
+    "name": "Cuban Peso",
+    "name_native": "Peso cubano",
+    "name_plural": "Cuban Pesos",
+    "name_plural_native": "Pesos cubanos",
+    "iso": {
+      "code": "CUP",
+      "number": "192"
+    },
+    "symbol": "CUP",
+    "symbol_native": "$",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "peso",
+        "symbol": "$"
+      },
+      "minor": {
+        "name": "centavo",
+        "symbol": "¢",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "$1",
+        "$3",
+        "$5",
+        "$10",
+        "$20",
+        "$50",
+        "$100"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "1¢",
+        "2¢",
+        "5¢",
+        "20¢",
+        "$1",
+        "$3"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "CU"
+    ]
+  },
+  "CVE": {
+    "name": "Cape Verdean Escudo",
+    "name_native": "Escudo cabo-verdiano",
+    "name_plural": "Cape Verdean Escudos",
+    "name_plural_native": "Escudos cabo-verdianos",
+    "iso": {
+      "code": "CVE",
+      "number": "132"
+    },
+    "symbol": "CVE",
+    "symbol_native": "$",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "escudo",
+        "symbol": "$"
+      },
+      "minor": {
+        "name": "centavo",
+        "symbol": "",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "$200",
+        "$500",
+        "$1000",
+        "$2000",
+        "$5000"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "$1",
+        "$5",
+        "$10",
+        "$20",
+        "$50",
+        "$100"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "CV"
+    ]
+  },
+  "CZK": {
+    "name": "Czech Koruna",
+    "name_native": "Koruna česká",
+    "name_plural": "Czech Korunas",
+    "name_plural_native": "Koruny české",
+    "iso": {
+      "code": "CZK",
+      "number": "203"
+    },
+    "symbol": "CZK",
+    "symbol_native": "Kč",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "koruna",
+        "symbol": "Kč"
+      },
+      "minor": {
+        "name": "haléř",
+        "symbol": "h",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "100 Kč",
+        "200 Kč",
+        "500 Kč",
+        "1000 Kč",
+        "2000 Kč",
+        "5000 Kč"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "1 Kč",
+        "2 Kč",
+        "5 Kč",
+        "10 Kč",
+        "20 Kč",
+        "50 Kč"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "CZ"
+    ]
+  },
+  "DJF": {
+    "name": "Djiboutian Franc",
+    "name_native": "Franc djiboutien",
+    "name_plural": "Djiboutian Francs",
+    "name_plural_native": "Francs djiboutiens",
+    "iso": {
+      "code": "DJF",
+      "number": "262"
+    },
+    "symbol": "DJF",
+    "symbol_native": "Fdj",
+    "decimal_digits": 0,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "franc",
+        "symbol": "Fdj"
+      },
+      "minor": {
+        "name": "centime",
+        "symbol": "",
+        "majorValue": 0
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "1000 Fdj",
+        "2000 Fdj",
+        "5000 Fdj",
+        "10000 Fdj"
+      ],
+      "rare": [
+        "40 Fdj"
+      ]
+    },
+    "coins": {
+      "frequent": [
+        "1 Fdj",
+        "2 Fdj",
+        "5 Fdj",
+        "10 Fdj",
+        "20 Fdj",
+        "50 Fdj",
+        "100 Fdj",
+        "250 Fdj",
+        "500 Fdj"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "DJ"
+    ]
+  },
+  "DKK": {
+    "name": "Danish Krone",
+    "name_native": "Dansk krone",
+    "name_plural": "Danish Kroner",
+    "name_plural_native": "Danske kroner",
+    "iso": {
+      "code": "DKK",
+      "number": "208"
+    },
+    "symbol": "DKK",
+    "symbol_native": "kr",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "krone",
+        "symbol": "kr"
+      },
+      "minor": {
+        "name": "øre",
+        "symbol": "",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "50 kr",
+        "100 kr",
+        "200 kr",
+        "500 kr",
+        "1000 kr"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "50 øre",
+        "1 kr",
+        "2 kr",
+        "5 kr",
+        "10 kr",
+        "20 kr"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "DK",
+      "FO",
+      "GL"
+    ]
+  },
+  "DOP": {
+    "name": "Dominican Peso",
+    "name_native": "Peso dominicano",
+    "name_plural": "Dominican Pesos",
+    "name_plural_native": "Pesos dominicanos",
+    "iso": {
+      "code": "DOP",
+      "number": "214"
+    },
+    "symbol": "DOP",
+    "symbol_native": "$",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "peso",
+        "symbol": "$"
+      },
+      "minor": {
+        "name": "centavo",
+        "symbol": "",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "$20",
+        "$50",
+        "$100",
+        "$200",
+        "$500",
+        "$1000",
+        "$2000"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "$1",
+        "$5",
+        "$10",
+        "$25"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "DO"
+    ]
+  },
+  "DZD": {
+    "name": "Algerian Dinar",
+    "name_native": "دينار جزائري",
+    "name_plural": "Algerian Dinars",
+    "name_plural_native": "دينار جزائري",
+    "iso": {
+      "code": "DZD",
+      "number": "012"
+    },
+    "symbol": "DZD",
+    "symbol_native": "د.ج",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "dinar",
+        "symbol": "د.ج"
+      },
+      "minor": {
+        "name": "santeem",
+        "symbol": "",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "200 د.ج",
+        "500 د.ج",
+        "1000 د.ج",
+        "2000 د.ج"
+      ],
+      "rare": [
+        "100 د.ج"
+      ]
+    },
+    "coins": {
+      "frequent": [
+        "5 د.ج",
+        "10 د.ج",
+        "20 د.ج",
+        "50 د.ج",
+        "100 د.ج",
+        "200 د.ج"
+      ],
+      "rare": [
+        "1 د.ج",
+        "2 د.ج"
+      ]
+    },
+    "countries": [
+      "DZ"
+    ]
+  },
+  "EGP": {
+    "name": "Egyptian Pound",
+    "name_native": "جنيه مصري",
+    "name_plural": "Egyptian Pounds",
+    "name_plural_native": "جنيهات مصرية",
+    "iso": {
+      "code": "EGP",
+      "number": "818"
+    },
+    "symbol": "EGP",
+    "symbol_native": "ج.م",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "pound",
+        "symbol": "ج.م"
+      },
+      "minor": {
+        "name": "piastre",
+        "symbol": "ق.م",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "5 ج.م",
+        "10 ج.م",
+        "20 ج.م",
+        "50 ج.م",
+        "100 ج.م",
+        "200 ج.م"
+      ],
+      "rare": [
+        "25 ق.م",
+        "50 ق.م",
+        "1 ج.م"
+      ]
+    },
+    "coins": {
+      "frequent": [
+        "25 ق.م",
+        "50 ق.م",
+        "1 ج.م"
+      ],
+      "rare": [
+        "5 ق.م",
+        "10 ق.م",
+        "20 ق.م"
+      ]
+    },
+    "countries": [
+      "EG"
+    ]
+  },
+  "ERN": {
+    "name": "Eritrean Nakfa",
+    "name_native": "ናቕፋ",
+    "name_plural": "Eritrean Nakfas",
+    "name_plural_native": "ናቕፋ",
+    "iso": {
+      "code": "ERN",
+      "number": "232"
+    },
+    "symbol": "ERN",
+    "symbol_native": "Nfk",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "nakfa",
+        "symbol": "Nfk"
+      },
+      "minor": {
+        "name": "cent",
+        "symbol": "",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "1 Nfk",
+        "5 Nfk",
+        "10 Nfk",
+        "20 Nfk",
+        "50 Nfk",
+        "100 Nfk"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "1 cent",
+        "5 cent",
+        "10 cent",
+        "25 cent",
+        "50 cent",
+        "1 Nfk"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "ER"
+    ]
+  },
+  "ETB": {
+    "name": "Ethiopian Birr",
+    "name_native": "ብር",
+    "name_plural": "Ethiopian Birrs",
+    "name_plural_native": "ብር",
+    "iso": {
+      "code": "ETB",
+      "number": "230"
+    },
+    "symbol": "ETB",
+    "symbol_native": "Br",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "birr",
+        "symbol": "Br"
+      },
+      "minor": {
+        "name": "santim",
+        "symbol": "",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "1 Br",
+        "5 Br",
+        "10 Br",
+        "50 Br",
+        "100 Br",
+        "200 Br"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "1 santim",
+        "5 santim",
+        "10 santim",
+        "25 santim",
+        "50 santim",
+        "1 Br"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "ET"
+    ]
+  },
+  "EUR": {
+    "name": "Euro",
+    "name_native": "Euro",
+    "name_plural": "Euros",
+    "name_plural_native": "Euro",
+    "iso": {
+      "code": "EUR",
+      "number": "978"
+    },
+    "symbol": "EUR",
+    "symbol_native": "€",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "euro",
+        "symbol": "€"
+      },
+      "minor": {
+        "name": "cent",
+        "symbol": "c",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "€5",
+        "€10",
+        "€20",
+        "€50",
+        "€100"
+      ],
+      "rare": [
+        "€200",
+        "€500"
+      ]
+    },
+    "coins": {
+      "frequent": [
+        "€1",
+        "€2",
+        "5c",
+        "10c",
+        "20c",
+        "50c"
+      ],
+      "rare": [
+        "1c",
+        "2c"
+      ]
+    },
+    "countries": [
+      "AD",
+      "AT",
+      "BE",
+      "CY",
+      "EE",
+      "FI",
+      "FR",
+      "DE",
+      "GR",
+      "IE",
+      "IT",
+      "LV",
+      "LT",
+      "LU",
+      "MT",
+      "NL",
+      "PT",
+      "SK",
+      "SI",
+      "ES",
+      "MC",
+      "SM",
+      "VA"
+    ]
+  },
+  "FJD": {
+    "name": "Fijian Dollar",
+    "name_native": "Fijian Dollar",
+    "name_plural": "Fijian Dollars",
+    "name_plural_native": "Fijian Dollars",
+    "iso": {
+      "code": "FJD",
+      "number": "242"
+    },
+    "symbol": "FJD",
+    "symbol_native": "$",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "dollar",
+        "symbol": "$"
+      },
+      "minor": {
+        "name": "cent",
+        "symbol": "c",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "$5",
+        "$10",
+        "$20",
+        "$50",
+        "$100"
+      ],
+      "rare": [
+        "$2"
+      ]
+    },
+    "coins": {
+      "frequent": [
+        "5c",
+        "10c",
+        "20c",
+        "50c",
+        "$1",
+        "$2"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "FJ"
+    ]
+  },
+  "FKP": {
+    "name": "Falkland Islands Pound",
+    "name_native": "Falkland Islands Pound",
+    "name_plural": "Falkland Islands Pounds",
+    "name_plural_native": "Falkland Islands Pounds",
+    "iso": {
+      "code": "FKP",
+      "number": "238"
+    },
+    "symbol": "FKP",
+    "symbol_native": "£",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "pound",
+        "symbol": "£"
+      },
+      "minor": {
+        "name": "penny",
+        "symbol": "p",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "£5",
+        "£10",
+        "£20",
+        "£50"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "1p",
+        "2p",
+        "5p",
+        "10p",
+        "20p",
+        "50p",
+        "£1",
+        "£2"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "FK"
+    ]
+  },
+  "GBP": {
+    "name": "Pound Sterling",
+    "name_native": "British Pound",
+    "name_plural": "Pounds Sterling",
+    "name_plural_native": "British Pounds",
+    "iso": {
+      "code": "GBP",
+      "number": "826"
+    },
+    "symbol": "GBP",
+    "symbol_native": "£",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "pound",
+        "symbol": "£"
+      },
+      "minor": {
+        "name": "penny",
+        "symbol": "p",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "£5",
+        "£10",
+        "£20",
+        "£50"
+      ],
+      "rare": [
+        "£1",
+        "£100"
+      ]
+    },
+    "coins": {
+      "frequent": [
+        "1p",
+        "2p",
+        "5p",
+        "10p",
+        "20p",
+        "50p",
+        "£1",
+        "£2"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "GB",
+      "GG",
+      "IM",
+      "JE"
+    ]
+  },
+  "GEL": {
+    "name": "Georgian Lari",
+    "name_native": "ლარი",
+    "name_plural": "Georgian Laris",
+    "name_plural_native": "ლარი",
+    "iso": {
+      "code": "GEL",
+      "number": "981"
+    },
+    "symbol": "GEL",
+    "symbol_native": "₾",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "lari",
+        "symbol": "₾"
+      },
+      "minor": {
+        "name": "tetri",
+        "symbol": "",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "5 ₾",
+        "10 ₾",
+        "20 ₾",
+        "50 ₾",
+        "100 ₾"
+      ],
+      "rare": [
+        "1 ₾",
+        "2 ₾",
+        "200 ₾"
+      ]
+    },
+    "coins": {
+      "frequent": [
+        "1 tetri",
+        "2 tetri",
+        "5 tetri",
+        "10 tetri",
+        "20 tetri",
+        "50 tetri",
+        "1 ₾",
+        "2 ₾"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "GE"
+    ]
+  },
+  "GHS": {
+    "name": "Ghanaian Cedi",
+    "name_native": "Ghana Cedi",
+    "name_plural": "Ghanaian Cedis",
+    "name_plural_native": "Ghana Cedis",
+    "iso": {
+      "code": "GHS",
+      "number": "936"
+    },
+    "symbol": "GHS",
+    "symbol_native": "₵",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "cedi",
+        "symbol": "₵"
+      },
+      "minor": {
+        "name": "pesewa",
+        "symbol": "Gp",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "₵1",
+        "₵2",
+        "₵5",
+        "₵10",
+        "₵20",
+        "₵50",
+        "₵100",
+        "₵200"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "1 Gp",
+        "5 Gp",
+        "10 Gp",
+        "20 Gp",
+        "50 Gp",
+        "₵1",
+        "₵2"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "GH"
+    ]
+  },
+  "GIP": {
+    "name": "Gibraltar Pound",
+    "name_native": "Gibraltar Pound",
+    "name_plural": "Gibraltar Pounds",
+    "name_plural_native": "Gibraltar Pounds",
+    "iso": {
+      "code": "GIP",
+      "number": "292"
+    },
+    "symbol": "GIP",
+    "symbol_native": "£",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "pound",
+        "symbol": "£"
+      },
+      "minor": {
+        "name": "penny",
+        "symbol": "p",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "£5",
+        "£10",
+        "£20",
+        "£50",
+        "£100"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "1p",
+        "2p",
+        "5p",
+        "10p",
+        "20p",
+        "50p",
+        "£1",
+        "£2",
+        "£5"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "GI"
+    ]
+  },
+  "GMD": {
+    "name": "Gambian Dalasi",
+    "name_native": "Dalasi",
+    "name_plural": "Gambian Dalasis",
+    "name_plural_native": "Dalasis",
+    "iso": {
+      "code": "GMD",
+      "number": "270"
+    },
+    "symbol": "GMD",
+    "symbol_native": "D",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "dalasi",
+        "symbol": "D"
+      },
+      "minor": {
+        "name": "butut",
+        "symbol": "",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "D5",
+        "D10",
+        "D20",
+        "D50",
+        "D100",
+        "D200"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "1 butut",
+        "5 butut",
+        "10 butut",
+        "25 butut",
+        "50 butut",
+        "D1"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "GM"
+    ]
+  },
+  "GNF": {
+    "name": "Guinean Franc",
+    "name_native": "Franc guinéen",
+    "name_plural": "Guinean Francs",
+    "name_plural_native": "Francs guinéens",
+    "iso": {
+      "code": "GNF",
+      "number": "324"
+    },
+    "symbol": "GNF",
+    "symbol_native": "FG",
+    "decimal_digits": 0,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "franc",
+        "symbol": "FG"
+      },
+      "minor": {
+        "name": "centime",
+        "symbol": "",
+        "majorValue": 0
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "100 FG",
+        "500 FG",
+        "1000 FG",
+        "5000 FG",
+        "10000 FG",
+        "20000 FG"
+      ],
+      "rare": [
+        "25 FG",
+        "50 FG"
+      ]
+    },
+    "coins": {
+      "frequent": [
+        "1 FG",
+        "5 FG",
+        "10 FG",
+        "25 FG",
+        "50 FG"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "GN"
+    ]
+  },
+  "GTQ": {
+    "name": "Guatemalan Quetzal",
+    "name_native": "Quetzal",
+    "name_plural": "Guatemalan Quetzals",
+    "name_plural_native": "Quetzales",
+    "iso": {
+      "code": "GTQ",
+      "number": "320"
+    },
+    "symbol": "GTQ",
+    "symbol_native": "Q",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "quetzal",
+        "symbol": "Q"
+      },
+      "minor": {
+        "name": "centavo",
+        "symbol": "",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "Q1",
+        "Q5",
+        "Q10",
+        "Q20",
+        "Q50",
+        "Q100",
+        "Q200"
+      ],
+      "rare": [
+        "50 centavos"
+      ]
+    },
+    "coins": {
+      "frequent": [
+        "1 centavo",
+        "5 centavo",
+        "10 centavo",
+        "25 centavo",
+        "50 centavo",
+        "Q1"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "GT"
+    ]
+  },
+  "GYD": {
+    "name": "Guyanese Dollar",
+    "name_native": "Guyanese Dollar",
+    "name_plural": "Guyanese Dollars",
+    "name_plural_native": "Guyanese Dollars",
+    "iso": {
+      "code": "GYD",
+      "number": "328"
+    },
+    "symbol": "GYD",
+    "symbol_native": "$",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "dollar",
+        "symbol": "$"
+      },
+      "minor": {
+        "name": "cent",
+        "symbol": "",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "$20",
+        "$50",
+        "$100",
+        "$500",
+        "$1000",
+        "$5000"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "$1",
+        "$5",
+        "$10"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "GY"
+    ]
+  },
+  "HKD": {
+    "name": "Hong Kong Dollar",
+    "name_native": "港元",
+    "name_plural": "Hong Kong Dollars",
+    "name_plural_native": "港元",
+    "iso": {
+      "code": "HKD",
+      "number": "344"
+    },
+    "symbol": "HKD",
+    "symbol_native": "$",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "dollar",
+        "symbol": "$"
+      },
+      "minor": {
+        "name": "cent",
+        "symbol": "",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "$10",
+        "$20",
+        "$50",
+        "$100",
+        "$500",
+        "$1000"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "10 cent",
+        "20 cent",
+        "50 cent",
+        "$1",
+        "$2",
+        "$5",
+        "$10"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "HK"
+    ]
+  },
+  "HNL": {
+    "name": "Honduran Lempira",
+    "name_native": "Lempira",
+    "name_plural": "Honduran Lempiras",
+    "name_plural_native": "Lempiras",
+    "iso": {
+      "code": "HNL",
+      "number": "340"
+    },
+    "symbol": "HNL",
+    "symbol_native": "L",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "lempira",
+        "symbol": "L"
+      },
+      "minor": {
+        "name": "centavo",
+        "symbol": "",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "L1",
+        "L2",
+        "L5",
+        "L10",
+        "L20",
+        "L50",
+        "L100",
+        "L500"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "5 centavos",
+        "10 centavos",
+        "20 centavos",
+        "50 centavos"
+      ],
+      "rare": [
+        "1 centavo",
+        "2 centavos"
+      ]
+    },
+    "countries": [
+      "HN"
+    ]
+  },
+  "HTG": {
+    "name": "Haitian Gourde",
+    "name_native": "Gourde haïtienne",
+    "name_plural": "Haitian Gourdes",
+    "name_plural_native": "Gourdes haïtiennes",
+    "iso": {
+      "code": "HTG",
+      "number": "332"
+    },
+    "symbol": "HTG",
+    "symbol_native": "G",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "gourde",
+        "symbol": "G"
+      },
+      "minor": {
+        "name": "centime",
+        "symbol": "",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "G10",
+        "G20",
+        "G50",
+        "G100",
+        "G250",
+        "G500"
+      ],
+      "rare": [
+        "G1",
+        "G2",
+        "G5",
+        "G1000"
+      ]
+    },
+    "coins": {
+      "frequent": [
+        "5 centimes",
+        "20 centimes",
+        "G0.5",
+        "G1",
+        "G5"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "HT"
+    ]
+  },
+  "HUF": {
+    "name": "Hungarian Forint",
+    "name_native": "Magyar forint",
+    "name_plural": "Hungarian Forints",
+    "name_plural_native": "Magyar forint",
+    "iso": {
+      "code": "HUF",
+      "number": "348"
+    },
+    "symbol": "HUF",
+    "symbol_native": "Ft",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "forint",
+        "symbol": "Ft"
+      },
+      "minor": {
+        "name": "fillér",
+        "symbol": "",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "500 Ft",
+        "1000 Ft",
+        "2000 Ft",
+        "5000 Ft",
+        "10000 Ft",
+        "20000 Ft"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "5 Ft",
+        "10 Ft",
+        "20 Ft",
+        "50 Ft",
+        "100 Ft",
+        "200 Ft"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "HU"
+    ]
+  },
+  "IDR": {
+    "name": "Indonesian Rupiah",
+    "name_native": "Rupiah",
+    "name_plural": "Indonesian Rupiahs",
+    "name_plural_native": "Rupiah",
+    "iso": {
+      "code": "IDR",
+      "number": "360"
+    },
+    "symbol": "IDR",
+    "symbol_native": "Rp",
+    "decimal_digits": 0,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "rupiah",
+        "symbol": "Rp"
+      },
+      "minor": {
+        "name": "sen",
+        "symbol": "",
+        "majorValue": 0
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "Rp1000",
+        "Rp2000",
+        "Rp5000",
+        "Rp10000",
+        "Rp20000",
+        "Rp50000",
+        "Rp100000"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "Rp100",
+        "Rp200",
+        "Rp500",
+        "Rp1000"
+      ],
+      "rare": [
+        "Rp50"
+      ]
+    },
+    "countries": [
+      "ID"
+    ]
+  },
+  "ILS": {
+    "name": "Israeli New Shekel",
+    "name_native": "שקל חדש",
+    "name_plural": "Israeli New Shekels",
+    "name_plural_native": "שקלים חדשים",
+    "iso": {
+      "code": "ILS",
+      "number": "376"
+    },
+    "symbol": "ILS",
+    "symbol_native": "₪",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "new shekel",
+        "symbol": "₪"
+      },
+      "minor": {
+        "name": "agora",
+        "symbol": "",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "₪20",
+        "₪50",
+        "₪100",
+        "₪200"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "10 agorot",
+        "₪0.5",
+        "₪1",
+        "₪2",
+        "₪5",
+        "₪10"
+      ],
+      "rare": [
+        "5 agorot"
+      ]
+    },
+    "countries": [
+      "IL",
+      "PS"
+    ]
+  },
+  "INR": {
+    "name": "Indian Rupee",
+    "name_native": "रुपया",
+    "name_plural": "Indian Rupees",
+    "name_plural_native": "रुपये",
+    "iso": {
+      "code": "INR",
+      "number": "356"
+    },
+    "symbol": "INR",
+    "symbol_native": "₹",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "rupee",
+        "symbol": "₹"
+      },
+      "minor": {
+        "name": "paisa",
+        "symbol": "p",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "₹5",
+        "₹10",
+        "₹20",
+        "₹50",
+        "₹100",
+        "₹200",
+        "₹500",
+        "₹2000"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "₹1",
+        "₹2",
+        "₹5",
+        "₹10"
+      ],
+      "rare": [
+        "50p"
+      ]
+    },
+    "countries": [
+      "IN",
+      "BT"
+    ]
+  },
+  "IQD": {
+    "name": "Iraqi Dinar",
+    "name_native": "دينار عراقي",
+    "name_plural": "Iraqi Dinars",
+    "name_plural_native": "دينار عراقي",
+    "iso": {
+      "code": "IQD",
+      "number": "368"
+    },
+    "symbol": "IQD",
+    "symbol_native": "د.ع",
+    "decimal_digits": 3,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "dinar",
+        "symbol": "د.ع"
+      },
+      "minor": {
+        "name": "fils",
+        "symbol": "",
+        "majorValue": 0.001
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "250 د.ع",
+        "500 د.ع",
+        "1000 د.ع",
+        "5000 د.ع",
+        "10000 د.ع",
+        "25000 د.ع",
+        "50000 د.ع"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "25 د.ع",
+        "50 د.ع",
+        "100 د.ع"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "IQ"
+    ]
+  },
+  "IRR": {
+    "name": "Iranian Rial",
+    "name_native": "ریال",
+    "name_plural": "Iranian Rials",
+    "name_plural_native": "ریال",
+    "iso": {
+      "code": "IRR",
+      "number": "364"
+    },
+    "symbol": "IRR",
+    "symbol_native": "﷼",
+    "decimal_digits": 0,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "rial",
+        "symbol": "﷼"
+      },
+      "minor": {
+        "name": "",
+        "symbol": "",
+        "majorValue": 0
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "10000 ﷼",
+        "20000 ﷼",
+        "50000 ﷼",
+        "100000 ﷼",
+        "500000 ﷼",
+        "1000000 ﷼"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "5000 ﷼",
+        "10000 ﷼",
+        "20000 ﷼",
+        "50000 ﷼"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "IR"
+    ]
+  },
+  "ISK": {
+    "name": "Icelandic Króna",
+    "name_native": "Íslensk króna",
+    "name_plural": "Icelandic Krónur",
+    "name_plural_native": "Íslenskar krónur",
+    "iso": {
+      "code": "ISK",
+      "number": "352"
+    },
+    "symbol": "ISK",
+    "symbol_native": "kr",
+    "decimal_digits": 0,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "króna",
+        "symbol": "kr"
+      },
+      "minor": {
+        "name": "",
+        "symbol": "",
+        "majorValue": 0
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "500 kr",
+        "1000 kr",
+        "2000 kr",
+        "5000 kr",
+        "10000 kr"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "1 kr",
+        "5 kr",
+        "10 kr",
+        "50 kr",
+        "100 kr"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "IS"
+    ]
+  },
+  "JMD": {
+    "name": "Jamaican Dollar",
+    "name_native": "Jamaican Dollar",
+    "name_plural": "Jamaican Dollars",
+    "name_plural_native": "Jamaican Dollars",
+    "iso": {
+      "code": "JMD",
+      "number": "388"
+    },
+    "symbol": "JMD",
+    "symbol_native": "$",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "dollar",
+        "symbol": "$"
+      },
+      "minor": {
+        "name": "cent",
+        "symbol": "c",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "$50",
+        "$100",
+        "$500",
+        "$1000",
+        "$5000"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "$1",
+        "$5",
+        "$10",
+        "$20"
+      ],
+      "rare": [
+        "1c",
+        "10c",
+        "25c"
+      ]
+    },
+    "countries": [
+      "JM"
+    ]
+  },
+  "JOD": {
+    "name": "Jordanian Dinar",
+    "name_native": "دينار أردني",
+    "name_plural": "Jordanian Dinars",
+    "name_plural_native": "دينار أردني",
+    "iso": {
+      "code": "JOD",
+      "number": "400"
+    },
+    "symbol": "JOD",
+    "symbol_native": "د.ا",
+    "decimal_digits": 3,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "dinar",
+        "symbol": "د.ا"
+      },
+      "minor": {
+        "name": "piastre",
+        "symbol": "",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "1 د.ا",
+        "5 د.ا",
+        "10 د.ا",
+        "20 د.ا",
+        "50 د.ا"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "1/2 piastre",
+        "1 piastre",
+        "2.5 piastre",
+        "5 piastre",
+        "10 piastre",
+        "1/4 د.ا",
+        "1/2 د.ا",
+        "1 د.ا"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "JO"
+    ]
+  },
+  "JPY": {
+    "name": "Japanese Yen",
+    "name_native": "円",
+    "name_plural": "Japanese Yen",
+    "name_plural_native": "円",
+    "iso": {
+      "code": "JPY",
+      "number": "392"
+    },
+    "symbol": "JPY",
+    "symbol_native": "¥",
+    "decimal_digits": 0,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "yen",
+        "symbol": "¥"
+      },
+      "minor": {
+        "name": "",
+        "symbol": "",
+        "majorValue": 0
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "¥1000",
+        "¥5000",
+        "¥10000"
+      ],
+      "rare": [
+        "¥2000"
+      ]
+    },
+    "coins": {
+      "frequent": [
+        "¥1",
+        "¥5",
+        "¥10",
+        "¥50",
+        "¥100",
+        "¥500"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "JP"
+    ]
+  },
+  "KES": {
+    "name": "Kenyan Shilling",
+    "name_native": "Shilling ya Kenya",
+    "name_plural": "Kenyan Shillings",
+    "name_plural_native": "Shilling za Kenya",
+    "iso": {
+      "code": "KES",
+      "number": "404"
+    },
+    "symbol": "KES",
+    "symbol_native": "KSh",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "shilling",
+        "symbol": "KSh"
+      },
+      "minor": {
+        "name": "cent",
+        "symbol": "",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "KSh50",
+        "KSh100",
+        "KSh200",
+        "KSh500",
+        "KSh1000"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "KSh1",
+        "KSh5",
+        "KSh10",
+        "KSh20"
+      ],
+      "rare": [
+        "50 cents"
+      ]
+    },
+    "countries": [
+      "KE"
+    ]
+  },
+  "KGS": {
+    "name": "Kyrgyzstani Som",
+    "name_native": "Сом",
+    "name_plural": "Kyrgyzstani Soms",
+    "name_plural_native": "Сом",
+    "iso": {
+      "code": "KGS",
+      "number": "417"
+    },
+    "symbol": "KGS",
+    "symbol_native": "с",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "som",
+        "symbol": "с"
+      },
+      "minor": {
+        "name": "tyiyn",
+        "symbol": "",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "20 с",
+        "50 с",
+        "100 с",
+        "200 с",
+        "500 с",
+        "1000 с",
+        "5000 с"
+      ],
+      "rare": [
+        "10 с"
+      ]
+    },
+    "coins": {
+      "frequent": [
+        "1 tyiyn",
+        "10 tyiyn",
+        "50 tyiyn",
+        "1 с",
+        "3 с",
+        "5 с",
+        "10 с"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "KG"
+    ]
+  },
+  "KHR": {
+    "name": "Cambodian Riel",
+    "name_native": "រៀល",
+    "name_plural": "Cambodian Riels",
+    "name_plural_native": "រៀល",
+    "iso": {
+      "code": "KHR",
+      "number": "116"
+    },
+    "symbol": "KHR",
+    "symbol_native": "៛",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "riel",
+        "symbol": "៛"
+      },
+      "minor": {
+        "name": "sen",
+        "symbol": "",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "៛100",
+        "៛500",
+        "៛1000",
+        "៛2000",
+        "៛5000",
+        "៛10000",
+        "៛20000",
+        "៛50000",
+        "៛100000"
+      ],
+      "rare": [
+        "៛50"
+      ]
+    },
+    "coins": {
+      "frequent": [
+        "៛50",
+        "៛100",
+        "៛200",
+        "៛500"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "KH"
+    ]
+  },
+  "KMF": {
+    "name": "Comorian Franc",
+    "name_native": "Franc comorien",
+    "name_plural": "Comorian Francs",
+    "name_plural_native": "Francs comoriens",
+    "iso": {
+      "code": "KMF",
+      "number": "174"
+    },
+    "symbol": "KMF",
+    "symbol_native": "CF",
+    "decimal_digits": 0,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "franc",
+        "symbol": "CF"
+      },
+      "minor": {
+        "name": "centime",
+        "symbol": "",
+        "majorValue": 0
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "500 CF",
+        "1000 CF",
+        "2000 CF",
+        "5000 CF",
+        "10000 CF"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "25 CF",
+        "50 CF",
+        "100 CF",
+        "250 CF"
+      ],
+      "rare": [
+        "1 CF",
+        "2 CF",
+        "5 CF",
+        "10 CF"
+      ]
+    },
+    "countries": [
+      "KM"
+    ]
+  },
+  "KPW": {
+    "name": "North Korean Won",
+    "name_native": "조선 원",
+    "name_plural": "North Korean Won",
+    "name_plural_native": "조선 원",
+    "iso": {
+      "code": "KPW",
+      "number": "408"
+    },
+    "symbol": "KPW",
+    "symbol_native": "₩",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "won",
+        "symbol": "₩"
+      },
+      "minor": {
+        "name": "chon",
+        "symbol": "",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "₩5",
+        "₩10",
+        "₩50",
+        "₩100",
+        "₩200",
+        "₩500",
+        "₩1000",
+        "₩2000",
+        "₩5000"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "1 chon",
+        "5 chon",
+        "10 chon",
+        "50 chon",
+        "₩1"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "KP"
+    ]
+  },
+  "KRW": {
+    "name": "South Korean Won",
+    "name_native": "원",
+    "name_plural": "South Korean Won",
+    "name_plural_native": "원",
+    "iso": {
+      "code": "KRW",
+      "number": "410"
+    },
+    "symbol": "KRW",
+    "symbol_native": "₩",
+    "decimal_digits": 0,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "won",
+        "symbol": "₩"
+      },
+      "minor": {
+        "name": "",
+        "symbol": "",
+        "majorValue": 0
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "₩1000",
+        "₩5000",
+        "₩10000",
+        "₩50000"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "₩10",
+        "₩50",
+        "₩100",
+        "₩500"
+      ],
+      "rare": [
+        "₩1",
+        "₩5"
+      ]
+    },
+    "countries": [
+      "KR"
+    ]
+  },
+  "KWD": {
+    "name": "Kuwaiti Dinar",
+    "name_native": "دينار كويتي",
+    "name_plural": "Kuwaiti Dinars",
+    "name_plural_native": "دينار كويتي",
+    "iso": {
+      "code": "KWD",
+      "number": "414"
+    },
+    "symbol": "KWD",
+    "symbol_native": "د.ك",
+    "decimal_digits": 3,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "dinar",
+        "symbol": "د.ك"
+      },
+      "minor": {
+        "name": "fils",
+        "symbol": "",
+        "majorValue": 0.001
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "0.25 د.ك",
+        "0.5 د.ك",
+        "1 د.ك",
+        "5 د.ك",
+        "10 د.ك",
+        "20 د.ك"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "5 fils",
+        "10 fils",
+        "20 fils",
+        "50 fils",
+        "100 fils"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "KW"
+    ]
+  },
+  "KYD": {
+    "name": "Cayman Islands Dollar",
+    "name_native": "Cayman Islands Dollar",
+    "name_plural": "Cayman Islands Dollars",
+    "name_plural_native": "Cayman Islands Dollars",
+    "iso": {
+      "code": "KYD",
+      "number": "136"
+    },
+    "symbol": "KYD",
+    "symbol_native": "$",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "dollar",
+        "symbol": "$"
+      },
+      "minor": {
+        "name": "cent",
+        "symbol": "",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "$1",
+        "$5",
+        "$10",
+        "$25",
+        "$50",
+        "$100"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "1 cent",
+        "5 cent",
+        "10 cent",
+        "25 cent"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "KY"
+    ]
+  },
+  "KZT": {
+    "name": "Kazakhstani Tenge",
+    "name_native": "Теңге",
+    "name_plural": "Kazakhstani Tenge",
+    "name_plural_native": "Теңге",
+    "iso": {
+      "code": "KZT",
+      "number": "398"
+    },
+    "symbol": "KZT",
+    "symbol_native": "₸",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "tenge",
+        "symbol": "₸"
+      },
+      "minor": {
+        "name": "tiyn",
+        "symbol": "",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "₸200",
+        "₸500",
+        "₸1000",
+        "₸2000",
+        "₸5000",
+        "₸10000",
+        "₸20000"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "₸1",
+        "₸2",
+        "₸5",
+        "₸10",
+        "₸20",
+        "₸50",
+        "₸100",
+        "₸200"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "KZ"
+    ]
+  },
+  "LAK": {
+    "name": "Lao Kip",
+    "name_native": "ກີບ",
+    "name_plural": "Lao Kip",
+    "name_plural_native": "ກີບ",
+    "iso": {
+      "code": "LAK",
+      "number": "418"
+    },
+    "symbol": "LAK",
+    "symbol_native": "₭",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "kip",
+        "symbol": "₭"
+      },
+      "minor": {
+        "name": "att",
+        "symbol": "",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "₭500",
+        "₭1000",
+        "₭2000",
+        "₭5000",
+        "₭10000",
+        "₭20000",
+        "₭50000",
+        "₭100000"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [],
+      "rare": [
+        "10 att",
+        "20 att",
+        "50 att"
+      ]
+    },
+    "countries": [
+      "LA"
+    ]
+  },
+  "LBP": {
+    "name": "Lebanese Pound",
+    "name_native": "ليرة لبنانية",
+    "name_plural": "Lebanese Pounds",
+    "name_plural_native": "ليرات لبنانية",
+    "iso": {
+      "code": "LBP",
+      "number": "422"
+    },
+    "symbol": "LBP",
+    "symbol_native": "ل.ل",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "pound",
+        "symbol": "ل.ل"
+      },
+      "minor": {
+        "name": "piastre",
+        "symbol": "",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "ل.ل1000",
+        "ل.ل5000",
+        "ل.ل10000",
+        "ل.ل20000",
+        "ل.ل50000",
+        "ل.ل100000"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "ل.ل250",
+        "ل.ل500"
+      ],
+      "rare": [
+        "ل.ل25",
+        "ل.ل50",
+        "ل.ل100"
+      ]
+    },
+    "countries": [
+      "LB"
+    ]
+  },
+  "LKR": {
+    "name": "Sri Lankan Rupee",
+    "name_native": "රුපියල",
+    "name_plural": "Sri Lankan Rupees",
+    "name_plural_native": "රුපියල්",
+    "iso": {
+      "code": "LKR",
+      "number": "144"
+    },
+    "symbol": "LKR",
+    "symbol_native": "₨",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "rupee",
+        "symbol": "₨"
+      },
+      "minor": {
+        "name": "cent",
+        "symbol": "",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "₨20",
+        "₨50",
+        "₨100",
+        "₨500",
+        "₨1000",
+        "₨5000"
+      ],
+      "rare": [
+        "₨10",
+        "₨2000"
+      ]
+    },
+    "coins": {
+      "frequent": [
+        "₨1",
+        "₨2",
+        "₨5",
+        "₨10"
+      ],
+      "rare": [
+        "25 cents",
+        "50 cents"
+      ]
+    },
+    "countries": [
+      "LK"
+    ]
+  },
+  "LRD": {
+    "name": "Liberian Dollar",
+    "name_native": "Liberian Dollar",
+    "name_plural": "Liberian Dollars",
+    "name_plural_native": "Liberian Dollars",
+    "iso": {
+      "code": "LRD",
+      "number": "430"
+    },
+    "symbol": "LRD",
+    "symbol_native": "$",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "dollar",
+        "symbol": "$"
+      },
+      "minor": {
+        "name": "cent",
+        "symbol": "",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "$5",
+        "$10",
+        "$20",
+        "$50",
+        "$100"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "$1"
+      ],
+      "rare": [
+        "5 cents",
+        "10 cents",
+        "25 cents",
+        "50 cents"
+      ]
+    },
+    "countries": [
+      "LR"
+    ]
+  },
+  "LSL": {
+    "name": "Lesotho Loti",
+    "name_native": "Loti",
+    "name_plural": "Lesotho Maloti",
+    "name_plural_native": "Maloti",
+    "iso": {
+      "code": "LSL",
+      "number": "426"
+    },
+    "symbol": "LSL",
+    "symbol_native": "L",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "loti",
+        "symbol": "L"
+      },
+      "minor": {
+        "name": "sente",
+        "symbol": "s",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "L10",
+        "L20",
+        "L50",
+        "L100",
+        "L200"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "1s",
+        "2s",
+        "5s",
+        "L1",
+        "L2",
+        "L5"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "LS"
+    ]
+  },
+  "LYD": {
+    "name": "Libyan Dinar",
+    "name_native": "دينار ليبي",
+    "name_plural": "Libyan Dinars",
+    "name_plural_native": "دينار ليبي",
+    "iso": {
+      "code": "LYD",
+      "number": "434"
+    },
+    "symbol": "LYD",
+    "symbol_native": "ل.د",
+    "decimal_digits": 3,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "dinar",
+        "symbol": "ل.د"
+      },
+      "minor": {
+        "name": "dirham",
+        "symbol": "",
+        "majorValue": 0.001
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "ل.د1",
+        "ل.د5",
+        "ل.د10",
+        "ل.د20",
+        "ل.د50"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "50 dirham",
+        "100 dirham",
+        "250 dirham",
+        "500 dirham"
+      ],
+      "rare": [
+        "1 dirham",
+        "5 dirham",
+        "10 dirham",
+        "20 dirham"
+      ]
+    },
+    "countries": [
+      "LY"
+    ]
+  },
+  "MAD": {
+    "name": "Moroccan Dirham",
+    "name_native": "درهم مغربي",
+    "name_plural": "Moroccan Dirhams",
+    "name_plural_native": "دراهم مغربية",
+    "iso": {
+      "code": "MAD",
+      "number": "504"
+    },
+    "symbol": "MAD",
+    "symbol_native": "د.م.",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "dirham",
+        "symbol": "د.م."
+      },
+      "minor": {
+        "name": "centime",
+        "symbol": "",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "د.م.20",
+        "د.م.50",
+        "د.م.100",
+        "د.م.200"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "10 centimes",
+        "20 centimes",
+        "50 centimes",
+        "د.م.1",
+        "د.م.2",
+        "د.م.5",
+        "د.م.10"
+      ],
+      "rare": [
+        "5 centimes"
+      ]
+    },
+    "countries": [
+      "MA",
+      "EH"
+    ]
+  },
+  "MDL": {
+    "name": "Moldovan Leu",
+    "name_native": "Leu moldovenesc",
+    "name_plural": "Moldovan Lei",
+    "name_plural_native": "Lei moldovenești",
+    "iso": {
+      "code": "MDL",
+      "number": "498"
+    },
+    "symbol": "MDL",
+    "symbol_native": "L",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "leu",
+        "symbol": "L"
+      },
+      "minor": {
+        "name": "ban",
+        "symbol": "",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "L1",
+        "L5",
+        "L10",
+        "L20",
+        "L50",
+        "L100",
+        "L200",
+        "L500",
+        "L1000"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "1 ban",
+        "5 ban",
+        "10 ban",
+        "25 ban",
+        "50 ban",
+        "L1",
+        "L5"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "MD"
+    ]
+  },
+  "MGA": {
+    "name": "Malagasy Ariary",
+    "name_native": "Ariary",
+    "name_plural": "Malagasy Ariary",
+    "name_plural_native": "Ariary",
+    "iso": {
+      "code": "MGA",
+      "number": "969"
+    },
+    "symbol": "MGA",
+    "symbol_native": "Ar",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "ariary",
+        "symbol": "Ar"
+      },
+      "minor": {
+        "name": "iraimbilanja",
+        "symbol": "",
+        "majorValue": 0.2
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "Ar100",
+        "Ar200",
+        "Ar500",
+        "Ar1000",
+        "Ar2000",
+        "Ar5000",
+        "Ar10000"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "Ar1",
+        "Ar2",
+        "Ar4",
+        "Ar5",
+        "Ar10",
+        "Ar20",
+        "Ar50"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "MG"
+    ]
+  },
+  "MKD": {
+    "name": "Macedonian Denar",
+    "name_native": "Денар",
+    "name_plural": "Macedonian Denari",
+    "name_plural_native": "Денари",
+    "iso": {
+      "code": "MKD",
+      "number": "807"
+    },
+    "symbol": "MKD",
+    "symbol_native": "ден",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "denar",
+        "symbol": "ден"
+      },
+      "minor": {
+        "name": "deni",
+        "symbol": "",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "10 ден",
+        "50 ден",
+        "100 ден",
+        "200 ден",
+        "500 ден",
+        "1000 ден",
+        "2000 ден"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "1 ден",
+        "2 ден",
+        "5 ден",
+        "10 ден",
+        "50 ден"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "MK"
+    ]
+  },
+  "MMK": {
+    "name": "Myanmar Kyat",
+    "name_native": "ကျပ်",
+    "name_plural": "Myanmar Kyats",
+    "name_plural_native": "ကျပ်",
+    "iso": {
+      "code": "MMK",
+      "number": "104"
+    },
+    "symbol": "MMK",
+    "symbol_native": "K",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "kyat",
+        "symbol": "K"
+      },
+      "minor": {
+        "name": "pya",
+        "symbol": "",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "K50",
+        "K100",
+        "K200",
+        "K500",
+        "K1000",
+        "K5000",
+        "K10000"
+      ],
+      "rare": [
+        "K1",
+        "K5",
+        "K10",
+        "K20"
+      ]
+    },
+    "coins": {
+      "frequent": [],
+      "rare": [
+        "K1",
+        "K5",
+        "K10",
+        "K50",
+        "K100"
+      ]
+    },
+    "countries": [
+      "MM"
+    ]
+  },
+  "MNT": {
+    "name": "Mongolian Tögrög",
+    "name_native": "Төгрөг",
+    "name_plural": "Mongolian Tögrög",
+    "name_plural_native": "Төгрөг",
+    "iso": {
+      "code": "MNT",
+      "number": "496"
+    },
+    "symbol": "MNT",
+    "symbol_native": "₮",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "tögrög",
+        "symbol": "₮"
+      },
+      "minor": {
+        "name": "möngö",
+        "symbol": "",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "₮10",
+        "₮20",
+        "₮50",
+        "₮100",
+        "₮500",
+        "₮1000",
+        "₮5000",
+        "₮10000",
+        "₮20000"
+      ],
+      "rare": [
+        "₮1",
+        "₮5"
+      ]
+    },
+    "coins": {
+      "frequent": [
+        "₮20",
+        "₮50",
+        "₮100",
+        "₮200",
+        "₮500"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "MN"
+    ]
+  },
+  "MOP": {
+    "name": "Macanese Pataca",
+    "name_native": "澳門元",
+    "name_plural": "Macanese Patacas",
+    "name_plural_native": "澳門元",
+    "iso": {
+      "code": "MOP",
+      "number": "446"
+    },
+    "symbol": "MOP",
+    "symbol_native": "P",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "pataca",
+        "symbol": "P"
+      },
+      "minor": {
+        "name": "avo",
+        "symbol": "",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "P10",
+        "P20",
+        "P50",
+        "P100",
+        "P500",
+        "P1000"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "10 avos",
+        "50 avos",
+        "P1",
+        "P2",
+        "P5"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "MO"
+    ]
+  },
+  "MRU": {
+    "name": "Mauritanian Ouguiya",
+    "name_native": "أوقية موريتانية",
+    "name_plural": "Mauritanian Ouguiyas",
+    "name_plural_native": "أوقية موريتانية",
+    "iso": {
+      "code": "MRU",
+      "number": "929"
+    },
+    "symbol": "MRU",
+    "symbol_native": "UM",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "ouguiya",
+        "symbol": "UM"
+      },
+      "minor": {
+        "name": "khoums",
+        "symbol": "",
+        "majorValue": 0.2
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "UM50",
+        "UM100",
+        "UM200",
+        "UM500",
+        "UM1000"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "UM1",
+        "UM2",
+        "UM5",
+        "UM10",
+        "UM20"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "MR"
+    ]
+  },
+  "MUR": {
+    "name": "Mauritian Rupee",
+    "name_native": "Roupie mauricienne",
+    "name_plural": "Mauritian Rupees",
+    "name_plural_native": "Roupies mauriciennes",
+    "iso": {
+      "code": "MUR",
+      "number": "480"
+    },
+    "symbol": "MUR",
+    "symbol_native": "₨",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "rupee",
+        "symbol": "₨"
+      },
+      "minor": {
+        "name": "cent",
+        "symbol": "",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "₨25",
+        "₨50",
+        "₨100",
+        "₨200",
+        "₨500",
+        "₨1000",
+        "₨2000"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "₨1",
+        "₨5",
+        "₨10",
+        "₨20"
+      ],
+      "rare": [
+        "5 cents",
+        "20 cents",
+        "50 cents"
+      ]
+    },
+    "countries": [
+      "MU"
+    ]
+  },
+  "MVR": {
+    "name": "Maldivian Rufiyaa",
+    "name_native": "ރުފިޔާ",
+    "name_plural": "Maldivian Rufiyaas",
+    "name_plural_native": "ރުފިޔާ",
+    "iso": {
+      "code": "MVR",
+      "number": "462"
+    },
+    "symbol": "MVR",
+    "symbol_native": ".ރ",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "rufiyaa",
+        "symbol": ".ރ"
+      },
+      "minor": {
+        "name": "laari",
+        "symbol": "",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        ".ރ10",
+        ".ރ20",
+        ".ރ50",
+        ".ރ100",
+        ".ރ500",
+        ".ރ1000"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "1 laari",
+        "2 laari",
+        "5 laari",
+        "10 laari",
+        "25 laari",
+        "50 laari",
+        ".ރ1",
+        ".ރ2"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "MV"
+    ]
+  },
+  "MWK": {
+    "name": "Malawian Kwacha",
+    "name_native": "Kwacha",
+    "name_plural": "Malawian Kwachas",
+    "name_plural_native": "Kwacha",
+    "iso": {
+      "code": "MWK",
+      "number": "454"
+    },
+    "symbol": "MWK",
+    "symbol_native": "MK",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "kwacha",
+        "symbol": "MK"
+      },
+      "minor": {
+        "name": "tambala",
+        "symbol": "",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "MK20",
+        "MK50",
+        "MK100",
+        "MK200",
+        "MK500",
+        "MK1000",
+        "MK2000",
+        "MK5000"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "MK1",
+        "MK2",
+        "MK5",
+        "MK10"
+      ],
+      "rare": [
+        "1 tambala",
+        "2 tambala",
+        "5 tambala",
+        "10 tambala",
+        "20 tambala",
+        "50 tambala"
+      ]
+    },
+    "countries": [
+      "MW"
+    ]
+  },
+  "MXN": {
+    "name": "Mexican Peso",
+    "name_native": "Peso mexicano",
+    "name_plural": "Mexican Pesos",
+    "name_plural_native": "Pesos mexicanos",
+    "iso": {
+      "code": "MXN",
+      "number": "484"
+    },
+    "symbol": "MXN",
+    "symbol_native": "$",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "peso",
+        "symbol": "$"
+      },
+      "minor": {
+        "name": "centavo",
+        "symbol": "¢",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "$20",
+        "$50",
+        "$100",
+        "$200",
+        "$500"
+      ],
+      "rare": [
+        "$1000"
+      ]
+    },
+    "coins": {
+      "frequent": [
+        "$1",
+        "$2",
+        "$5",
+        "$10",
+        "10¢",
+        "20¢",
+        "50¢"
+      ],
+      "rare": [
+        "5¢"
+      ]
+    },
+    "countries": [
+      "MX"
+    ]
+  },
+  "MYR": {
+    "name": "Malaysian Ringgit",
+    "name_native": "Ringgit Malaysia",
+    "name_plural": "Malaysian Ringgits",
+    "name_plural_native": "Ringgit Malaysia",
+    "iso": {
+      "code": "MYR",
+      "number": "458"
+    },
+    "symbol": "MYR",
+    "symbol_native": "RM",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "ringgit",
+        "symbol": "RM"
+      },
+      "minor": {
+        "name": "sen",
+        "symbol": "",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "RM1",
+        "RM5",
+        "RM10",
+        "RM20",
+        "RM50",
+        "RM100"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "5 sen",
+        "10 sen",
+        "20 sen",
+        "50 sen"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "MY"
+    ]
+  },
+  "MZN": {
+    "name": "Mozambican Metical",
+    "name_native": "Metical",
+    "name_plural": "Mozambican Meticais",
+    "name_plural_native": "Meticais",
+    "iso": {
+      "code": "MZN",
+      "number": "943"
+    },
+    "symbol": "MZN",
+    "symbol_native": "MT",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "metical",
+        "symbol": "MT"
+      },
+      "minor": {
+        "name": "centavo",
+        "symbol": "",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "MT20",
+        "MT50",
+        "MT100",
+        "MT200",
+        "MT500",
+        "MT1000"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "MT1",
+        "MT2",
+        "MT5",
+        "MT10"
+      ],
+      "rare": [
+        "1 centavo",
+        "5 centavos",
+        "10 centavos",
+        "20 centavos",
+        "50 centavos"
+      ]
+    },
+    "countries": [
+      "MZ"
+    ]
+  },
+  "NAD": {
+    "name": "Namibian Dollar",
+    "name_native": "Namibian Dollar",
+    "name_plural": "Namibian Dollars",
+    "name_plural_native": "Namibian Dollars",
+    "iso": {
+      "code": "NAD",
+      "number": "516"
+    },
+    "symbol": "NAD",
+    "symbol_native": "$",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "dollar",
+        "symbol": "$"
+      },
+      "minor": {
+        "name": "cent",
+        "symbol": "c",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "$10",
+        "$20",
+        "$50",
+        "$100",
+        "$200"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "$1",
+        "$5",
+        "$10",
+        "10c",
+        "50c"
+      ],
+      "rare": [
+        "5c"
+      ]
+    },
+    "countries": [
+      "NA"
+    ]
+  },
+  "NGN": {
+    "name": "Nigerian Naira",
+    "name_native": "Naira",
+    "name_plural": "Nigerian Nairas",
+    "name_plural_native": "Naira",
+    "iso": {
+      "code": "NGN",
+      "number": "566"
+    },
+    "symbol": "NGN",
+    "symbol_native": "₦",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "naira",
+        "symbol": "₦"
+      },
+      "minor": {
+        "name": "kobo",
+        "symbol": "",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "₦5",
+        "₦10",
+        "₦20",
+        "₦50",
+        "₦100",
+        "₦200",
+        "₦500",
+        "₦1000"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "50 kobo",
+        "₦1",
+        "₦2"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "NG"
+    ]
+  },
+  "NIO": {
+    "name": "Nicaraguan Córdoba",
+    "name_native": "Córdoba",
+    "name_plural": "Nicaraguan Córdobas",
+    "name_plural_native": "Córdobas",
+    "iso": {
+      "code": "NIO",
+      "number": "558"
+    },
+    "symbol": "NIO",
+    "symbol_native": "C$",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "córdoba",
+        "symbol": "C$"
+      },
+      "minor": {
+        "name": "centavo",
+        "symbol": "",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "C$10",
+        "C$20",
+        "C$50",
+        "C$100",
+        "C$200",
+        "C$500"
+      ],
+      "rare": [
+        "C$1000"
+      ]
+    },
+    "coins": {
+      "frequent": [
+        "5 centavos",
+        "10 centavos",
+        "25 centavos",
+        "50 centavos",
+        "C$1",
+        "C$5",
+        "C$10"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "NI"
+    ]
+  },
+  "NOK": {
+    "name": "Norwegian Krone",
+    "name_native": "Norsk krone",
+    "name_plural": "Norwegian Kroner",
+    "name_plural_native": "Norske kroner",
+    "iso": {
+      "code": "NOK",
+      "number": "578"
+    },
+    "symbol": "NOK",
+    "symbol_native": "kr",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "krone",
+        "symbol": "kr"
+      },
+      "minor": {
+        "name": "øre",
+        "symbol": "",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "50 kr",
+        "100 kr",
+        "200 kr",
+        "500 kr",
+        "1000 kr"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "1 kr",
+        "5 kr",
+        "10 kr",
+        "20 kr"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "NO",
+      "SJ",
+      "BV"
+    ]
+  },
+  "NPR": {
+    "name": "Nepalese Rupee",
+    "name_native": "रुपैयाँ",
+    "name_plural": "Nepalese Rupees",
+    "name_plural_native": "रुपैयाँ",
+    "iso": {
+      "code": "NPR",
+      "number": "524"
+    },
+    "symbol": "NPR",
+    "symbol_native": "₨",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "rupee",
+        "symbol": "₨"
+      },
+      "minor": {
+        "name": "paisa",
+        "symbol": "",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "₨5",
+        "₨10",
+        "₨20",
+        "₨50",
+        "₨100",
+        "₨500",
+        "₨1000"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "₨1",
+        "₨2",
+        "₨5",
+        "₨10"
+      ],
+      "rare": [
+        "1 paisa",
+        "5 paisa",
+        "10 paisa",
+        "25 paisa",
+        "50 paisa"
+      ]
+    },
+    "countries": [
+      "NP"
+    ]
+  },
+  "NZD": {
+    "name": "New Zealand Dollar",
+    "name_native": "New Zealand Dollar",
+    "name_plural": "New Zealand Dollars",
+    "name_plural_native": "New Zealand Dollars",
+    "iso": {
+      "code": "NZD",
+      "number": "554"
+    },
+    "symbol": "NZD",
+    "symbol_native": "$",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "dollar",
+        "symbol": "$"
+      },
+      "minor": {
+        "name": "cent",
+        "symbol": "c",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "$5",
+        "$10",
+        "$20",
+        "$50",
+        "$100"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "10c",
+        "20c",
+        "50c",
+        "$1",
+        "$2"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "NZ",
+      "CK",
+      "NU",
+      "PN",
+      "TK"
+    ]
+  },
+  "OMR": {
+    "name": "Omani Rial",
+    "name_native": "ريال عماني",
+    "name_plural": "Omani Rials",
+    "name_plural_native": "ريالات عمانية",
+    "iso": {
+      "code": "OMR",
+      "number": "512"
+    },
+    "symbol": "OMR",
+    "symbol_native": "ر.ع.",
+    "decimal_digits": 3,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "rial",
+        "symbol": "ر.ع."
+      },
+      "minor": {
+        "name": "baisa",
+        "symbol": "",
+        "majorValue": 0.001
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "100 baisa",
+        "0.5 ر.ع.",
+        "1 ر.ع.",
+        "5 ر.ع.",
+        "10 ر.ع.",
+        "20 ر.ع.",
+        "50 ر.ع."
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "5 baisa",
+        "10 baisa",
+        "25 baisa",
+        "50 baisa"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "OM"
+    ]
+  },
+  "PAB": {
+    "name": "Panamanian Balboa",
+    "name_native": "Balboa",
+    "name_plural": "Panamanian Balboas",
+    "name_plural_native": "Balboas",
+    "iso": {
+      "code": "PAB",
+      "number": "590"
+    },
+    "symbol": "PAB",
+    "symbol_native": "B/.",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "balboa",
+        "symbol": "B/."
+      },
+      "minor": {
+        "name": "centésimo",
+        "symbol": "",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "1 centésimo",
+        "5 centésimos",
+        "10 centésimos",
+        "25 centésimos",
+        "50 centésimos",
+        "B/.1"
+      ],
+      "rare": [
+        "B/.2",
+        "B/.5"
+      ]
+    },
+    "countries": [
+      "PA"
+    ]
+  },
+  "PEN": {
+    "name": "Peruvian Sol",
+    "name_native": "Sol",
+    "name_plural": "Peruvian Soles",
+    "name_plural_native": "Soles",
+    "iso": {
+      "code": "PEN",
+      "number": "604"
+    },
+    "symbol": "PEN",
+    "symbol_native": "S/",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "sol",
+        "symbol": "S/"
+      },
+      "minor": {
+        "name": "céntimo",
+        "symbol": "",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "S/10",
+        "S/20",
+        "S/50",
+        "S/100",
+        "S/200"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "5 céntimos",
+        "10 céntimos",
+        "20 céntimos",
+        "50 céntimos",
+        "S/1",
+        "S/2",
+        "S/5"
+      ],
+      "rare": [
+        "1 céntimo"
+      ]
+    },
+    "countries": [
+      "PE"
+    ]
+  },
+  "PGK": {
+    "name": "Papua New Guinean Kina",
+    "name_native": "Kina",
+    "name_plural": "Papua New Guinean Kina",
+    "name_plural_native": "Kina",
+    "iso": {
+      "code": "PGK",
+      "number": "598"
+    },
+    "symbol": "PGK",
+    "symbol_native": "K",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "kina",
+        "symbol": "K"
+      },
+      "minor": {
+        "name": "toea",
+        "symbol": "",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "K2",
+        "K5",
+        "K10",
+        "K20",
+        "K50",
+        "K100"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "5 toea",
+        "10 toea",
+        "20 toea",
+        "50 toea",
+        "K1",
+        "K2"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "PG"
+    ]
+  },
+  "PHP": {
+    "name": "Philippine Peso",
+    "name_native": "Piso",
+    "name_plural": "Philippine Pesos",
+    "name_plural_native": "Piso",
+    "iso": {
+      "code": "PHP",
+      "number": "608"
+    },
+    "symbol": "PHP",
+    "symbol_native": "₱",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "peso",
+        "symbol": "₱"
+      },
+      "minor": {
+        "name": "centavo",
+        "symbol": "",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "₱20",
+        "₱50",
+        "₱100",
+        "₱500",
+        "₱1000"
+      ],
+      "rare": [
+        "₱200"
+      ]
+    },
+    "coins": {
+      "frequent": [
+        "25 centavos",
+        "₱1",
+        "₱5",
+        "₱10"
+      ],
+      "rare": [
+        "1 centavo",
+        "5 centavos"
+      ]
+    },
+    "countries": [
+      "PH"
+    ]
+  },
+  "PKR": {
+    "name": "Pakistani Rupee",
+    "name_native": "روپیہ",
+    "name_plural": "Pakistani Rupees",
+    "name_plural_native": "روپے",
+    "iso": {
+      "code": "PKR",
+      "number": "586"
+    },
+    "symbol": "PKR",
+    "symbol_native": "₨",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "rupee",
+        "symbol": "₨"
+      },
+      "minor": {
+        "name": "paisa",
+        "symbol": "",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "₨10",
+        "₨20",
+        "₨50",
+        "₨100",
+        "₨500",
+        "₨1000"
+      ],
+      "rare": [
+        "₨5000"
+      ]
+    },
+    "coins": {
+      "frequent": [
+        "₨1",
+        "₨2",
+        "₨5",
+        "₨10"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "PK"
+    ]
+  },
+  "PLN": {
+    "name": "Polish Złoty",
+    "name_native": "Złoty",
+    "name_plural": "Polish Złotys",
+    "name_plural_native": "Złote",
+    "iso": {
+      "code": "PLN",
+      "number": "985"
+    },
+    "symbol": "PLN",
+    "symbol_native": "zł",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "złoty",
+        "symbol": "zł"
+      },
+      "minor": {
+        "name": "grosz",
+        "symbol": "gr",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "10 zł",
+        "20 zł",
+        "50 zł",
+        "100 zł",
+        "200 zł",
+        "500 zł"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "1 gr",
+        "2 gr",
+        "5 gr",
+        "10 gr",
+        "20 gr",
+        "50 gr",
+        "1 zł",
+        "2 zł",
+        "5 zł"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "PL"
+    ]
+  },
+  "PYG": {
+    "name": "Paraguayan Guarani",
+    "name_native": "Guaraní",
+    "name_plural": "Paraguayan Guaranis",
+    "name_plural_native": "Guaraníes",
+    "iso": {
+      "code": "PYG",
+      "number": "600"
+    },
+    "symbol": "PYG",
+    "symbol_native": "₲",
+    "decimal_digits": 0,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "guarani",
+        "symbol": "₲"
+      },
+      "minor": {
+        "name": "",
+        "symbol": "",
+        "majorValue": 0
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "₲2000",
+        "₲5000",
+        "₲10000",
+        "₲20000",
+        "₲50000",
+        "₲100000"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "₲50",
+        "₲100",
+        "₲500",
+        "₲1000"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "PY"
+    ]
+  },
+  "QAR": {
+    "name": "Qatari Riyal",
+    "name_native": "ريال قطري",
+    "name_plural": "Qatari Riyals",
+    "name_plural_native": "ريالات قطرية",
+    "iso": {
+      "code": "QAR",
+      "number": "634"
+    },
+    "symbol": "QAR",
+    "symbol_native": "ر.ق",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "riyal",
+        "symbol": "ر.ق"
+      },
+      "minor": {
+        "name": "dirham",
+        "symbol": "",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "ر.ق1",
+        "ر.ق5",
+        "ر.ق10",
+        "ر.ق50",
+        "ر.ق100",
+        "ر.ق500"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "25 dirham",
+        "50 dirham"
+      ],
+      "rare": [
+        "1 dirham",
+        "5 dirham",
+        "10 dirham"
+      ]
+    },
+    "countries": [
+      "QA"
+    ]
+  },
+  "RON": {
+    "name": "Romanian Leu",
+    "name_native": "Leu românesc",
+    "name_plural": "Romanian Lei",
+    "name_plural_native": "Lei românești",
+    "iso": {
+      "code": "RON",
+      "number": "946"
+    },
+    "symbol": "RON",
+    "symbol_native": "lei",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "leu",
+        "symbol": "lei"
+      },
+      "minor": {
+        "name": "ban",
+        "symbol": "",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "1 lei",
+        "5 lei",
+        "10 lei",
+        "50 lei",
+        "100 lei",
+        "200 lei"
+      ],
+      "rare": [
+        "500 lei"
+      ]
+    },
+    "coins": {
+      "frequent": [
+        "1 ban",
+        "5 bani",
+        "10 bani",
+        "50 bani"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "RO"
+    ]
+  },
+  "RSD": {
+    "name": "Serbian Dinar",
+    "name_native": "Динар",
+    "name_plural": "Serbian Dinars",
+    "name_plural_native": "Динара",
+    "iso": {
+      "code": "RSD",
+      "number": "941"
+    },
+    "symbol": "RSD",
+    "symbol_native": "дин",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "dinar",
+        "symbol": "дин"
+      },
+      "minor": {
+        "name": "para",
+        "symbol": "",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "10 дин",
+        "20 дин",
+        "50 дин",
+        "100 дин",
+        "200 дин",
+        "500 дин",
+        "1000 дин",
+        "2000 дин"
+      ],
+      "rare": [
+        "5000 дин"
+      ]
+    },
+    "coins": {
+      "frequent": [
+        "1 дин",
+        "2 дин",
+        "5 дин",
+        "10 дин",
+        "20 дин"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "RS"
+    ]
+  },
+  "RUB": {
+    "name": "Russian Rubles",
+    "name_native": "Рубль",
+    "name_plural": "Russian Rubles",
+    "name_plural_native": "Рубли",
+    "iso": {
+      "code": "RUB",
+      "number": "643"
+    },
+    "symbol": "RUB",
+    "symbol_native": "₽",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "ruble",
+        "symbol": "₽"
+      },
+      "minor": {
+        "name": "kopek",
+        "symbol": "к",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "₽50",
+        "₽100",
+        "₽200",
+        "₽500",
+        "₽1000",
+        "₽2000",
+        "₽5000"
+      ],
+      "rare": [
+        "₽10"
+      ]
+    },
+    "coins": {
+      "frequent": [
+        "1 к",
+        "5 к",
+        "10 к",
+        "50 к",
+        "₽1",
+        "₽2",
+        "₽5",
+        "₽10"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "RU"
+    ]
+  },
+  "RWF": {
+    "name": "Rwandan Franc",
+    "name_native": "Ifaranga",
+    "name_plural": "Rwandan Francs",
+    "name_plural_native": "Amafaranga",
+    "iso": {
+      "code": "RWF",
+      "number": "646"
+    },
+    "symbol": "RWF",
+    "symbol_native": "FRw",
+    "decimal_digits": 0,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "franc",
+        "symbol": "FRw"
+      },
+      "minor": {
+        "name": "centime",
+        "symbol": "",
+        "majorValue": 0
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "FRw500",
+        "FRw1000",
+        "FRw2000",
+        "FRw5000"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "FRw1",
+        "FRw5",
+        "FRw10",
+        "FRw20",
+        "FRw50",
+        "FRw100"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "RW"
+    ]
+  },
+  "SAR": {
+    "name": "Saudi Riyal",
+    "name_native": "ريال سعودي",
+    "name_plural": "Saudi Riyals",
+    "name_plural_native": "ريالات سعودية",
+    "iso": {
+      "code": "SAR",
+      "number": "682"
+    },
+    "symbol": "SAR",
+    "symbol_native": "ر.س",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "riyal",
+        "symbol": "ر.س"
+      },
+      "minor": {
+        "name": "halala",
+        "symbol": "",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "ر.س1",
+        "ر.س5",
+        "ر.س10",
+        "ر.س20",
+        "ر.س50",
+        "ر.س100",
+        "ر.س200",
+        "ر.س500"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "5 halala",
+        "10 halala",
+        "25 halala",
+        "50 halala",
+        "ر.س1",
+        "ر.س2"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "SA"
+    ]
+  },
+  "SBD": {
+    "name": "Solomon Islands Dollar",
+    "name_native": "Solomon Islands Dollar",
+    "name_plural": "Solomon Islands Dollars",
+    "name_plural_native": "Solomon Islands Dollars",
+    "iso": {
+      "code": "SBD",
+      "number": "090"
+    },
+    "symbol": "SBD",
+    "symbol_native": "$",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "dollar",
+        "symbol": "$"
+      },
+      "minor": {
+        "name": "cent",
+        "symbol": "",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "$5",
+        "$10",
+        "$20",
+        "$50",
+        "$100"
+      ],
+      "rare": [
+        "$2"
+      ]
+    },
+    "coins": {
+      "frequent": [
+        "10 cents",
+        "20 cents",
+        "50 cents",
+        "$1",
+        "$2"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "SB"
+    ]
+  },
+  "SCR": {
+    "name": "Seychellois Rupee",
+    "name_native": "Roupie seychelloise",
+    "name_plural": "Seychellois Rupees",
+    "name_plural_native": "Roupies seychelloises",
+    "iso": {
+      "code": "SCR",
+      "number": "690"
+    },
+    "symbol": "SCR",
+    "symbol_native": "₨",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "rupee",
+        "symbol": "₨"
+      },
+      "minor": {
+        "name": "cent",
+        "symbol": "",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "₨25",
+        "₨50",
+        "₨100",
+        "₨500"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "1 cent",
+        "5 cents",
+        "10 cents",
+        "25 cents",
+        "₨1",
+        "₨5",
+        "₨10"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "SC"
+    ]
+  },
+  "SDG": {
+    "name": "Sudanese Pound",
+    "name_native": "جنيه سوداني",
+    "name_plural": "Sudanese Pounds",
+    "name_plural_native": "جنيهات سودانية",
+    "iso": {
+      "code": "SDG",
+      "number": "938"
+    },
+    "symbol": "SDG",
+    "symbol_native": "ج.س.",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "pound",
+        "symbol": "ج.س."
+      },
+      "minor": {
+        "name": "piastre",
+        "symbol": "",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "ج.س.1",
+        "ج.س.2",
+        "ج.س.5",
+        "ج.س.10",
+        "ج.س.20",
+        "ج.س.50",
+        "ج.س.100",
+        "ج.س.200",
+        "ج.س.500"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "1 piastre",
+        "5 piastres",
+        "10 piastres",
+        "20 piastres",
+        "50 piastres"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "SD"
+    ]
+  },
+  "SEK": {
+    "name": "Swedish Krona",
+    "name_native": "Svensk krona",
+    "name_plural": "Swedish Kronor",
+    "name_plural_native": "Svenska kronor",
+    "iso": {
+      "code": "SEK",
+      "number": "752"
+    },
+    "symbol": "SEK",
+    "symbol_native": "kr",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "krona",
+        "symbol": "kr"
+      },
+      "minor": {
+        "name": "öre",
+        "symbol": "",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "20 kr",
+        "50 kr",
+        "100 kr",
+        "200 kr",
+        "500 kr"
+      ],
+      "rare": [
+        "1000 kr"
+      ]
+    },
+    "coins": {
+      "frequent": [
+        "1 kr",
+        "2 kr",
+        "5 kr",
+        "10 kr"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "SE"
+    ]
+  },
+  "SGD": {
+    "name": "Singapore Dollar",
+    "name_native": "Singapore Dollar",
+    "name_plural": "Singapore Dollars",
+    "name_plural_native": "Singapore Dollars",
+    "iso": {
+      "code": "SGD",
+      "number": "702"
+    },
+    "symbol": "SGD",
+    "symbol_native": "$",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "dollar",
+        "symbol": "$"
+      },
+      "minor": {
+        "name": "cent",
+        "symbol": "",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "$2",
+        "$5",
+        "$10",
+        "$50",
+        "$100"
+      ],
+      "rare": [
+        "$1000",
+        "$10000"
+      ]
+    },
+    "coins": {
+      "frequent": [
+        "5 cents",
+        "10 cents",
+        "20 cents",
+        "50 cents",
+        "$1"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "SG"
+    ]
+  },
+  "SHP": {
+    "name": "Saint Helena Pound",
+    "name_native": "Saint Helena Pound",
+    "name_plural": "Saint Helena Pounds",
+    "name_plural_native": "Saint Helena Pounds",
+    "iso": {
+      "code": "SHP",
+      "number": "654"
+    },
+    "symbol": "SHP",
+    "symbol_native": "£",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "pound",
+        "symbol": "£"
+      },
+      "minor": {
+        "name": "penny",
+        "symbol": "p",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "£5",
+        "£10",
+        "£20"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "1p",
+        "2p",
+        "5p",
+        "10p",
+        "20p",
+        "50p",
+        "£1",
+        "£2"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "SH"
+    ]
+  },
+  "SLL": {
+    "name": "Sierra Leonean Leone",
+    "name_native": "Leone",
+    "name_plural": "Sierra Leonean Leones",
+    "name_plural_native": "Leones",
+    "iso": {
+      "code": "SLL",
+      "number": "694"
+    },
+    "symbol": "SLL",
+    "symbol_native": "Le",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "leone",
+        "symbol": "Le"
+      },
+      "minor": {
+        "name": "cent",
+        "symbol": "",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "Le1000",
+        "Le2000",
+        "Le5000",
+        "Le10000",
+        "Le20000"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "Le10",
+        "Le50",
+        "Le100",
+        "Le500"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "SL"
+    ]
+  },
+  "SOS": {
+    "name": "Somali Shilling",
+    "name_native": "Shilin Soomaali",
+    "name_plural": "Somali Shillings",
+    "name_plural_native": "Shilin Soomaali",
+    "iso": {
+      "code": "SOS",
+      "number": "706"
+    },
+    "symbol": "SOS",
+    "symbol_native": "Sh.So.",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "shilling",
+        "symbol": "Sh.So."
+      },
+      "minor": {
+        "name": "senti",
+        "symbol": "",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "Sh.So.500",
+        "Sh.So.1000"
+      ],
+      "rare": [
+        "Sh.So.10",
+        "Sh.So.20",
+        "Sh.So.50",
+        "Sh.So.100"
+      ]
+    },
+    "coins": {
+      "frequent": [
+        "Sh.So.1",
+        "Sh.So.5",
+        "Sh.So.10",
+        "Sh.So.25"
+      ],
+      "rare": [
+        "1 senti",
+        "5 senti",
+        "10 senti"
+      ]
+    },
+    "countries": [
+      "SO"
+    ]
+  },
+  "SRD": {
+    "name": "Surinamese Dollar",
+    "name_native": "Surinaamse dollar",
+    "name_plural": "Surinamese Dollars",
+    "name_plural_native": "Surinaamse dollars",
+    "iso": {
+      "code": "SRD",
+      "number": "968"
+    },
+    "symbol": "SRD",
+    "symbol_native": "$",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "dollar",
+        "symbol": "$"
+      },
+      "minor": {
+        "name": "cent",
+        "symbol": "",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "$5",
+        "$10",
+        "$20",
+        "$50",
+        "$100"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "1 cent",
+        "5 cents",
+        "10 cents",
+        "25 cents",
+        "50 cents",
+        "$1"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "SR"
+    ]
+  },
+  "SSP": {
+    "name": "South Sudanese Pound",
+    "name_native": "South Sudanese Pound",
+    "name_plural": "South Sudanese Pounds",
+    "name_plural_native": "South Sudanese Pounds",
+    "iso": {
+      "code": "SSP",
+      "number": "728"
+    },
+    "symbol": "SSP",
+    "symbol_native": "£",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "pound",
+        "symbol": "£"
+      },
+      "minor": {
+        "name": "piastre",
+        "symbol": "",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "£5",
+        "£10",
+        "£20",
+        "£50",
+        "£100",
+        "£500",
+        "£1000"
+      ],
+      "rare": [
+        "£1"
+      ]
+    },
+    "coins": {
+      "frequent": [
+        "10 piastres",
+        "20 piastres",
+        "50 piastres",
+        "£1",
+        "£2"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "SS"
+    ]
+  },
+  "STN": {
+    "name": "São Tomé and Príncipe Dobra",
+    "name_native": "Dobra",
+    "name_plural": "São Tomé and Príncipe Dobras",
+    "name_plural_native": "Dobras",
+    "iso": {
+      "code": "STN",
+      "number": "930"
+    },
+    "symbol": "STN",
+    "symbol_native": "Db",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "dobra",
+        "symbol": "Db"
+      },
+      "minor": {
+        "name": "cêntimo",
+        "symbol": "",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "Db5",
+        "Db10",
+        "Db20",
+        "Db50",
+        "Db100",
+        "Db200"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "10 cêntimos",
+        "20 cêntimos",
+        "50 cêntimos",
+        "Db1",
+        "Db2"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "ST"
+    ]
+  },
+  "SYP": {
+    "name": "Syrian Pound",
+    "name_native": "ليرة سورية",
+    "name_plural": "Syrian Pounds",
+    "name_plural_native": "ليرات سورية",
+    "iso": {
+      "code": "SYP",
+      "number": "760"
+    },
+    "symbol": "SYP",
+    "symbol_native": "ل.س",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "pound",
+        "symbol": "ل.س"
+      },
+      "minor": {
+        "name": "piastre",
+        "symbol": "",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "ل.س50",
+        "ل.س100",
+        "ل.س200",
+        "ل.س500",
+        "ل.س1000",
+        "ل.س2000",
+        "ل.س5000"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "ل.س1",
+        "ل.س2",
+        "ل.س5",
+        "ل.س10",
+        "ل.س25"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "SY"
+    ]
+  },
+  "SZL": {
+    "name": "Swazi Lilangeni",
+    "name_native": "Lilangeni",
+    "name_plural": "Swazi Emalangeni",
+    "name_plural_native": "Emalangeni",
+    "iso": {
+      "code": "SZL",
+      "number": "748"
+    },
+    "symbol": "SZL",
+    "symbol_native": "E",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "lilangeni",
+        "symbol": "E"
+      },
+      "minor": {
+        "name": "cent",
+        "symbol": "c",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "E10",
+        "E20",
+        "E50",
+        "E100",
+        "E200"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "10c",
+        "20c",
+        "50c",
+        "E1",
+        "E2",
+        "E5"
+      ],
+      "rare": [
+        "1c",
+        "2c",
+        "5c"
+      ]
+    },
+    "countries": [
+      "SZ"
+    ]
+  },
+  "THB": {
+    "name": "Thai Baht",
+    "name_native": "บาท",
+    "name_plural": "Thai Baht",
+    "name_plural_native": "บาท",
+    "iso": {
+      "code": "THB",
+      "number": "764"
+    },
+    "symbol": "THB",
+    "symbol_native": "฿",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "baht",
+        "symbol": "฿"
+      },
+      "minor": {
+        "name": "satang",
+        "symbol": "",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "฿20",
+        "฿50",
+        "฿100",
+        "฿500",
+        "฿1000"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "25 satang",
+        "50 satang",
+        "฿1",
+        "฿2",
+        "฿5",
+        "฿10"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "TH"
+    ]
+  },
+  "TJS": {
+    "name": "Tajikistani Somoni",
+    "name_native": "Сомонӣ",
+    "name_plural": "Tajikistani Somoni",
+    "name_plural_native": "Сомонӣ",
+    "iso": {
+      "code": "TJS",
+      "number": "972"
+    },
+    "symbol": "TJS",
+    "symbol_native": "SM",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "somoni",
+        "symbol": "SM"
+      },
+      "minor": {
+        "name": "diram",
+        "symbol": "",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "SM1",
+        "SM3",
+        "SM5",
+        "SM10",
+        "SM20",
+        "SM50",
+        "SM100"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "5 diram",
+        "10 diram",
+        "20 diram",
+        "25 diram",
+        "50 diram",
+        "SM1",
+        "SM3",
+        "SM5"
+      ],
+      "rare": [
+        "1 diram",
+        "2 diram"
+      ]
+    },
+    "countries": [
+      "TJ"
+    ]
+  },
+  "TMT": {
+    "name": "Turkmenistani Manat",
+    "name_native": "Manat",
+    "name_plural": "Turkmenistani Manat",
+    "name_plural_native": "Manat",
+    "iso": {
+      "code": "TMT",
+      "number": "934"
+    },
+    "symbol": "TMT",
+    "symbol_native": "m",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "manat",
+        "symbol": "m"
+      },
+      "minor": {
+        "name": "tenge",
+        "symbol": "",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "1 m",
+        "5 m",
+        "10 m",
+        "20 m",
+        "50 m",
+        "100 m"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "1 tenge",
+        "2 tenge",
+        "5 tenge",
+        "10 tenge",
+        "20 tenge",
+        "50 tenge",
+        "1 m",
+        "2 m"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "TM"
+    ]
+  },
+  "TND": {
+    "name": "Tunisian Dinar",
+    "name_native": "دينار تونسي",
+    "name_plural": "Tunisian Dinars",
+    "name_plural_native": "دينارات تونسية",
+    "iso": {
+      "code": "TND",
+      "number": "788"
+    },
+    "symbol": "TND",
+    "symbol_native": "د.ت",
+    "decimal_digits": 3,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "dinar",
+        "symbol": "د.ت"
+      },
+      "minor": {
+        "name": "millime",
+        "symbol": "",
+        "majorValue": 0.001
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "د.ت5",
+        "د.ت10",
+        "د.ت20",
+        "د.ت50"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "10 millime",
+        "20 millime",
+        "50 millime",
+        "100 millime",
+        "200 millime",
+        "د.ت0.5",
+        "د.ت1",
+        "د.ت2",
+        "د.ت5"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "TN"
+    ]
+  },
+  "TOP": {
+    "name": "Tongan Paʻanga",
+    "name_native": "Paʻanga",
+    "name_plural": "Tongan Paʻanga",
+    "name_plural_native": "Paʻanga",
+    "iso": {
+      "code": "TOP",
+      "number": "776"
+    },
+    "symbol": "TOP",
+    "symbol_native": "T$",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "paʻanga",
+        "symbol": "T$"
+      },
+      "minor": {
+        "name": "seniti",
+        "symbol": "",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "T$1",
+        "T$2",
+        "T$5",
+        "T$10",
+        "T$20",
+        "T$50",
+        "T$100"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "5 seniti",
+        "10 seniti",
+        "20 seniti",
+        "50 seniti"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "TO"
+    ]
+  },
+  "TRY": {
+    "name": "Turkish Lira",
+    "name_native": "Türk Lirası",
+    "name_plural": "Turkish Lira",
+    "name_plural_native": "Türk Lirası",
+    "iso": {
+      "code": "TRY",
+      "number": "949"
+    },
+    "symbol": "TRY",
+    "symbol_native": "₺",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "lira",
+        "symbol": "₺"
+      },
+      "minor": {
+        "name": "kuruş",
+        "symbol": "kr",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "₺5",
+        "₺10",
+        "₺20",
+        "₺50",
+        "₺100",
+        "₺200"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "1 kr",
+        "5 kr",
+        "10 kr",
+        "25 kr",
+        "50 kr",
+        "₺1"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "TR"
+    ]
+  },
+  "TTD": {
+    "name": "Trinidad and Tobago Dollar",
+    "name_native": "Trinidad and Tobago Dollar",
+    "name_plural": "Trinidad and Tobago Dollars",
+    "name_plural_native": "Trinidad and Tobago Dollars",
+    "iso": {
+      "code": "TTD",
+      "number": "780"
+    },
+    "symbol": "TTD",
+    "symbol_native": "$",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "dollar",
+        "symbol": "$"
+      },
+      "minor": {
+        "name": "cent",
+        "symbol": "¢",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "$1",
+        "$5",
+        "$10",
+        "$20",
+        "$50",
+        "$100"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "5¢",
+        "10¢",
+        "25¢"
+      ],
+      "rare": [
+        "1¢"
+      ]
+    },
+    "countries": [
+      "TT"
+    ]
+  },
+  "TWD": {
+    "name": "New Taiwan Dollar",
+    "name_native": "新臺幣",
+    "name_plural": "New Taiwan Dollars",
+    "name_plural_native": "新臺幣",
+    "iso": {
+      "code": "TWD",
+      "number": "901"
+    },
+    "symbol": "TWD",
+    "symbol_native": "NT$",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "dollar",
+        "symbol": "NT$"
+      },
+      "minor": {
+        "name": "cent",
+        "symbol": "",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "NT$100",
+        "NT$500",
+        "NT$1000"
+      ],
+      "rare": [
+        "NT$200",
+        "NT$2000"
+      ]
+    },
+    "coins": {
+      "frequent": [
+        "NT$1",
+        "NT$5",
+        "NT$10",
+        "NT$50"
+      ],
+      "rare": [
+        "NT$20"
+      ]
+    },
+    "countries": [
+      "TW"
+    ]
+  },
+  "TZS": {
+    "name": "Tanzanian Shilling",
+    "name_native": "Shilingi",
+    "name_plural": "Tanzanian Shillings",
+    "name_plural_native": "Shilingi",
+    "iso": {
+      "code": "TZS",
+      "number": "834"
+    },
+    "symbol": "TZS",
+    "symbol_native": "TSh",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "shilling",
+        "symbol": "TSh"
+      },
+      "minor": {
+        "name": "cent",
+        "symbol": "",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "TSh500",
+        "TSh1000",
+        "TSh2000",
+        "TSh5000",
+        "TSh10000"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "TSh50",
+        "TSh100",
+        "TSh200",
+        "TSh500"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "TZ"
+    ]
+  },
+  "UAH": {
+    "name": "Ukrainian Hryvnia",
+    "name_native": "Гривня",
+    "name_plural": "Ukrainian Hryvnias",
+    "name_plural_native": "Гривні",
+    "iso": {
+      "code": "UAH",
+      "number": "980"
+    },
+    "symbol": "UAH",
+    "symbol_native": "₴",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "hryvnia",
+        "symbol": "₴"
+      },
+      "minor": {
+        "name": "kopiyka",
+        "symbol": "",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "₴1",
+        "₴2",
+        "₴5",
+        "₴10",
+        "₴20",
+        "₴50",
+        "₴100",
+        "₴200",
+        "₴500",
+        "₴1000"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "1 kopiyka",
+        "2 kopiyky",
+        "5 kopiyok",
+        "10 kopiyok",
+        "25 kopiyok",
+        "50 kopiyok",
+        "₴1",
+        "₴2",
+        "₴5",
+        "₴10"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "UA"
+    ]
+  },
+  "UGX": {
+    "name": "Ugandan Shilling",
+    "name_native": "Shilling ya Uganda",
+    "name_plural": "Ugandan Shillings",
+    "name_plural_native": "Shilling za Uganda",
+    "iso": {
+      "code": "UGX",
+      "number": "800"
+    },
+    "symbol": "UGX",
+    "symbol_native": "USh",
+    "decimal_digits": 0,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "shilling",
+        "symbol": "USh"
+      },
+      "minor": {
+        "name": "",
+        "symbol": "",
+        "majorValue": 0
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "USh1000",
+        "USh2000",
+        "USh5000",
+        "USh10000",
+        "USh20000",
+        "USh50000"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "USh100",
+        "USh200",
+        "USh500",
+        "USh1000"
+      ],
+      "rare": [
+        "USh10",
+        "USh50"
+      ]
+    },
+    "countries": [
+      "UG"
+    ]
+  },
+  "USD": {
+    "name": "United States Dollar",
+    "name_native": "US Dollar",
+    "name_plural": "United States Dollars",
+    "name_plural_native": "US Dollars",
+    "iso": {
+      "code": "USD",
+      "number": "840"
+    },
+    "symbol": "USD",
+    "symbol_native": "$",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "dollar",
+        "symbol": "$"
+      },
+      "minor": {
+        "name": "cent",
+        "symbol": "¢",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "$1",
+        "$5",
+        "$10",
+        "$20",
+        "$50",
+        "$100"
+      ],
+      "rare": [
+        "$2"
+      ]
+    },
+    "coins": {
+      "frequent": [
+        "1¢",
+        "5¢",
+        "10¢",
+        "25¢"
+      ],
+      "rare": [
+        "50¢",
+        "$1"
+      ]
+    },
+    "countries": [
+      "US",
+      "AS",
+      "GU",
+      "MP",
+      "PR",
+      "VI",
+      "UM",
+      "TL",
+      "EC",
+      "SV",
+      "PA",
+      "MH",
+      "FM",
+      "PW"
+    ]
+  },
+  "UYU": {
+    "name": "Uruguayan Peso",
+    "name_native": "Peso uruguayo",
+    "name_plural": "Uruguayan Pesos",
+    "name_plural_native": "Pesos uruguayos",
+    "iso": {
+      "code": "UYU",
+      "number": "858"
+    },
+    "symbol": "UYU",
+    "symbol_native": "$",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "peso",
+        "symbol": "$"
+      },
+      "minor": {
+        "name": "centésimo",
+        "symbol": "",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "$20",
+        "$50",
+        "$100",
+        "$200",
+        "$500",
+        "$1000",
+        "$2000"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "$1",
+        "$2",
+        "$5",
+        "$10"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "UY"
+    ]
+  },
+  "UZS": {
+    "name": "Uzbekistani Som",
+    "name_native": "Сўм",
+    "name_plural": "Uzbekistani Soms",
+    "name_plural_native": "Сўм",
+    "iso": {
+      "code": "UZS",
+      "number": "860"
+    },
+    "symbol": "UZS",
+    "symbol_native": "сум",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "som",
+        "symbol": "сум"
+      },
+      "minor": {
+        "name": "tiyin",
+        "symbol": "",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "сум1000",
+        "сум5000",
+        "сум10000",
+        "сум20000",
+        "сум50000",
+        "сум100000"
+      ],
+      "rare": [
+        "сум100",
+        "сум200",
+        "сум500"
+      ]
+    },
+    "coins": {
+      "frequent": [
+        "сум50",
+        "сум100",
+        "сум200",
+        "сум500",
+        "сум1000"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "UZ"
+    ]
+  },
+  "VES": {
+    "name": "Venezuelan Bolívar",
+    "name_native": "Bolívar",
+    "name_plural": "Venezuelan Bolívares",
+    "name_plural_native": "Bolívares",
+    "iso": {
+      "code": "VES",
+      "number": "928"
+    },
+    "symbol": "VES",
+    "symbol_native": "Bs.",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "bolívar",
+        "symbol": "Bs."
+      },
+      "minor": {
+        "name": "céntimo",
+        "symbol": "",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "Bs.5",
+        "Bs.10",
+        "Bs.20",
+        "Bs.50",
+        "Bs.100"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "Bs.1",
+        "50 céntimos"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "VE"
+    ]
+  },
+  "VND": {
+    "name": "Vietnamese Đồng",
+    "name_native": "Đồng",
+    "name_plural": "Vietnamese Đồng",
+    "name_plural_native": "Đồng",
+    "iso": {
+      "code": "VND",
+      "number": "704"
+    },
+    "symbol": "VND",
+    "symbol_native": "₫",
+    "decimal_digits": 0,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "đồng",
+        "symbol": "₫"
+      },
+      "minor": {
+        "name": "",
+        "symbol": "",
+        "majorValue": 0
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "₫1000",
+        "₫2000",
+        "₫5000",
+        "₫10000",
+        "₫20000",
+        "₫50000",
+        "₫100000",
+        "₫200000",
+        "₫500000"
+      ],
+      "rare": [
+        "₫100",
+        "₫200",
+        "₫500"
+      ]
+    },
+    "coins": {
+      "frequent": [],
+      "rare": [
+        "₫200",
+        "₫500",
+        "₫1000",
+        "₫2000",
+        "₫5000"
+      ]
+    },
+    "countries": [
+      "VN"
+    ]
+  },
+  "VUV": {
+    "name": "Vanuatu Vatu",
+    "name_native": "Vatu",
+    "name_plural": "Vanuatu Vatu",
+    "name_plural_native": "Vatu",
+    "iso": {
+      "code": "VUV",
+      "number": "548"
+    },
+    "symbol": "VUV",
+    "symbol_native": "VT",
+    "decimal_digits": 0,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "vatu",
+        "symbol": "VT"
+      },
+      "minor": {
+        "name": "",
+        "symbol": "",
+        "majorValue": 0
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "VT200",
+        "VT500",
+        "VT1000",
+        "VT2000",
+        "VT5000",
+        "VT10000"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "VT1",
+        "VT2",
+        "VT5",
+        "VT10",
+        "VT20",
+        "VT50",
+        "VT100"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "VU"
+    ]
+  },
+  "WST": {
+    "name": "Samoan Tala",
+    "name_native": "Tala",
+    "name_plural": "Samoan Tala",
+    "name_plural_native": "Tala",
+    "iso": {
+      "code": "WST",
+      "number": "882"
+    },
+    "symbol": "WST",
+    "symbol_native": "T",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "tala",
+        "symbol": "T"
+      },
+      "minor": {
+        "name": "sene",
+        "symbol": "",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "T2",
+        "T5",
+        "T10",
+        "T20",
+        "T50",
+        "T100"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "10 sene",
+        "20 sene",
+        "50 sene",
+        "T1",
+        "T2"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "WS"
+    ]
+  },
+  "XAF": {
+    "name": "Central African CFA Franc",
+    "name_native": "Franc CFA",
+    "name_plural": "Central African CFA Francs",
+    "name_plural_native": "Francs CFA",
+    "iso": {
+      "code": "XAF",
+      "number": "950"
+    },
+    "symbol": "XAF",
+    "symbol_native": "FCFA",
+    "decimal_digits": 0,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "franc",
+        "symbol": "FCFA"
+      },
+      "minor": {
+        "name": "",
+        "symbol": "",
+        "majorValue": 0
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "FCFA500",
+        "FCFA1000",
+        "FCFA2000",
+        "FCFA5000",
+        "FCFA10000"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "FCFA1",
+        "FCFA2",
+        "FCFA5",
+        "FCFA10",
+        "FCFA25",
+        "FCFA50",
+        "FCFA100",
+        "FCFA500"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "CM",
+      "CF",
+      "TD",
+      "CG",
+      "GA",
+      "GQ"
+    ]
+  },
+  "XCD": {
+    "name": "East Caribbean Dollar",
+    "name_native": "East Caribbean Dollar",
+    "name_plural": "East Caribbean Dollars",
+    "name_plural_native": "East Caribbean Dollars",
+    "iso": {
+      "code": "XCD",
+      "number": "951"
+    },
+    "symbol": "XCD",
+    "symbol_native": "$",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "dollar",
+        "symbol": "$"
+      },
+      "minor": {
+        "name": "cent",
+        "symbol": "¢",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "$5",
+        "$10",
+        "$20",
+        "$50",
+        "$100"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "5¢",
+        "10¢",
+        "25¢",
+        "$1"
+      ],
+      "rare": [
+        "1¢",
+        "2¢"
+      ]
+    },
+    "countries": [
+      "AI",
+      "AG",
+      "DM",
+      "GD",
+      "MS",
+      "KN",
+      "LC",
+      "VC"
+    ]
+  },
+  "XOF": {
+    "name": "West African CFA Franc",
+    "name_native": "Franc CFA",
+    "name_plural": "West African CFA Francs",
+    "name_plural_native": "Francs CFA",
+    "iso": {
+      "code": "XOF",
+      "number": "952"
+    },
+    "symbol": "XOF",
+    "symbol_native": "CFA",
+    "decimal_digits": 0,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "franc",
+        "symbol": "CFA"
+      },
+      "minor": {
+        "name": "",
+        "symbol": "",
+        "majorValue": 0
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "CFA500",
+        "CFA1000",
+        "CFA2000",
+        "CFA5000",
+        "CFA10000"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "CFA1",
+        "CFA5",
+        "CFA10",
+        "CFA25",
+        "CFA50",
+        "CFA100",
+        "CFA200",
+        "CFA500"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "BJ",
+      "BF",
+      "CI",
+      "GW",
+      "ML",
+      "NE",
+      "SN",
+      "TG"
+    ]
+  },
+  "XPF": {
+    "name": "CFP Franc",
+    "name_native": "Franc CFP",
+    "name_plural": "CFP Francs",
+    "name_plural_native": "Francs CFP",
+    "iso": {
+      "code": "XPF",
+      "number": "953"
+    },
+    "symbol": "XPF",
+    "symbol_native": "₣",
+    "decimal_digits": 0,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "franc",
+        "symbol": "₣"
+      },
+      "minor": {
+        "name": "",
+        "symbol": "",
+        "majorValue": 0
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "₣500",
+        "₣1000",
+        "₣5000",
+        "₣10000"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "₣1",
+        "₣2",
+        "₣5",
+        "₣10",
+        "₣20",
+        "₣50",
+        "₣100"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "PF",
+      "NC",
+      "WF"
+    ]
+  },
+  "YER": {
+    "name": "Yemeni Rial",
+    "name_native": "ريال يمني",
+    "name_plural": "Yemeni Rials",
+    "name_plural_native": "ريالات يمنية",
+    "iso": {
+      "code": "YER",
+      "number": "886"
+    },
+    "symbol": "YER",
+    "symbol_native": "﷼",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "rial",
+        "symbol": "﷼"
+      },
+      "minor": {
+        "name": "fils",
+        "symbol": "",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "﷼50",
+        "﷼100",
+        "﷼200",
+        "﷼250",
+        "﷼500",
+        "﷼1000"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "﷼1",
+        "﷼5",
+        "﷼10",
+        "﷼20"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "YE"
+    ]
+  },
+  "ZAR": {
+    "name": "South African Rand",
+    "name_native": "Rand",
+    "name_plural": "South African Rand",
+    "name_plural_native": "Rand",
+    "iso": {
+      "code": "ZAR",
+      "number": "710"
+    },
+    "symbol": "ZAR",
+    "symbol_native": "R",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "rand",
+        "symbol": "R"
+      },
+      "minor": {
+        "name": "cent",
+        "symbol": "c",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "R10",
+        "R20",
+        "R50",
+        "R100",
+        "R200"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "10c",
+        "20c",
+        "50c",
+        "R1",
+        "R2",
+        "R5"
+      ],
+      "rare": [
+        "5c"
+      ]
+    },
+    "countries": [
+      "ZA",
+      "LS",
+      "NA"
+    ]
+  },
+  "ZMW": {
+    "name": "Zambian Kwacha",
+    "name_native": "Kwacha",
+    "name_plural": "Zambian Kwachas",
+    "name_plural_native": "Kwacha",
+    "iso": {
+      "code": "ZMW",
+      "number": "967"
+    },
+    "symbol": "ZMW",
+    "symbol_native": "ZK",
+    "decimal_digits": 2,
+    "rounding": 0,
+    "units": {
+      "major": {
+        "name": "kwacha",
+        "symbol": "ZK"
+      },
+      "minor": {
+        "name": "ngwee",
+        "symbol": "",
+        "majorValue": 0.01
+      }
+    },
+    "banknotes": {
+      "frequent": [
+        "ZK2",
+        "ZK5",
+        "ZK10",
+        "ZK20",
+        "ZK50",
+        "ZK100"
+      ],
+      "rare": []
+    },
+    "coins": {
+      "frequent": [
+        "5 ngwee",
+        "10 ngwee",
+        "50 ngwee",
+        "ZK1"
+      ],
+      "rare": []
+    },
+    "countries": [
+      "ZM"
+    ]
+  }
+}

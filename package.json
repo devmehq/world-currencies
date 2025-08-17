@@ -1,0 +1,58 @@
+{
+  "name": "@devmehq/world-currencies",
+  "version": "1.0.0",
+  "description": "A comprehensive library providing currency information for all world currencies",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest",
+    "lint": "eslint src/typescript/**/*.ts",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "currency",
+    "currencies",
+    "world-currencies",
+    "iso-4217",
+    "money",
+    "finance",
+    "exchange",
+    "devme"
+  ],
+  "author": "DevMe <support@devme.com> (https://devme.com)",
+  "license": "MIT",
+  "homepage": "https://github.com/devmehq/world-currencies",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devmehq/world-currencies.git"
+  },
+  "bugs": {
+    "url": "https://github.com/devmehq/world-currencies/issues"
+  },
+  "funding": {
+    "type": "github",
+    "url": "https://github.com/sponsors/devmehq"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.0",
+    "@types/node": "^20.0.0",
+    "@typescript-eslint/eslint-plugin": "^6.0.0",
+    "@typescript-eslint/parser": "^6.0.0",
+    "eslint": "^8.0.0",
+    "jest": "^29.5.0",
+    "ts-jest": "^29.1.0",
+    "typescript": "^5.0.0"
+  },
+  "files": [
+    "dist",
+    "data/world-currencies.json"
+  ]
+}

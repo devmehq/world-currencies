@@ -1,0 +1,44 @@
+# Source files
+src/
+tests/
+*.ts
+!*.d.ts
+
+# Config files
+tsconfig.json
+.eslintrc.*
+jest.config.*
+.prettierrc*
+
+# Development files
+.github/
+.vscode/
+.idea/
+*.log
+*.tgz
+
+# Other language files
+src/php/
+src/ruby/
+src/python/
+tests/php/
+tests/ruby/
+tests/python/
+composer.json
+composer.lock
+Gemfile
+Gemfile.lock
+*.gemspec
+setup.py
+pyproject.toml
+requirements*.txt
+
+# Documentation
+docs/
+*.md
+!README.md
+
+# Git
+.git/
+.gitignore
+.gitattributes
