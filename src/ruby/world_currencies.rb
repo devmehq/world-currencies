@@ -49,7 +49,7 @@ module WorldCurrencies
       matching_currencies = []
 
       currencies.each_value do |currency|
-        if currency['symbol'] == symbol || currency['symbol_native'] == symbol
+        if currency['symbol'] == symbol || currency['symbolNative'] == symbol
           matching_currencies << currency
         end
       end
@@ -64,7 +64,7 @@ module WorldCurrencies
       matching_currencies = []
 
       currencies.each_value do |currency|
-        if currency['decimal_digits'] == digits
+        if currency['decimalDigits'] == digits
           matching_currencies << currency
         end
       end
@@ -87,9 +87,9 @@ module WorldCurrencies
 
       currencies.each_value do |currency|
         if currency['name']&.downcase&.include?(lower_search_term) ||
-           currency['name_native']&.downcase&.include?(lower_search_term) ||
-           currency['name_plural']&.downcase&.include?(lower_search_term) ||
-           currency['name_plural_native']&.downcase&.include?(lower_search_term)
+           currency['nameNative']&.downcase&.include?(lower_search_term) ||
+           currency['namePlural']&.downcase&.include?(lower_search_term) ||
+           currency['namePluralNative']&.downcase&.include?(lower_search_term)
           matching_currencies << currency
         end
       end

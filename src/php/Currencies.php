@@ -90,7 +90,7 @@ class Currencies
 
         foreach ($this->currencies as $currency) {
             if (($currency['symbol'] ?? '') === $symbol || 
-                ($currency['symbol_native'] ?? '') === $symbol) {
+                ($currency['symbolNative'] ?? '') === $symbol) {
                 $matchingCurrencies[] = $currency;
             }
         }
@@ -108,7 +108,7 @@ class Currencies
         $matchingCurrencies = [];
 
         foreach ($this->currencies as $currency) {
-            if (($currency['decimal_digits'] ?? -1) === $digits) {
+            if (($currency['decimalDigits'] ?? -1) === $digits) {
                 $matchingCurrencies[] = $currency;
             }
         }
@@ -137,9 +137,9 @@ class Currencies
 
         foreach ($this->currencies as $currency) {
             if (str_contains(strtolower($currency['name'] ?? ''), $lowerSearchTerm) ||
-                str_contains(strtolower($currency['name_native'] ?? ''), $lowerSearchTerm) ||
-                str_contains(strtolower($currency['name_plural'] ?? ''), $lowerSearchTerm) ||
-                str_contains(strtolower($currency['name_plural_native'] ?? ''), $lowerSearchTerm)) {
+                str_contains(strtolower($currency['nameNative'] ?? ''), $lowerSearchTerm) ||
+                str_contains(strtolower($currency['namePlural'] ?? ''), $lowerSearchTerm) ||
+                str_contains(strtolower($currency['namePluralNative'] ?? ''), $lowerSearchTerm)) {
                 $matchingCurrencies[] = $currency;
             }
         }

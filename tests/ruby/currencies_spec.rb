@@ -10,7 +10,7 @@ RSpec.describe WorldCurrencies do
       expect(usd).not_to be_nil
       expect(usd['name']).to eq('US Dollar')
       expect(usd['symbol']).to eq('$')
-      expect(usd['decimal_digits']).to eq(2)
+      expect(usd['decimalDigits']).to eq(2)
     end
 
     it 'handles lowercase currency code' do
@@ -148,12 +148,12 @@ RSpec.describe WorldCurrencies do
       
       # Check required fields
       expect(usd['name']).not_to be_nil
-      expect(usd['name_native']).not_to be_nil
-      expect(usd['name_plural']).not_to be_nil
-      expect(usd['name_plural_native']).not_to be_nil
+      expect(usd['nameNative']).not_to be_nil
+      expect(usd['namePlural']).not_to be_nil
+      expect(usd['namePluralNative']).not_to be_nil
       expect(usd['symbol']).not_to be_nil
-      expect(usd['symbol_native']).not_to be_nil
-      expect(usd['decimal_digits']).not_to be_nil
+      expect(usd['symbolNative']).not_to be_nil
+      expect(usd['decimalDigits']).not_to be_nil
       expect(usd['rounding']).not_to be_nil
       expect(usd['countries']).to be_a(Array)
       
@@ -202,8 +202,8 @@ RSpec.describe WorldCurrencies::Currency do
     let(:currency) { WorldCurrencies::Currency.new('GBP') }
 
     it 'provides access to currency attributes' do
-      expect(currency.name_native).to eq('British Pound')
-      expect(currency.decimal_digits).to eq(2)
+      expect(currency.nameNative).to eq('British Pound')
+      expect(currency.decimalDigits).to eq(2)
       expect(currency.countries).to be_a(Array)
     end
 

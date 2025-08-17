@@ -16,7 +16,7 @@ describe('World Currencies Library', () => {
       expect(usd).toBeDefined();
       expect(usd?.name).toBe('US Dollar');
       expect(usd?.symbol).toBe('$');
-      expect(usd?.decimal_digits).toBe(2);
+      expect(usd?.decimalDigits).toBe(2);
     });
 
     test('should handle lowercase currency code', () => {
@@ -154,12 +154,12 @@ describe('World Currencies Library', () => {
       
       // Check required fields
       expect(usd?.name).toBeDefined();
-      expect(usd?.name_native).toBeDefined();
-      expect(usd?.name_plural).toBeDefined();
-      expect(usd?.name_plural_native).toBeDefined();
+      expect(usd?.nameNative).toBeDefined();
+      expect(usd?.namePlural).toBeDefined();
+      expect(usd?.namePluralNative).toBeDefined();
       expect(usd?.symbol).toBeDefined();
-      expect(usd?.symbol_native).toBeDefined();
-      expect(usd?.decimal_digits).toBeDefined();
+      expect(usd?.symbolNative).toBeDefined();
+      expect(usd?.decimalDigits).toBeDefined();
       expect(usd?.rounding).toBeDefined();
       expect(usd?.countries).toBeDefined();
       expect(Array.isArray(usd?.countries)).toBe(true);

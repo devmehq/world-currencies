@@ -1,17 +1,18 @@
 {
   "AED": {
     "name": "United Arab Emirates Dirham",
-    "name_native": "درهم إماراتي",
-    "name_plural": "UAE dirhams",
-    "name_plural_native": "دراهم إماراتية",
+    "nameNative": "درهم إماراتي",
+    "namePlural": "UAE dirhams",
+    "namePluralNative": "دراهم إماراتية",
     "iso": {
       "code": "AED",
       "number": "784"
     },
     "symbol": "AED",
-    "symbol_native": "د.إ",
-    "decimal_digits": 2,
+    "symbolNative": "د.إ",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "ae",
     "units": {
       "major": {
         "name": "dirham",
@@ -55,17 +56,18 @@
   },
   "AFN": {
     "name": "Afghan Afghani",
-    "name_native": "افغانی",
-    "name_plural": "Afghan afghanis",
-    "name_plural_native": "افغانی",
+    "nameNative": "افغانی",
+    "namePlural": "Afghan afghanis",
+    "namePluralNative": "افغانی",
     "iso": {
       "code": "AFN",
       "number": "971"
     },
     "symbol": "AFN",
-    "symbol_native": "؋",
-    "decimal_digits": 2,
+    "symbolNative": "؋",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "af",
     "units": {
       "major": {
         "name": "afghani",
@@ -105,17 +107,18 @@
   },
   "ALL": {
     "name": "Albanian Lek",
-    "name_native": "Lek",
-    "name_plural": "Albanian lekë",
-    "name_plural_native": "Lekë",
+    "nameNative": "Lek",
+    "namePlural": "Albanian lekë",
+    "namePluralNative": "Lekë",
     "iso": {
       "code": "ALL",
       "number": "008"
     },
     "symbol": "ALL",
-    "symbol_native": "L",
-    "decimal_digits": 2,
+    "symbolNative": "L",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "al",
     "units": {
       "major": {
         "name": "lek",
@@ -154,17 +157,18 @@
   },
   "AMD": {
     "name": "Armenian Dram",
-    "name_native": "Դրամ",
-    "name_plural": "Armenian Drams",
-    "name_plural_native": "Դրամ",
+    "nameNative": "Դրամ",
+    "namePlural": "Armenian Drams",
+    "namePluralNative": "Դրամ",
     "iso": {
       "code": "AMD",
       "number": "051"
     },
     "symbol": "AMD",
-    "symbol_native": "֏",
-    "decimal_digits": 2,
+    "symbolNative": "֏",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "am",
     "units": {
       "major": {
         "name": "dram",
@@ -205,17 +209,18 @@
   },
   "ANG": {
     "name": "Netherlands Antillean Guilder",
-    "name_native": "Gulden",
-    "name_plural": "Netherlands Antillean guilders",
-    "name_plural_native": "Gulden",
+    "nameNative": "Gulden",
+    "namePlural": "Netherlands Antillean guilders",
+    "namePluralNative": "Gulden",
     "iso": {
       "code": "ANG",
       "number": "532"
     },
     "symbol": "ANG",
-    "symbol_native": "ƒ",
-    "decimal_digits": 2,
+    "symbolNative": "ƒ",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "cw",
     "units": {
       "major": {
         "name": "guilder",
@@ -259,17 +264,18 @@
   },
   "AOA": {
     "name": "Angolan Kwanza",
-    "name_native": "Kwanza",
-    "name_plural": "Angolan kwanzas",
-    "name_plural_native": "Kwanzas",
+    "nameNative": "Kwanza",
+    "namePlural": "Angolan kwanzas",
+    "namePluralNative": "Kwanzas",
     "iso": {
       "code": "AOA",
       "number": "973"
     },
     "symbol": "AOA",
-    "symbol_native": "Kz",
-    "decimal_digits": 2,
+    "symbolNative": "Kz",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "ao",
     "units": {
       "major": {
         "name": "kwanza",
@@ -309,17 +315,18 @@
   },
   "ARS": {
     "name": "Argentine Peso",
-    "name_native": "Peso argentino",
-    "name_plural": "Argentine pesos",
-    "name_plural_native": "Pesos argentinos",
+    "nameNative": "Peso argentino",
+    "namePlural": "Argentine pesos",
+    "namePluralNative": "Pesos argentinos",
     "iso": {
       "code": "ARS",
       "number": "032"
     },
     "symbol": "ARS",
-    "symbol_native": "$",
-    "decimal_digits": 2,
+    "symbolNative": "$",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "ar",
     "units": {
       "major": {
         "name": "peso",
@@ -364,17 +371,18 @@
   },
   "AUD": {
     "name": "Australian Dollar",
-    "name_native": "Australian Dollar",
-    "name_plural": "Australian dollars",
-    "name_plural_native": "Australian Dollars",
+    "nameNative": "Australian Dollar",
+    "namePlural": "Australian dollars",
+    "namePluralNative": "Australian Dollars",
     "iso": {
       "code": "AUD",
       "number": "036"
     },
     "symbol": "AUD",
-    "symbol_native": "$",
-    "decimal_digits": 2,
+    "symbolNative": "$",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "au",
     "units": {
       "major": {
         "name": "dollar",
@@ -420,17 +428,18 @@
   },
   "AWG": {
     "name": "Aruban Florin",
-    "name_native": "Florin",
-    "name_plural": "Aruban florin",
-    "name_plural_native": "Florin",
+    "nameNative": "Florin",
+    "namePlural": "Aruban florin",
+    "namePluralNative": "Florin",
     "iso": {
       "code": "AWG",
       "number": "533"
     },
     "symbol": "AWG",
-    "symbol_native": "ƒ",
-    "decimal_digits": 2,
+    "symbolNative": "ƒ",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "aw",
     "units": {
       "major": {
         "name": "florin",
@@ -470,17 +479,18 @@
   },
   "AZN": {
     "name": "Azerbaijani Manat",
-    "name_native": "Manat",
-    "name_plural": "Azerbaijani manats",
-    "name_plural_native": "Manat",
+    "nameNative": "Manat",
+    "namePlural": "Azerbaijani manats",
+    "namePluralNative": "Manat",
     "iso": {
       "code": "AZN",
       "number": "944"
     },
     "symbol": "AZN",
-    "symbol_native": "₼",
-    "decimal_digits": 2,
+    "symbolNative": "₼",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "az",
     "units": {
       "major": {
         "name": "manat",
@@ -522,17 +532,18 @@
   },
   "BAM": {
     "name": "Bosnia and Herzegovina Convertible Mark",
-    "name_native": "Konvertibilna marka",
-    "name_plural": "Bosnia and Herzegovina convertible marks",
-    "name_plural_native": "Konvertibilne marke",
+    "nameNative": "Konvertibilna marka",
+    "namePlural": "Bosnia and Herzegovina convertible marks",
+    "namePluralNative": "Konvertibilne marke",
     "iso": {
       "code": "BAM",
       "number": "977"
     },
     "symbol": "BAM",
-    "symbol_native": "KM",
-    "decimal_digits": 2,
+    "symbolNative": "KM",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "ba",
     "units": {
       "major": {
         "name": "convertible mark",
@@ -572,17 +583,18 @@
   },
   "BBD": {
     "name": "Barbadian Dollar",
-    "name_native": "Barbadian Dollar",
-    "name_plural": "Barbadian dollars",
-    "name_plural_native": "Barbadian Dollars",
+    "nameNative": "Barbadian Dollar",
+    "namePlural": "Barbadian dollars",
+    "namePluralNative": "Barbadian Dollars",
     "iso": {
       "code": "BBD",
       "number": "052"
     },
     "symbol": "BBD",
-    "symbol_native": "$",
-    "decimal_digits": 2,
+    "symbolNative": "$",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "bb",
     "units": {
       "major": {
         "name": "dollar",
@@ -621,17 +633,18 @@
   },
   "BDT": {
     "name": "Bangladeshi Taka",
-    "name_native": "টাকা",
-    "name_plural": "Bangladeshi takas",
-    "name_plural_native": "টাকা",
+    "nameNative": "টাকা",
+    "namePlural": "Bangladeshi takas",
+    "namePluralNative": "টাকা",
     "iso": {
       "code": "BDT",
       "number": "050"
     },
     "symbol": "BDT",
-    "symbol_native": "৳",
-    "decimal_digits": 2,
+    "symbolNative": "৳",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "bd",
     "units": {
       "major": {
         "name": "taka",
@@ -678,17 +691,18 @@
   },
   "BGN": {
     "name": "Bulgarian Lev",
-    "name_native": "Лев",
-    "name_plural": "Bulgarian leva",
-    "name_plural_native": "Лева",
+    "nameNative": "Лев",
+    "namePlural": "Bulgarian leva",
+    "namePluralNative": "Лева",
     "iso": {
       "code": "BGN",
       "number": "975"
     },
     "symbol": "BGN",
-    "symbol_native": "лв",
-    "decimal_digits": 2,
+    "symbolNative": "лв",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "bg",
     "units": {
       "major": {
         "name": "lev",
@@ -730,17 +744,18 @@
   },
   "BHD": {
     "name": "Bahraini Dinar",
-    "name_native": "دينار بحريني",
-    "name_plural": "Bahraini dinars",
-    "name_plural_native": "دينار بحريني",
+    "nameNative": "دينار بحريني",
+    "namePlural": "Bahraini dinars",
+    "namePluralNative": "دينار بحريني",
     "iso": {
       "code": "BHD",
       "number": "048"
     },
     "symbol": "BHD",
-    "symbol_native": "د.ب",
-    "decimal_digits": 3,
+    "symbolNative": "د.ب",
+    "decimalDigits": 3,
     "rounding": 0,
+    "flagCode": "bh",
     "units": {
       "major": {
         "name": "dinar",
@@ -779,17 +794,18 @@
   },
   "BIF": {
     "name": "Burundian Franc",
-    "name_native": "Franc burundais",
-    "name_plural": "Burundian francs",
-    "name_plural_native": "Francs burundais",
+    "nameNative": "Franc burundais",
+    "namePlural": "Burundian francs",
+    "namePluralNative": "Francs burundais",
     "iso": {
       "code": "BIF",
       "number": "108"
     },
     "symbol": "BIF",
-    "symbol_native": "FBu",
-    "decimal_digits": 0,
+    "symbolNative": "FBu",
+    "decimalDigits": 0,
     "rounding": 0,
+    "flagCode": "bi",
     "units": {
       "major": {
         "name": "franc",
@@ -830,17 +846,18 @@
   },
   "BMD": {
     "name": "Bermudian Dollar",
-    "name_native": "Bermudian Dollar",
-    "name_plural": "Bermudian dollars",
-    "name_plural_native": "Bermudian Dollars",
+    "nameNative": "Bermudian Dollar",
+    "namePlural": "Bermudian dollars",
+    "namePluralNative": "Bermudian Dollars",
     "iso": {
       "code": "BMD",
       "number": "060"
     },
     "symbol": "BMD",
-    "symbol_native": "$",
-    "decimal_digits": 2,
+    "symbolNative": "$",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "bm",
     "units": {
       "major": {
         "name": "dollar",
@@ -882,17 +899,18 @@
   },
   "BND": {
     "name": "Brunei Dollar",
-    "name_native": "Ringgit Brunei",
-    "name_plural": "Brunei dollars",
-    "name_plural_native": "Ringgit Brunei",
+    "nameNative": "Ringgit Brunei",
+    "namePlural": "Brunei dollars",
+    "namePluralNative": "Ringgit Brunei",
     "iso": {
       "code": "BND",
       "number": "096"
     },
     "symbol": "BND",
-    "symbol_native": "$",
-    "decimal_digits": 2,
+    "symbolNative": "$",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "bn",
     "units": {
       "major": {
         "name": "dollar",
@@ -936,17 +954,18 @@
   },
   "BOB": {
     "name": "Bolivian Boliviano",
-    "name_native": "Boliviano",
-    "name_plural": "Bolivian bolivianos",
-    "name_plural_native": "Bolivianos",
+    "nameNative": "Boliviano",
+    "namePlural": "Bolivian bolivianos",
+    "namePluralNative": "Bolivianos",
     "iso": {
       "code": "BOB",
       "number": "068"
     },
     "symbol": "BOB",
-    "symbol_native": "Bs.",
-    "decimal_digits": 2,
+    "symbolNative": "Bs.",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "bo",
     "units": {
       "major": {
         "name": "boliviano",
@@ -985,17 +1004,18 @@
   },
   "BRL": {
     "name": "Brazilian Real",
-    "name_native": "Real",
-    "name_plural": "Brazilian reals",
-    "name_plural_native": "Reais",
+    "nameNative": "Real",
+    "namePlural": "Brazilian reals",
+    "namePluralNative": "Reais",
     "iso": {
       "code": "BRL",
       "number": "986"
     },
     "symbol": "BRL",
-    "symbol_native": "R$",
-    "decimal_digits": 2,
+    "symbolNative": "R$",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "br",
     "units": {
       "major": {
         "name": "real",
@@ -1037,17 +1057,18 @@
   },
   "BSD": {
     "name": "Bahamian Dollar",
-    "name_native": "Bahamian Dollar",
-    "name_plural": "Bahamian dollars",
-    "name_plural_native": "Bahamian Dollars",
+    "nameNative": "Bahamian Dollar",
+    "namePlural": "Bahamian dollars",
+    "namePluralNative": "Bahamian Dollars",
     "iso": {
       "code": "BSD",
       "number": "044"
     },
     "symbol": "BSD",
-    "symbol_native": "$",
-    "decimal_digits": 2,
+    "symbolNative": "$",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "bs",
     "units": {
       "major": {
         "name": "dollar",
@@ -1094,17 +1115,18 @@
   },
   "BTN": {
     "name": "Bhutanese Ngultrum",
-    "name_native": "དངུལ་ཀྲམ",
-    "name_plural": "Bhutanese ngultrums",
-    "name_plural_native": "དངུལ་ཀྲམ",
+    "nameNative": "དངུལ་ཀྲམ",
+    "namePlural": "Bhutanese ngultrums",
+    "namePluralNative": "དངུལ་ཀྲམ",
     "iso": {
       "code": "BTN",
       "number": "064"
     },
     "symbol": "BTN",
-    "symbol_native": "Nu.",
-    "decimal_digits": 2,
+    "symbolNative": "Nu.",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "bt",
     "units": {
       "major": {
         "name": "ngultrum",
@@ -1147,17 +1169,18 @@
   },
   "BWP": {
     "name": "Botswana Pula",
-    "name_native": "Pula",
-    "name_plural": "Botswana pulas",
-    "name_plural_native": "Pula",
+    "nameNative": "Pula",
+    "namePlural": "Botswana pulas",
+    "namePluralNative": "Pula",
     "iso": {
       "code": "BWP",
       "number": "072"
     },
     "symbol": "BWP",
-    "symbol_native": "P",
-    "decimal_digits": 2,
+    "symbolNative": "P",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "bw",
     "units": {
       "major": {
         "name": "pula",
@@ -1197,17 +1220,18 @@
   },
   "BYN": {
     "name": "Belarusian Ruble",
-    "name_native": "Беларускі рубель",
-    "name_plural": "Belarusian rubles",
-    "name_plural_native": "Беларускія рублі",
+    "nameNative": "Беларускі рубель",
+    "namePlural": "Belarusian rubles",
+    "namePluralNative": "Беларускія рублі",
     "iso": {
       "code": "BYN",
       "number": "933"
     },
     "symbol": "BYN",
-    "symbol_native": "Br",
-    "decimal_digits": 2,
+    "symbolNative": "Br",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "by",
     "units": {
       "major": {
         "name": "ruble",
@@ -1250,17 +1274,18 @@
   },
   "BZD": {
     "name": "Belize Dollar",
-    "name_native": "Belize Dollar",
-    "name_plural": "Belize dollars",
-    "name_plural_native": "Belize Dollars",
+    "nameNative": "Belize Dollar",
+    "namePlural": "Belize dollars",
+    "namePluralNative": "Belize Dollars",
     "iso": {
       "code": "BZD",
       "number": "084"
     },
     "symbol": "BZD",
-    "symbol_native": "$",
-    "decimal_digits": 2,
+    "symbolNative": "$",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "bz",
     "units": {
       "major": {
         "name": "dollar",
@@ -1301,17 +1326,18 @@
   },
   "CAD": {
     "name": "Canadian Dollar",
-    "name_native": "Dollar canadien",
-    "name_plural": "Canadian dollars",
-    "name_plural_native": "Dollars canadiens",
+    "nameNative": "Dollar canadien",
+    "namePlural": "Canadian dollars",
+    "namePluralNative": "Dollars canadiens",
     "iso": {
       "code": "CAD",
       "number": "124"
     },
     "symbol": "CAD",
-    "symbol_native": "$",
-    "decimal_digits": 2,
+    "symbolNative": "$",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "ca",
     "units": {
       "major": {
         "name": "dollar",
@@ -1352,17 +1378,18 @@
   },
   "CHF": {
     "name": "Swiss Franc",
-    "name_native": "Schweizer Franken",
-    "name_plural": "Swiss francs",
-    "name_plural_native": "Schweizer Franken",
+    "nameNative": "Schweizer Franken",
+    "namePlural": "Swiss francs",
+    "namePluralNative": "Schweizer Franken",
     "iso": {
       "code": "CHF",
       "number": "756"
     },
     "symbol": "CHF",
-    "symbol_native": "Fr.",
-    "decimal_digits": 2,
+    "symbolNative": "Fr.",
+    "decimalDigits": 2,
     "rounding": 0.05,
+    "flagCode": "ch",
     "units": {
       "major": {
         "name": "franc",
@@ -1404,17 +1431,18 @@
   },
   "CLP": {
     "name": "Chilean Peso",
-    "name_native": "Peso chileno",
-    "name_plural": "Chilean pesos",
-    "name_plural_native": "Pesos chilenos",
+    "nameNative": "Peso chileno",
+    "namePlural": "Chilean pesos",
+    "namePluralNative": "Pesos chilenos",
     "iso": {
       "code": "CLP",
       "number": "152"
     },
     "symbol": "CLP",
-    "symbol_native": "$",
-    "decimal_digits": 0,
+    "symbolNative": "$",
+    "decimalDigits": 0,
     "rounding": 0,
+    "flagCode": "cl",
     "units": {
       "major": {
         "name": "peso",
@@ -1453,17 +1481,18 @@
   },
   "CNY": {
     "name": "Chinese Yuan",
-    "name_native": "人民币",
-    "name_plural": "Chinese yuan",
-    "name_plural_native": "人民币",
+    "nameNative": "人民币",
+    "namePlural": "Chinese yuan",
+    "namePluralNative": "人民币",
     "iso": {
       "code": "CNY",
       "number": "156"
     },
     "symbol": "CNY",
-    "symbol_native": "¥",
-    "decimal_digits": 2,
+    "symbolNative": "¥",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "cn",
     "units": {
       "major": {
         "name": "yuan",
@@ -1473,11 +1502,6 @@
         "name": "fen",
         "symbol": "分",
         "majorValue": 0.01
-      },
-      "minor2": {
-        "name": "jiao",
-        "symbol": "角",
-        "majorValue": 0.1
       }
     },
     "banknotes": {
@@ -1510,17 +1534,18 @@
   },
   "COP": {
     "name": "Colombian Peso",
-    "name_native": "Peso colombiano",
-    "name_plural": "Colombian pesos",
-    "name_plural_native": "Pesos colombianos",
+    "nameNative": "Peso colombiano",
+    "namePlural": "Colombian pesos",
+    "namePluralNative": "Pesos colombianos",
     "iso": {
       "code": "COP",
       "number": "170"
     },
     "symbol": "COP",
-    "symbol_native": "$",
-    "decimal_digits": 2,
+    "symbolNative": "$",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "co",
     "units": {
       "major": {
         "name": "peso",
@@ -1564,17 +1589,18 @@
   },
   "CRC": {
     "name": "Costa Rican Colón",
-    "name_native": "Colón costarricense",
-    "name_plural": "Costa Rican colóns",
-    "name_plural_native": "Colones costarricenses",
+    "nameNative": "Colón costarricense",
+    "namePlural": "Costa Rican colóns",
+    "namePluralNative": "Colones costarricenses",
     "iso": {
       "code": "CRC",
       "number": "188"
     },
     "symbol": "CRC",
-    "symbol_native": "₡",
-    "decimal_digits": 2,
+    "symbolNative": "₡",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "cr",
     "units": {
       "major": {
         "name": "colón",
@@ -1614,17 +1640,18 @@
   },
   "CUC": {
     "name": "Cuban Convertible Peso",
-    "name_native": "Cuban Convertible Peso",
-    "name_plural": "Cuban Convertible Pesos",
-    "name_plural_native": "Cuban Convertible Pesos",
+    "nameNative": "Cuban Convertible Peso",
+    "namePlural": "Cuban Convertible Pesos",
+    "namePluralNative": "Cuban Convertible Pesos",
     "iso": {
       "code": "CUC",
       "number": "931"
     },
     "symbol": "CUC",
-    "symbol_native": "$",
-    "decimal_digits": 2,
+    "symbolNative": "$",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": null,
     "units": {
       "major": {
         "name": "convertible peso",
@@ -1667,17 +1694,18 @@
   },
   "CUP": {
     "name": "Cuban Peso",
-    "name_native": "Peso cubano",
-    "name_plural": "Cuban pesos",
-    "name_plural_native": "Pesos cubanos",
+    "nameNative": "Peso cubano",
+    "namePlural": "Cuban pesos",
+    "namePluralNative": "Pesos cubanos",
     "iso": {
       "code": "CUP",
       "number": "192"
     },
     "symbol": "CUP",
-    "symbol_native": "$",
-    "decimal_digits": 2,
+    "symbolNative": "$",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "cu",
     "units": {
       "major": {
         "name": "peso",
@@ -1718,17 +1746,18 @@
   },
   "CVE": {
     "name": "Cape Verdean Escudo",
-    "name_native": "Escudo cabo-verdiano",
-    "name_plural": "Cape Verdean escudos",
-    "name_plural_native": "Escudos cabo-verdianos",
+    "nameNative": "Escudo cabo-verdiano",
+    "namePlural": "Cape Verdean escudos",
+    "namePluralNative": "Escudos cabo-verdianos",
     "iso": {
       "code": "CVE",
       "number": "132"
     },
     "symbol": "CVE",
-    "symbol_native": "$",
-    "decimal_digits": 2,
+    "symbolNative": "$",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "cv",
     "units": {
       "major": {
         "name": "escudo",
@@ -1767,17 +1796,18 @@
   },
   "CZK": {
     "name": "Czech Koruna",
-    "name_native": "Koruna česká",
-    "name_plural": "Czech korunas",
-    "name_plural_native": "Koruny české",
+    "nameNative": "Koruna česká",
+    "namePlural": "Czech korunas",
+    "namePluralNative": "Koruny české",
     "iso": {
       "code": "CZK",
       "number": "203"
     },
     "symbol": "CZK",
-    "symbol_native": "Kč",
-    "decimal_digits": 2,
+    "symbolNative": "Kč",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "cz",
     "units": {
       "major": {
         "name": "koruna",
@@ -1817,17 +1847,18 @@
   },
   "DJF": {
     "name": "Djiboutian Franc",
-    "name_native": "Franc djiboutien",
-    "name_plural": "Djiboutian francs",
-    "name_plural_native": "Francs djiboutiens",
+    "nameNative": "Franc djiboutien",
+    "namePlural": "Djiboutian francs",
+    "namePluralNative": "Francs djiboutiens",
     "iso": {
       "code": "DJF",
       "number": "262"
     },
     "symbol": "DJF",
-    "symbol_native": "Fdj",
-    "decimal_digits": 0,
+    "symbolNative": "Fdj",
+    "decimalDigits": 0,
     "rounding": 0,
+    "flagCode": "dj",
     "units": {
       "major": {
         "name": "franc",
@@ -1870,17 +1901,18 @@
   },
   "DKK": {
     "name": "Danish Krone",
-    "name_native": "Dansk krone",
-    "name_plural": "Danish kroner",
-    "name_plural_native": "Danske kroner",
+    "nameNative": "Dansk krone",
+    "namePlural": "Danish kroner",
+    "namePluralNative": "Danske kroner",
     "iso": {
       "code": "DKK",
       "number": "208"
     },
     "symbol": "DKK",
-    "symbol_native": "kr",
-    "decimal_digits": 2,
+    "symbolNative": "kr",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "dk",
     "units": {
       "major": {
         "name": "krone",
@@ -1921,17 +1953,18 @@
   },
   "DOP": {
     "name": "Dominican Peso",
-    "name_native": "Peso dominicano",
-    "name_plural": "Dominican pesos",
-    "name_plural_native": "Pesos dominicanos",
+    "nameNative": "Peso dominicano",
+    "namePlural": "Dominican pesos",
+    "namePluralNative": "Pesos dominicanos",
     "iso": {
       "code": "DOP",
       "number": "214"
     },
     "symbol": "DOP",
-    "symbol_native": "$",
-    "decimal_digits": 2,
+    "symbolNative": "$",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "do",
     "units": {
       "major": {
         "name": "peso",
@@ -1970,17 +2003,18 @@
   },
   "DZD": {
     "name": "Algerian Dinar",
-    "name_native": "دينار جزائري",
-    "name_plural": "Algerian dinars",
-    "name_plural_native": "دينار جزائري",
+    "nameNative": "دينار جزائري",
+    "namePlural": "Algerian dinars",
+    "namePluralNative": "دينار جزائري",
     "iso": {
       "code": "DZD",
       "number": "012"
     },
     "symbol": "DZD",
-    "symbol_native": "د.ج",
-    "decimal_digits": 2,
+    "symbolNative": "د.ج",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "dz",
     "units": {
       "major": {
         "name": "dinar",
@@ -2023,17 +2057,18 @@
   },
   "EGP": {
     "name": "Egyptian Pound",
-    "name_native": "جنيه مصري",
-    "name_plural": "Egyptian pounds",
-    "name_plural_native": "جنيهات مصرية",
+    "nameNative": "جنيه مصري",
+    "namePlural": "Egyptian pounds",
+    "namePluralNative": "جنيهات مصرية",
     "iso": {
       "code": "EGP",
       "number": "818"
     },
     "symbol": "EGP",
-    "symbol_native": "ج.م",
-    "decimal_digits": 2,
+    "symbolNative": "ج.م",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "eg",
     "units": {
       "major": {
         "name": "pound",
@@ -2078,17 +2113,18 @@
   },
   "ERN": {
     "name": "Eritrean Nakfa",
-    "name_native": "ናቕፋ",
-    "name_plural": "Eritrean nakfas",
-    "name_plural_native": "ናቕፋ",
+    "nameNative": "ናቕፋ",
+    "namePlural": "Eritrean nakfas",
+    "namePluralNative": "ናቕፋ",
     "iso": {
       "code": "ERN",
       "number": "232"
     },
     "symbol": "ERN",
-    "symbol_native": "Nfk",
-    "decimal_digits": 2,
+    "symbolNative": "Nfk",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "er",
     "units": {
       "major": {
         "name": "nakfa",
@@ -2128,17 +2164,18 @@
   },
   "ETB": {
     "name": "Ethiopian Birr",
-    "name_native": "ብር",
-    "name_plural": "Ethiopian birrs",
-    "name_plural_native": "ብር",
+    "nameNative": "ብር",
+    "namePlural": "Ethiopian birrs",
+    "namePluralNative": "ብር",
     "iso": {
       "code": "ETB",
       "number": "230"
     },
     "symbol": "ETB",
-    "symbol_native": "Br",
-    "decimal_digits": 2,
+    "symbolNative": "Br",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "et",
     "units": {
       "major": {
         "name": "birr",
@@ -2178,17 +2215,18 @@
   },
   "EUR": {
     "name": "Euro",
-    "name_native": "Euro",
-    "name_plural": "euros",
-    "name_plural_native": "Euro",
+    "nameNative": "Euro",
+    "namePlural": "euros",
+    "namePluralNative": "Euro",
     "iso": {
       "code": "EUR",
       "number": "978"
     },
     "symbol": "EUR",
-    "symbol_native": "€",
-    "decimal_digits": 2,
+    "symbolNative": "€",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "eu",
     "units": {
       "major": {
         "name": "euro",
@@ -2255,17 +2293,18 @@
   },
   "FJD": {
     "name": "Fijian Dollar",
-    "name_native": "Fijian Dollar",
-    "name_plural": "Fijian dollars",
-    "name_plural_native": "Fijian Dollars",
+    "nameNative": "Fijian Dollar",
+    "namePlural": "Fijian dollars",
+    "namePluralNative": "Fijian Dollars",
     "iso": {
       "code": "FJD",
       "number": "242"
     },
     "symbol": "FJD",
-    "symbol_native": "$",
-    "decimal_digits": 2,
+    "symbolNative": "$",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "fj",
     "units": {
       "major": {
         "name": "dollar",
@@ -2306,17 +2345,18 @@
   },
   "FKP": {
     "name": "Falkland Islands Pound",
-    "name_native": "Falkland Islands Pound",
-    "name_plural": "Falkland Islands pounds",
-    "name_plural_native": "Falkland Islands Pounds",
+    "nameNative": "Falkland Islands Pound",
+    "namePlural": "Falkland Islands pounds",
+    "namePluralNative": "Falkland Islands Pounds",
     "iso": {
       "code": "FKP",
       "number": "238"
     },
     "symbol": "FKP",
-    "symbol_native": "£",
-    "decimal_digits": 2,
+    "symbolNative": "£",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "fk",
     "units": {
       "major": {
         "name": "pound",
@@ -2356,17 +2396,18 @@
   },
   "GBP": {
     "name": "British Pound",
-    "name_native": "British Pound",
-    "name_plural": "British pounds",
-    "name_plural_native": "British Pounds",
+    "nameNative": "British Pound",
+    "namePlural": "British pounds",
+    "namePluralNative": "British Pounds",
     "iso": {
       "code": "GBP",
       "number": "826"
     },
     "symbol": "GBP",
-    "symbol_native": "£",
-    "decimal_digits": 2,
+    "symbolNative": "£",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "gb",
     "units": {
       "major": {
         "name": "pound",
@@ -2412,17 +2453,18 @@
   },
   "GEL": {
     "name": "Georgian Lari",
-    "name_native": "ლარი",
-    "name_plural": "Georgian laris",
-    "name_plural_native": "ლარი",
+    "nameNative": "ლარი",
+    "namePlural": "Georgian laris",
+    "namePluralNative": "ლარი",
     "iso": {
       "code": "GEL",
       "number": "981"
     },
     "symbol": "GEL",
-    "symbol_native": "₾",
-    "decimal_digits": 2,
+    "symbolNative": "₾",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "ge",
     "units": {
       "major": {
         "name": "lari",
@@ -2467,17 +2509,18 @@
   },
   "GHS": {
     "name": "Ghanaian Cedi",
-    "name_native": "Ghana Cedi",
-    "name_plural": "Ghanaian cedis",
-    "name_plural_native": "Ghana Cedis",
+    "nameNative": "Ghana Cedi",
+    "namePlural": "Ghanaian cedis",
+    "namePluralNative": "Ghana Cedis",
     "iso": {
       "code": "GHS",
       "number": "936"
     },
     "symbol": "GHS",
-    "symbol_native": "₵",
-    "decimal_digits": 2,
+    "symbolNative": "₵",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "gh",
     "units": {
       "major": {
         "name": "cedi",
@@ -2520,17 +2563,18 @@
   },
   "GIP": {
     "name": "Gibraltar Pound",
-    "name_native": "Gibraltar Pound",
-    "name_plural": "Gibraltar pounds",
-    "name_plural_native": "Gibraltar Pounds",
+    "nameNative": "Gibraltar Pound",
+    "namePlural": "Gibraltar pounds",
+    "namePluralNative": "Gibraltar Pounds",
     "iso": {
       "code": "GIP",
       "number": "292"
     },
     "symbol": "GIP",
-    "symbol_native": "£",
-    "decimal_digits": 2,
+    "symbolNative": "£",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "gi",
     "units": {
       "major": {
         "name": "pound",
@@ -2572,17 +2616,18 @@
   },
   "GMD": {
     "name": "Gambian Dalasi",
-    "name_native": "Dalasi",
-    "name_plural": "Gambian dalasis",
-    "name_plural_native": "Dalasis",
+    "nameNative": "Dalasi",
+    "namePlural": "Gambian dalasis",
+    "namePluralNative": "Dalasis",
     "iso": {
       "code": "GMD",
       "number": "270"
     },
     "symbol": "GMD",
-    "symbol_native": "D",
-    "decimal_digits": 2,
+    "symbolNative": "D",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "gm",
     "units": {
       "major": {
         "name": "dalasi",
@@ -2622,17 +2667,18 @@
   },
   "GNF": {
     "name": "Guinean Franc",
-    "name_native": "Franc guinéen",
-    "name_plural": "Guinean francs",
-    "name_plural_native": "Francs guinéens",
+    "nameNative": "Franc guinéen",
+    "namePlural": "Guinean francs",
+    "namePluralNative": "Francs guinéens",
     "iso": {
       "code": "GNF",
       "number": "324"
     },
     "symbol": "GNF",
-    "symbol_native": "FG",
-    "decimal_digits": 0,
+    "symbolNative": "FG",
+    "decimalDigits": 0,
     "rounding": 0,
+    "flagCode": "gn",
     "units": {
       "major": {
         "name": "franc",
@@ -2674,17 +2720,18 @@
   },
   "GTQ": {
     "name": "Guatemalan Quetzal",
-    "name_native": "Quetzal",
-    "name_plural": "Guatemalan quetzals",
-    "name_plural_native": "Quetzales",
+    "nameNative": "Quetzal",
+    "namePlural": "Guatemalan quetzals",
+    "namePluralNative": "Quetzales",
     "iso": {
       "code": "GTQ",
       "number": "320"
     },
     "symbol": "GTQ",
-    "symbol_native": "Q",
-    "decimal_digits": 2,
+    "symbolNative": "Q",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "gt",
     "units": {
       "major": {
         "name": "quetzal",
@@ -2727,17 +2774,18 @@
   },
   "GYD": {
     "name": "Guyanese Dollar",
-    "name_native": "Guyanese Dollar",
-    "name_plural": "Guyanese dollars",
-    "name_plural_native": "Guyanese Dollars",
+    "nameNative": "Guyanese Dollar",
+    "namePlural": "Guyanese dollars",
+    "namePluralNative": "Guyanese Dollars",
     "iso": {
       "code": "GYD",
       "number": "328"
     },
     "symbol": "GYD",
-    "symbol_native": "$",
-    "decimal_digits": 2,
+    "symbolNative": "$",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "gy",
     "units": {
       "major": {
         "name": "dollar",
@@ -2774,17 +2822,18 @@
   },
   "HKD": {
     "name": "Hong Kong Dollar",
-    "name_native": "港元",
-    "name_plural": "Hong Kong dollars",
-    "name_plural_native": "港元",
+    "nameNative": "港元",
+    "namePlural": "Hong Kong dollars",
+    "namePluralNative": "港元",
     "iso": {
       "code": "HKD",
       "number": "344"
     },
     "symbol": "HKD",
-    "symbol_native": "$",
-    "decimal_digits": 2,
+    "symbolNative": "$",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "hk",
     "units": {
       "major": {
         "name": "dollar",
@@ -2825,17 +2874,18 @@
   },
   "HNL": {
     "name": "Honduran Lempira",
-    "name_native": "Lempira",
-    "name_plural": "Honduran lempiras",
-    "name_plural_native": "Lempiras",
+    "nameNative": "Lempira",
+    "namePlural": "Honduran lempiras",
+    "namePluralNative": "Lempiras",
     "iso": {
       "code": "HNL",
       "number": "340"
     },
     "symbol": "HNL",
-    "symbol_native": "L",
-    "decimal_digits": 2,
+    "symbolNative": "L",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "hn",
     "units": {
       "major": {
         "name": "lempira",
@@ -2878,17 +2928,18 @@
   },
   "HTG": {
     "name": "Haitian Gourde",
-    "name_native": "Gourde haïtienne",
-    "name_plural": "Haitian gourdes",
-    "name_plural_native": "Gourdes haïtiennes",
+    "nameNative": "Gourde haïtienne",
+    "namePlural": "Haitian gourdes",
+    "namePluralNative": "Gourdes haïtiennes",
     "iso": {
       "code": "HTG",
       "number": "332"
     },
     "symbol": "HTG",
-    "symbol_native": "G",
-    "decimal_digits": 2,
+    "symbolNative": "G",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "ht",
     "units": {
       "major": {
         "name": "gourde",
@@ -2932,17 +2983,18 @@
   },
   "HUF": {
     "name": "Hungarian Forint",
-    "name_native": "Magyar forint",
-    "name_plural": "Hungarian forints",
-    "name_plural_native": "Magyar forint",
+    "nameNative": "Magyar forint",
+    "namePlural": "Hungarian forints",
+    "namePluralNative": "Magyar forint",
     "iso": {
       "code": "HUF",
       "number": "348"
     },
     "symbol": "HUF",
-    "symbol_native": "Ft",
-    "decimal_digits": 2,
+    "symbolNative": "Ft",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "hu",
     "units": {
       "major": {
         "name": "forint",
@@ -2982,17 +3034,18 @@
   },
   "IDR": {
     "name": "Indonesian Rupiah",
-    "name_native": "Rupiah",
-    "name_plural": "Indonesian rupiahs",
-    "name_plural_native": "Rupiah",
+    "nameNative": "Rupiah",
+    "namePlural": "Indonesian rupiahs",
+    "namePluralNative": "Rupiah",
     "iso": {
       "code": "IDR",
       "number": "360"
     },
     "symbol": "IDR",
-    "symbol_native": "Rp",
-    "decimal_digits": 0,
+    "symbolNative": "Rp",
+    "decimalDigits": 0,
     "rounding": 0,
+    "flagCode": "id",
     "units": {
       "major": {
         "name": "rupiah",
@@ -3033,17 +3086,18 @@
   },
   "ILS": {
     "name": "Israeli New Shekel",
-    "name_native": "שקל חדש",
-    "name_plural": "Israeli new shekels",
-    "name_plural_native": "שקלים חדשים",
+    "nameNative": "שקל חדש",
+    "namePlural": "Israeli new shekels",
+    "namePluralNative": "שקלים חדשים",
     "iso": {
       "code": "ILS",
       "number": "376"
     },
     "symbol": "ILS",
-    "symbol_native": "₪",
-    "decimal_digits": 2,
+    "symbolNative": "₪",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "il",
     "units": {
       "major": {
         "name": "new shekel",
@@ -3084,17 +3138,18 @@
   },
   "INR": {
     "name": "Indian Rupee",
-    "name_native": "रुपया",
-    "name_plural": "Indian rupees",
-    "name_plural_native": "रुपये",
+    "nameNative": "रुपया",
+    "namePlural": "Indian rupees",
+    "namePluralNative": "रुपये",
     "iso": {
       "code": "INR",
       "number": "356"
     },
     "symbol": "INR",
-    "symbol_native": "₹",
-    "decimal_digits": 2,
+    "symbolNative": "₹",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "in",
     "units": {
       "major": {
         "name": "rupee",
@@ -3137,17 +3192,18 @@
   },
   "IQD": {
     "name": "Iraqi Dinar",
-    "name_native": "دينار عراقي",
-    "name_plural": "Iraqi dinars",
-    "name_plural_native": "دينار عراقي",
+    "nameNative": "دينار عراقي",
+    "namePlural": "Iraqi dinars",
+    "namePluralNative": "دينار عراقي",
     "iso": {
       "code": "IQD",
       "number": "368"
     },
     "symbol": "IQD",
-    "symbol_native": "د.ع",
-    "decimal_digits": 3,
+    "symbolNative": "د.ع",
+    "decimalDigits": 3,
     "rounding": 0,
+    "flagCode": "iq",
     "units": {
       "major": {
         "name": "dinar",
@@ -3185,17 +3241,18 @@
   },
   "IRR": {
     "name": "Iranian Rial",
-    "name_native": "ریال",
-    "name_plural": "Iranian rials",
-    "name_plural_native": "ریال",
+    "nameNative": "ریال",
+    "namePlural": "Iranian rials",
+    "namePluralNative": "ریال",
     "iso": {
       "code": "IRR",
       "number": "364"
     },
     "symbol": "IRR",
-    "symbol_native": "﷼",
-    "decimal_digits": 0,
+    "symbolNative": "﷼",
+    "decimalDigits": 0,
     "rounding": 0,
+    "flagCode": "ir",
     "units": {
       "major": {
         "name": "rial",
@@ -3233,17 +3290,18 @@
   },
   "ISK": {
     "name": "Icelandic Króna",
-    "name_native": "Íslensk króna",
-    "name_plural": "Icelandic krónur",
-    "name_plural_native": "Íslenskar krónur",
+    "nameNative": "Íslensk króna",
+    "namePlural": "Icelandic krónur",
+    "namePluralNative": "Íslenskar krónur",
     "iso": {
       "code": "ISK",
       "number": "352"
     },
     "symbol": "ISK",
-    "symbol_native": "kr",
-    "decimal_digits": 0,
+    "symbolNative": "kr",
+    "decimalDigits": 0,
     "rounding": 0,
+    "flagCode": "is",
     "units": {
       "major": {
         "name": "króna",
@@ -3281,17 +3339,18 @@
   },
   "JMD": {
     "name": "Jamaican Dollar",
-    "name_native": "Jamaican Dollar",
-    "name_plural": "Jamaican dollars",
-    "name_plural_native": "Jamaican Dollars",
+    "nameNative": "Jamaican Dollar",
+    "namePlural": "Jamaican dollars",
+    "namePluralNative": "Jamaican Dollars",
     "iso": {
       "code": "JMD",
       "number": "388"
     },
     "symbol": "JMD",
-    "symbol_native": "$",
-    "decimal_digits": 2,
+    "symbolNative": "$",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "jm",
     "units": {
       "major": {
         "name": "dollar",
@@ -3332,17 +3391,18 @@
   },
   "JOD": {
     "name": "Jordanian Dinar",
-    "name_native": "دينار أردني",
-    "name_plural": "Jordanian dinars",
-    "name_plural_native": "دينار أردني",
+    "nameNative": "دينار أردني",
+    "namePlural": "Jordanian dinars",
+    "namePluralNative": "دينار أردني",
     "iso": {
       "code": "JOD",
       "number": "400"
     },
     "symbol": "JOD",
-    "symbol_native": "د.ا",
-    "decimal_digits": 3,
+    "symbolNative": "د.ا",
+    "decimalDigits": 3,
     "rounding": 0,
+    "flagCode": "jo",
     "units": {
       "major": {
         "name": "dinar",
@@ -3383,17 +3443,18 @@
   },
   "JPY": {
     "name": "Japanese Yen",
-    "name_native": "円",
-    "name_plural": "Japanese yen",
-    "name_plural_native": "円",
+    "nameNative": "円",
+    "namePlural": "Japanese yen",
+    "namePluralNative": "円",
     "iso": {
       "code": "JPY",
       "number": "392"
     },
     "symbol": "JPY",
-    "symbol_native": "¥",
-    "decimal_digits": 0,
+    "symbolNative": "¥",
+    "decimalDigits": 0,
     "rounding": 0,
+    "flagCode": "jp",
     "units": {
       "major": {
         "name": "yen",
@@ -3432,17 +3493,18 @@
   },
   "KES": {
     "name": "Kenyan Shilling",
-    "name_native": "Shilling ya Kenya",
-    "name_plural": "Kenyan shillings",
-    "name_plural_native": "Shilling za Kenya",
+    "nameNative": "Shilling ya Kenya",
+    "namePlural": "Kenyan shillings",
+    "namePluralNative": "Shilling za Kenya",
     "iso": {
       "code": "KES",
       "number": "404"
     },
     "symbol": "KES",
-    "symbol_native": "KSh",
-    "decimal_digits": 2,
+    "symbolNative": "KSh",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "ke",
     "units": {
       "major": {
         "name": "shilling",
@@ -3481,17 +3543,18 @@
   },
   "KGS": {
     "name": "Kyrgyzstani Som",
-    "name_native": "Сом",
-    "name_plural": "Kyrgyzstani soms",
-    "name_plural_native": "Сом",
+    "nameNative": "Сом",
+    "namePlural": "Kyrgyzstani soms",
+    "namePluralNative": "Сом",
     "iso": {
       "code": "KGS",
       "number": "417"
     },
     "symbol": "KGS",
-    "symbol_native": "с",
-    "decimal_digits": 2,
+    "symbolNative": "с",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "kg",
     "units": {
       "major": {
         "name": "som",
@@ -3535,17 +3598,18 @@
   },
   "KHR": {
     "name": "Cambodian Riel",
-    "name_native": "រៀល",
-    "name_plural": "Cambodian riels",
-    "name_plural_native": "រៀល",
+    "nameNative": "រៀល",
+    "namePlural": "Cambodian riels",
+    "namePluralNative": "រៀល",
     "iso": {
       "code": "KHR",
       "number": "116"
     },
     "symbol": "KHR",
-    "symbol_native": "៛",
-    "decimal_digits": 2,
+    "symbolNative": "៛",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "kh",
     "units": {
       "major": {
         "name": "riel",
@@ -3588,17 +3652,18 @@
   },
   "KMF": {
     "name": "Comorian Franc",
-    "name_native": "Franc comorien",
-    "name_plural": "Comorian francs",
-    "name_plural_native": "Francs comoriens",
+    "nameNative": "Franc comorien",
+    "namePlural": "Comorian francs",
+    "namePluralNative": "Francs comoriens",
     "iso": {
       "code": "KMF",
       "number": "174"
     },
     "symbol": "KMF",
-    "symbol_native": "CF",
-    "decimal_digits": 0,
+    "symbolNative": "CF",
+    "decimalDigits": 0,
     "rounding": 0,
+    "flagCode": "km",
     "units": {
       "major": {
         "name": "franc",
@@ -3640,17 +3705,18 @@
   },
   "KPW": {
     "name": "North Korean Won",
-    "name_native": "조선 원",
-    "name_plural": "North Korean won",
-    "name_plural_native": "조선 원",
+    "nameNative": "조선 원",
+    "namePlural": "North Korean won",
+    "namePluralNative": "조선 원",
     "iso": {
       "code": "KPW",
       "number": "408"
     },
     "symbol": "KPW",
-    "symbol_native": "₩",
-    "decimal_digits": 2,
+    "symbolNative": "₩",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "kp",
     "units": {
       "major": {
         "name": "won",
@@ -3692,17 +3758,18 @@
   },
   "KRW": {
     "name": "South Korean Won",
-    "name_native": "원",
-    "name_plural": "South Korean won",
-    "name_plural_native": "원",
+    "nameNative": "원",
+    "namePlural": "South Korean won",
+    "namePluralNative": "원",
     "iso": {
       "code": "KRW",
       "number": "410"
     },
     "symbol": "KRW",
-    "symbol_native": "₩",
-    "decimal_digits": 0,
+    "symbolNative": "₩",
+    "decimalDigits": 0,
     "rounding": 0,
+    "flagCode": "kr",
     "units": {
       "major": {
         "name": "won",
@@ -3741,17 +3808,18 @@
   },
   "KWD": {
     "name": "Kuwaiti Dinar",
-    "name_native": "دينار كويتي",
-    "name_plural": "Kuwaiti dinars",
-    "name_plural_native": "دينار كويتي",
+    "nameNative": "دينار كويتي",
+    "namePlural": "Kuwaiti dinars",
+    "namePluralNative": "دينار كويتي",
     "iso": {
       "code": "KWD",
       "number": "414"
     },
     "symbol": "KWD",
-    "symbol_native": "د.ك",
-    "decimal_digits": 3,
+    "symbolNative": "د.ك",
+    "decimalDigits": 3,
     "rounding": 0,
+    "flagCode": "kw",
     "units": {
       "major": {
         "name": "dinar",
@@ -3790,17 +3858,18 @@
   },
   "KYD": {
     "name": "Cayman Islands Dollar",
-    "name_native": "Cayman Islands Dollar",
-    "name_plural": "Cayman Islands dollars",
-    "name_plural_native": "Cayman Islands Dollars",
+    "nameNative": "Cayman Islands Dollar",
+    "namePlural": "Cayman Islands dollars",
+    "namePluralNative": "Cayman Islands Dollars",
     "iso": {
       "code": "KYD",
       "number": "136"
     },
     "symbol": "KYD",
-    "symbol_native": "$",
-    "decimal_digits": 2,
+    "symbolNative": "$",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "ky",
     "units": {
       "major": {
         "name": "dollar",
@@ -3838,17 +3907,18 @@
   },
   "KZT": {
     "name": "Kazakhstani Tenge",
-    "name_native": "Теңге",
-    "name_plural": "Kazakhstani tenges",
-    "name_plural_native": "Теңге",
+    "nameNative": "Теңге",
+    "namePlural": "Kazakhstani tenges",
+    "namePluralNative": "Теңге",
     "iso": {
       "code": "KZT",
       "number": "398"
     },
     "symbol": "KZT",
-    "symbol_native": "₸",
-    "decimal_digits": 2,
+    "symbolNative": "₸",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "kz",
     "units": {
       "major": {
         "name": "tenge",
@@ -3891,17 +3961,18 @@
   },
   "LAK": {
     "name": "Lao Kip",
-    "name_native": "ກີບ",
-    "name_plural": "Lao kips",
-    "name_plural_native": "ກີບ",
+    "nameNative": "ກີບ",
+    "namePlural": "Lao kips",
+    "namePluralNative": "ກີບ",
     "iso": {
       "code": "LAK",
       "number": "418"
     },
     "symbol": "LAK",
-    "symbol_native": "₭",
-    "decimal_digits": 2,
+    "symbolNative": "₭",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "la",
     "units": {
       "major": {
         "name": "kip",
@@ -3940,17 +4011,18 @@
   },
   "LBP": {
     "name": "Lebanese Pound",
-    "name_native": "ليرة لبنانية",
-    "name_plural": "Lebanese pounds",
-    "name_plural_native": "ليرات لبنانية",
+    "nameNative": "ليرة لبنانية",
+    "namePlural": "Lebanese pounds",
+    "namePluralNative": "ليرات لبنانية",
     "iso": {
       "code": "LBP",
       "number": "422"
     },
     "symbol": "LBP",
-    "symbol_native": "ل.ل",
-    "decimal_digits": 2,
+    "symbolNative": "ل.ل",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "lb",
     "units": {
       "major": {
         "name": "pound",
@@ -3990,17 +4062,18 @@
   },
   "LKR": {
     "name": "Sri Lankan Rupee",
-    "name_native": "රුපියල",
-    "name_plural": "Sri Lankan rupees",
-    "name_plural_native": "රුපියල්",
+    "nameNative": "රුපියල",
+    "namePlural": "Sri Lankan rupees",
+    "namePluralNative": "රුපියල්",
     "iso": {
       "code": "LKR",
       "number": "144"
     },
     "symbol": "LKR",
-    "symbol_native": "₨",
-    "decimal_digits": 2,
+    "symbolNative": "₨",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "lk",
     "units": {
       "major": {
         "name": "rupee",
@@ -4044,17 +4117,18 @@
   },
   "LRD": {
     "name": "Liberian Dollar",
-    "name_native": "Liberian Dollar",
-    "name_plural": "Liberian dollars",
-    "name_plural_native": "Liberian Dollars",
+    "nameNative": "Liberian Dollar",
+    "namePlural": "Liberian dollars",
+    "namePluralNative": "Liberian Dollars",
     "iso": {
       "code": "LRD",
       "number": "430"
     },
     "symbol": "LRD",
-    "symbol_native": "$",
-    "decimal_digits": 2,
+    "symbolNative": "$",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "lr",
     "units": {
       "major": {
         "name": "dollar",
@@ -4093,17 +4167,18 @@
   },
   "LSL": {
     "name": "Lesotho Loti",
-    "name_native": "Loti",
-    "name_plural": "Lesotho maloti",
-    "name_plural_native": "Maloti",
+    "nameNative": "Loti",
+    "namePlural": "Lesotho maloti",
+    "namePluralNative": "Maloti",
     "iso": {
       "code": "LSL",
       "number": "426"
     },
     "symbol": "LSL",
-    "symbol_native": "L",
-    "decimal_digits": 2,
+    "symbolNative": "L",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "ls",
     "units": {
       "major": {
         "name": "loti",
@@ -4142,17 +4217,18 @@
   },
   "LYD": {
     "name": "Libyan Dinar",
-    "name_native": "دينار ليبي",
-    "name_plural": "Libyan dinars",
-    "name_plural_native": "دينار ليبي",
+    "nameNative": "دينار ليبي",
+    "namePlural": "Libyan dinars",
+    "namePluralNative": "دينار ليبي",
     "iso": {
       "code": "LYD",
       "number": "434"
     },
     "symbol": "LYD",
-    "symbol_native": "ل.د",
-    "decimal_digits": 3,
+    "symbolNative": "ل.د",
+    "decimalDigits": 3,
     "rounding": 0,
+    "flagCode": "ly",
     "units": {
       "major": {
         "name": "dinar",
@@ -4194,17 +4270,18 @@
   },
   "MAD": {
     "name": "Moroccan Dirham",
-    "name_native": "درهم مغربي",
-    "name_plural": "Moroccan dirhams",
-    "name_plural_native": "دراهم مغربية",
+    "nameNative": "درهم مغربي",
+    "namePlural": "Moroccan dirhams",
+    "namePluralNative": "دراهم مغربية",
     "iso": {
       "code": "MAD",
       "number": "504"
     },
     "symbol": "MAD",
-    "symbol_native": "د.م.",
-    "decimal_digits": 2,
+    "symbolNative": "د.م.",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "ma",
     "units": {
       "major": {
         "name": "dirham",
@@ -4246,17 +4323,18 @@
   },
   "MDL": {
     "name": "Moldovan Leu",
-    "name_native": "Leu moldovenesc",
-    "name_plural": "Moldovan lei",
-    "name_plural_native": "Lei moldovenești",
+    "nameNative": "Leu moldovenesc",
+    "namePlural": "Moldovan lei",
+    "namePluralNative": "Lei moldovenești",
     "iso": {
       "code": "MDL",
       "number": "498"
     },
     "symbol": "MDL",
-    "symbol_native": "L",
-    "decimal_digits": 2,
+    "symbolNative": "L",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "md",
     "units": {
       "major": {
         "name": "leu",
@@ -4300,17 +4378,18 @@
   },
   "MGA": {
     "name": "Malagasy Ariary",
-    "name_native": "Ariary",
-    "name_plural": "Malagasy ariaries",
-    "name_plural_native": "Ariary",
+    "nameNative": "Ariary",
+    "namePlural": "Malagasy ariaries",
+    "namePluralNative": "Ariary",
     "iso": {
       "code": "MGA",
       "number": "969"
     },
     "symbol": "MGA",
-    "symbol_native": "Ar",
-    "decimal_digits": 2,
+    "symbolNative": "Ar",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "mg",
     "units": {
       "major": {
         "name": "ariary",
@@ -4352,17 +4431,18 @@
   },
   "MKD": {
     "name": "Macedonian Denar",
-    "name_native": "Денар",
-    "name_plural": "Macedonian denari",
-    "name_plural_native": "Денари",
+    "nameNative": "Денар",
+    "namePlural": "Macedonian denari",
+    "namePluralNative": "Денари",
     "iso": {
       "code": "MKD",
       "number": "807"
     },
     "symbol": "MKD",
-    "symbol_native": "ден",
-    "decimal_digits": 2,
+    "symbolNative": "ден",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "mk",
     "units": {
       "major": {
         "name": "denar",
@@ -4402,17 +4482,18 @@
   },
   "MMK": {
     "name": "Myanmar Kyat",
-    "name_native": "ကျပ်",
-    "name_plural": "Myanmar kyats",
-    "name_plural_native": "ကျပ်",
+    "nameNative": "ကျပ်",
+    "namePlural": "Myanmar kyats",
+    "namePluralNative": "ကျပ်",
     "iso": {
       "code": "MMK",
       "number": "104"
     },
     "symbol": "MMK",
-    "symbol_native": "K",
-    "decimal_digits": 2,
+    "symbolNative": "K",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "mm",
     "units": {
       "major": {
         "name": "kyat",
@@ -4457,17 +4538,18 @@
   },
   "MNT": {
     "name": "Mongolian Tugrik",
-    "name_native": "Төгрөг",
-    "name_plural": "Mongolian tugriks",
-    "name_plural_native": "Төгрөг",
+    "nameNative": "Төгрөг",
+    "namePlural": "Mongolian tugriks",
+    "namePluralNative": "Төгрөг",
     "iso": {
       "code": "MNT",
       "number": "496"
     },
     "symbol": "MNT",
-    "symbol_native": "₮",
-    "decimal_digits": 2,
+    "symbolNative": "₮",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "mn",
     "units": {
       "major": {
         "name": "tögrög",
@@ -4512,17 +4594,18 @@
   },
   "MOP": {
     "name": "Macanese Pataca",
-    "name_native": "澳門元",
-    "name_plural": "Macanese patacas",
-    "name_plural_native": "澳門元",
+    "nameNative": "澳門元",
+    "namePlural": "Macanese patacas",
+    "namePluralNative": "澳門元",
     "iso": {
       "code": "MOP",
       "number": "446"
     },
     "symbol": "MOP",
-    "symbol_native": "P",
-    "decimal_digits": 2,
+    "symbolNative": "P",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "mo",
     "units": {
       "major": {
         "name": "pataca",
@@ -4561,17 +4644,18 @@
   },
   "MRU": {
     "name": "Mauritanian Ouguiya",
-    "name_native": "أوقية موريتانية",
-    "name_plural": "Mauritanian ouguiyas",
-    "name_plural_native": "أوقية موريتانية",
+    "nameNative": "أوقية موريتانية",
+    "namePlural": "Mauritanian ouguiyas",
+    "namePluralNative": "أوقية موريتانية",
     "iso": {
       "code": "MRU",
       "number": "929"
     },
     "symbol": "MRU",
-    "symbol_native": "UM",
-    "decimal_digits": 2,
+    "symbolNative": "UM",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "mr",
     "units": {
       "major": {
         "name": "ouguiya",
@@ -4609,17 +4693,18 @@
   },
   "MUR": {
     "name": "Mauritian Rupee",
-    "name_native": "Roupie mauricienne",
-    "name_plural": "Mauritian rupees",
-    "name_plural_native": "Roupies mauriciennes",
+    "nameNative": "Roupie mauricienne",
+    "namePlural": "Mauritian rupees",
+    "namePluralNative": "Roupies mauriciennes",
     "iso": {
       "code": "MUR",
       "number": "480"
     },
     "symbol": "MUR",
-    "symbol_native": "₨",
-    "decimal_digits": 2,
+    "symbolNative": "₨",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "mu",
     "units": {
       "major": {
         "name": "rupee",
@@ -4662,17 +4747,18 @@
   },
   "MVR": {
     "name": "Maldivian Rufiyaa",
-    "name_native": "ރުފިޔާ",
-    "name_plural": "Maldivian rufiyaas",
-    "name_plural_native": "ރުފިޔާ",
+    "nameNative": "ރުފިޔާ",
+    "namePlural": "Maldivian rufiyaas",
+    "namePluralNative": "ރުފިޔާ",
     "iso": {
       "code": "MVR",
       "number": "462"
     },
     "symbol": "MVR",
-    "symbol_native": ".ރ",
-    "decimal_digits": 2,
+    "symbolNative": ".ރ",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "mv",
     "units": {
       "major": {
         "name": "rufiyaa",
@@ -4714,17 +4800,18 @@
   },
   "MWK": {
     "name": "Malawian Kwacha",
-    "name_native": "Kwacha",
-    "name_plural": "Malawian kwachas",
-    "name_plural_native": "Kwacha",
+    "nameNative": "Kwacha",
+    "namePlural": "Malawian kwachas",
+    "namePluralNative": "Kwacha",
     "iso": {
       "code": "MWK",
       "number": "454"
     },
     "symbol": "MWK",
-    "symbol_native": "MK",
-    "decimal_digits": 2,
+    "symbolNative": "MK",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "mw",
     "units": {
       "major": {
         "name": "kwacha",
@@ -4771,17 +4858,18 @@
   },
   "MXN": {
     "name": "Mexican Peso",
-    "name_native": "Peso mexicano",
-    "name_plural": "Mexican pesos",
-    "name_plural_native": "Pesos mexicanos",
+    "nameNative": "Peso mexicano",
+    "namePlural": "Mexican pesos",
+    "namePluralNative": "Pesos mexicanos",
     "iso": {
       "code": "MXN",
       "number": "484"
     },
     "symbol": "MXN",
-    "symbol_native": "$",
-    "decimal_digits": 2,
+    "symbolNative": "$",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "mx",
     "units": {
       "major": {
         "name": "peso",
@@ -4825,17 +4913,18 @@
   },
   "MYR": {
     "name": "Malaysian Ringgit",
-    "name_native": "Ringgit Malaysia",
-    "name_plural": "Malaysian ringgits",
-    "name_plural_native": "Ringgit Malaysia",
+    "nameNative": "Ringgit Malaysia",
+    "namePlural": "Malaysian ringgits",
+    "namePluralNative": "Ringgit Malaysia",
     "iso": {
       "code": "MYR",
       "number": "458"
     },
     "symbol": "MYR",
-    "symbol_native": "RM",
-    "decimal_digits": 2,
+    "symbolNative": "RM",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "my",
     "units": {
       "major": {
         "name": "ringgit",
@@ -4873,17 +4962,18 @@
   },
   "MZN": {
     "name": "Mozambican Metical",
-    "name_native": "Metical",
-    "name_plural": "Mozambican meticals",
-    "name_plural_native": "Meticais",
+    "nameNative": "Metical",
+    "namePlural": "Mozambican meticals",
+    "namePluralNative": "Meticais",
     "iso": {
       "code": "MZN",
       "number": "943"
     },
     "symbol": "MZN",
-    "symbol_native": "MT",
-    "decimal_digits": 2,
+    "symbolNative": "MT",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "mz",
     "units": {
       "major": {
         "name": "metical",
@@ -4927,17 +5017,18 @@
   },
   "NAD": {
     "name": "Namibian Dollar",
-    "name_native": "Namibian Dollar",
-    "name_plural": "Namibian dollars",
-    "name_plural_native": "Namibian Dollars",
+    "nameNative": "Namibian Dollar",
+    "namePlural": "Namibian dollars",
+    "namePluralNative": "Namibian Dollars",
     "iso": {
       "code": "NAD",
       "number": "516"
     },
     "symbol": "NAD",
-    "symbol_native": "$",
-    "decimal_digits": 2,
+    "symbolNative": "$",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "na",
     "units": {
       "major": {
         "name": "dollar",
@@ -4977,17 +5068,18 @@
   },
   "NGN": {
     "name": "Nigerian Naira",
-    "name_native": "Naira",
-    "name_plural": "Nigerian nairas",
-    "name_plural_native": "Naira",
+    "nameNative": "Naira",
+    "namePlural": "Nigerian nairas",
+    "namePluralNative": "Naira",
     "iso": {
       "code": "NGN",
       "number": "566"
     },
     "symbol": "NGN",
-    "symbol_native": "₦",
-    "decimal_digits": 2,
+    "symbolNative": "₦",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "ng",
     "units": {
       "major": {
         "name": "naira",
@@ -5026,17 +5118,18 @@
   },
   "NIO": {
     "name": "Nicaraguan Córdoba",
-    "name_native": "Córdoba",
-    "name_plural": "Nicaraguan córdobas",
-    "name_plural_native": "Córdobas",
+    "nameNative": "Córdoba",
+    "namePlural": "Nicaraguan córdobas",
+    "namePluralNative": "Córdobas",
     "iso": {
       "code": "NIO",
       "number": "558"
     },
     "symbol": "NIO",
-    "symbol_native": "C$",
-    "decimal_digits": 2,
+    "symbolNative": "C$",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "ni",
     "units": {
       "major": {
         "name": "córdoba",
@@ -5079,17 +5172,18 @@
   },
   "NOK": {
     "name": "Norwegian Krone",
-    "name_native": "Norsk krone",
-    "name_plural": "Norwegian kroner",
-    "name_plural_native": "Norske kroner",
+    "nameNative": "Norsk krone",
+    "namePlural": "Norwegian kroner",
+    "namePluralNative": "Norske kroner",
     "iso": {
       "code": "NOK",
       "number": "578"
     },
     "symbol": "NOK",
-    "symbol_native": "kr",
-    "decimal_digits": 2,
+    "symbolNative": "kr",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "no",
     "units": {
       "major": {
         "name": "krone",
@@ -5128,17 +5222,18 @@
   },
   "NPR": {
     "name": "Nepalese Rupee",
-    "name_native": "रुपैयाँ",
-    "name_plural": "Nepalese rupees",
-    "name_plural_native": "रुपैयाँ",
+    "nameNative": "रुपैयाँ",
+    "namePlural": "Nepalese rupees",
+    "namePluralNative": "रुपैयाँ",
     "iso": {
       "code": "NPR",
       "number": "524"
     },
     "symbol": "NPR",
-    "symbol_native": "₨",
-    "decimal_digits": 2,
+    "symbolNative": "₨",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "np",
     "units": {
       "major": {
         "name": "rupee",
@@ -5183,17 +5278,18 @@
   },
   "NZD": {
     "name": "New Zealand Dollar",
-    "name_native": "New Zealand Dollar",
-    "name_plural": "New Zealand dollars",
-    "name_plural_native": "New Zealand Dollars",
+    "nameNative": "New Zealand Dollar",
+    "namePlural": "New Zealand dollars",
+    "namePluralNative": "New Zealand Dollars",
     "iso": {
       "code": "NZD",
       "number": "554"
     },
     "symbol": "NZD",
-    "symbol_native": "$",
-    "decimal_digits": 2,
+    "symbolNative": "$",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "nz",
     "units": {
       "major": {
         "name": "dollar",
@@ -5235,17 +5331,18 @@
   },
   "OMR": {
     "name": "Omani Rial",
-    "name_native": "ريال عماني",
-    "name_plural": "Omani rials",
-    "name_plural_native": "ريالات عمانية",
+    "nameNative": "ريال عماني",
+    "namePlural": "Omani rials",
+    "namePluralNative": "ريالات عمانية",
     "iso": {
       "code": "OMR",
       "number": "512"
     },
     "symbol": "OMR",
-    "symbol_native": "ر.ع.",
-    "decimal_digits": 3,
+    "symbolNative": "ر.ع.",
+    "decimalDigits": 3,
     "rounding": 0,
+    "flagCode": "om",
     "units": {
       "major": {
         "name": "rial",
@@ -5284,17 +5381,18 @@
   },
   "PAB": {
     "name": "Panamanian Balboa",
-    "name_native": "Balboa",
-    "name_plural": "Panamanian balboas",
-    "name_plural_native": "Balboas",
+    "nameNative": "Balboa",
+    "namePlural": "Panamanian balboas",
+    "namePluralNative": "Balboas",
     "iso": {
       "code": "PAB",
       "number": "590"
     },
     "symbol": "PAB",
-    "symbol_native": "B/.",
-    "decimal_digits": 2,
+    "symbolNative": "B/.",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "pa",
     "units": {
       "major": {
         "name": "balboa",
@@ -5330,17 +5428,18 @@
   },
   "PEN": {
     "name": "Peruvian Sol",
-    "name_native": "Sol",
-    "name_plural": "Peruvian soles",
-    "name_plural_native": "Soles",
+    "nameNative": "Sol",
+    "namePlural": "Peruvian soles",
+    "namePluralNative": "Soles",
     "iso": {
       "code": "PEN",
       "number": "604"
     },
     "symbol": "PEN",
-    "symbol_native": "S/",
-    "decimal_digits": 2,
+    "symbolNative": "S/",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "pe",
     "units": {
       "major": {
         "name": "sol",
@@ -5382,17 +5481,18 @@
   },
   "PGK": {
     "name": "Papua New Guinean Kina",
-    "name_native": "Kina",
-    "name_plural": "Papua New Guinean kina",
-    "name_plural_native": "Kina",
+    "nameNative": "Kina",
+    "namePlural": "Papua New Guinean kina",
+    "namePluralNative": "Kina",
     "iso": {
       "code": "PGK",
       "number": "598"
     },
     "symbol": "PGK",
-    "symbol_native": "K",
-    "decimal_digits": 2,
+    "symbolNative": "K",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "pg",
     "units": {
       "major": {
         "name": "kina",
@@ -5432,17 +5532,18 @@
   },
   "PHP": {
     "name": "Philippine Peso",
-    "name_native": "Piso",
-    "name_plural": "Philippine pesos",
-    "name_plural_native": "Piso",
+    "nameNative": "Piso",
+    "namePlural": "Philippine pesos",
+    "namePluralNative": "Piso",
     "iso": {
       "code": "PHP",
       "number": "608"
     },
     "symbol": "PHP",
-    "symbol_native": "₱",
-    "decimal_digits": 2,
+    "symbolNative": "₱",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "ph",
     "units": {
       "major": {
         "name": "peso",
@@ -5484,17 +5585,18 @@
   },
   "PKR": {
     "name": "Pakistani Rupee",
-    "name_native": "روپیہ",
-    "name_plural": "Pakistani rupees",
-    "name_plural_native": "روپے",
+    "nameNative": "روپیہ",
+    "namePlural": "Pakistani rupees",
+    "namePluralNative": "روپے",
     "iso": {
       "code": "PKR",
       "number": "586"
     },
     "symbol": "PKR",
-    "symbol_native": "₨",
-    "decimal_digits": 2,
+    "symbolNative": "₨",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "pk",
     "units": {
       "major": {
         "name": "rupee",
@@ -5534,17 +5636,18 @@
   },
   "PLN": {
     "name": "Polish Zloty",
-    "name_native": "Złoty",
-    "name_plural": "Polish zlotys",
-    "name_plural_native": "Złote",
+    "nameNative": "Złoty",
+    "namePlural": "Polish zlotys",
+    "namePluralNative": "Złote",
     "iso": {
       "code": "PLN",
       "number": "985"
     },
     "symbol": "PLN",
-    "symbol_native": "zł",
-    "decimal_digits": 2,
+    "symbolNative": "zł",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "pl",
     "units": {
       "major": {
         "name": "złoty",
@@ -5587,17 +5690,18 @@
   },
   "PYG": {
     "name": "Paraguayan Guarani",
-    "name_native": "Guaraní",
-    "name_plural": "Paraguayan guaranis",
-    "name_plural_native": "Guaraníes",
+    "nameNative": "Guaraní",
+    "namePlural": "Paraguayan guaranis",
+    "namePluralNative": "Guaraníes",
     "iso": {
       "code": "PYG",
       "number": "600"
     },
     "symbol": "PYG",
-    "symbol_native": "₲",
-    "decimal_digits": 0,
+    "symbolNative": "₲",
+    "decimalDigits": 0,
     "rounding": 0,
+    "flagCode": "py",
     "units": {
       "major": {
         "name": "guarani",
@@ -5635,17 +5739,18 @@
   },
   "QAR": {
     "name": "Qatari Riyal",
-    "name_native": "ريال قطري",
-    "name_plural": "Qatari riyals",
-    "name_plural_native": "ريالات قطرية",
+    "nameNative": "ريال قطري",
+    "namePlural": "Qatari riyals",
+    "namePluralNative": "ريالات قطرية",
     "iso": {
       "code": "QAR",
       "number": "634"
     },
     "symbol": "QAR",
-    "symbol_native": "ر.ق",
-    "decimal_digits": 2,
+    "symbolNative": "ر.ق",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "qa",
     "units": {
       "major": {
         "name": "riyal",
@@ -5685,17 +5790,18 @@
   },
   "RON": {
     "name": "Romanian Leu",
-    "name_native": "Leu românesc",
-    "name_plural": "Romanian lei",
-    "name_plural_native": "Lei românești",
+    "nameNative": "Leu românesc",
+    "namePlural": "Romanian lei",
+    "namePluralNative": "Lei românești",
     "iso": {
       "code": "RON",
       "number": "946"
     },
     "symbol": "RON",
-    "symbol_native": "lei",
-    "decimal_digits": 2,
+    "symbolNative": "lei",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "ro",
     "units": {
       "major": {
         "name": "leu",
@@ -5735,17 +5841,18 @@
   },
   "RSD": {
     "name": "Serbian Dinar",
-    "name_native": "Динар",
-    "name_plural": "Serbian dinars",
-    "name_plural_native": "Динара",
+    "nameNative": "Динар",
+    "namePlural": "Serbian dinars",
+    "namePluralNative": "Динара",
     "iso": {
       "code": "RSD",
       "number": "941"
     },
     "symbol": "RSD",
-    "symbol_native": "дин",
-    "decimal_digits": 2,
+    "symbolNative": "дин",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "rs",
     "units": {
       "major": {
         "name": "dinar",
@@ -5788,17 +5895,18 @@
   },
   "RUB": {
     "name": "Russian Ruble",
-    "name_native": "Рубль",
-    "name_plural": "Russian rubles",
-    "name_plural_native": "Рубли",
+    "nameNative": "Рубль",
+    "namePlural": "Russian rubles",
+    "namePluralNative": "Рубли",
     "iso": {
       "code": "RUB",
       "number": "643"
     },
     "symbol": "RUB",
-    "symbol_native": "₽",
-    "decimal_digits": 2,
+    "symbolNative": "₽",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "ru",
     "units": {
       "major": {
         "name": "ruble",
@@ -5843,17 +5951,18 @@
   },
   "RWF": {
     "name": "Rwandan Franc",
-    "name_native": "Ifaranga",
-    "name_plural": "Rwandan francs",
-    "name_plural_native": "Amafaranga",
+    "nameNative": "Ifaranga",
+    "namePlural": "Rwandan francs",
+    "namePluralNative": "Amafaranga",
     "iso": {
       "code": "RWF",
       "number": "646"
     },
     "symbol": "RWF",
-    "symbol_native": "FRw",
-    "decimal_digits": 0,
+    "symbolNative": "FRw",
+    "decimalDigits": 0,
     "rounding": 0,
+    "flagCode": "rw",
     "units": {
       "major": {
         "name": "franc",
@@ -5891,17 +6000,18 @@
   },
   "SAR": {
     "name": "Saudi Riyal",
-    "name_native": "ريال سعودي",
-    "name_plural": "Saudi riyals",
-    "name_plural_native": "ريالات سعودية",
+    "nameNative": "ريال سعودي",
+    "namePlural": "Saudi riyals",
+    "namePluralNative": "ريالات سعودية",
     "iso": {
       "code": "SAR",
       "number": "682"
     },
     "symbol": "SAR",
-    "symbol_native": "ر.س",
-    "decimal_digits": 2,
+    "symbolNative": "ر.س",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "sa",
     "units": {
       "major": {
         "name": "riyal",
@@ -5943,17 +6053,18 @@
   },
   "SBD": {
     "name": "Solomon Islands Dollar",
-    "name_native": "Solomon Islands Dollar",
-    "name_plural": "Solomon Islands dollars",
-    "name_plural_native": "Solomon Islands Dollars",
+    "nameNative": "Solomon Islands Dollar",
+    "namePlural": "Solomon Islands dollars",
+    "namePluralNative": "Solomon Islands Dollars",
     "iso": {
       "code": "SBD",
       "number": "090"
     },
     "symbol": "SBD",
-    "symbol_native": "$",
-    "decimal_digits": 2,
+    "symbolNative": "$",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "sb",
     "units": {
       "major": {
         "name": "dollar",
@@ -5993,17 +6104,18 @@
   },
   "SCR": {
     "name": "Seychellois Rupee",
-    "name_native": "Roupie seychelloise",
-    "name_plural": "Seychellois rupees",
-    "name_plural_native": "Roupies seychelloises",
+    "nameNative": "Roupie seychelloise",
+    "namePlural": "Seychellois rupees",
+    "namePluralNative": "Roupies seychelloises",
     "iso": {
       "code": "SCR",
       "number": "690"
     },
     "symbol": "SCR",
-    "symbol_native": "₨",
-    "decimal_digits": 2,
+    "symbolNative": "₨",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "sc",
     "units": {
       "major": {
         "name": "rupee",
@@ -6042,17 +6154,18 @@
   },
   "SDG": {
     "name": "Sudanese Pound",
-    "name_native": "جنيه سوداني",
-    "name_plural": "Sudanese pounds",
-    "name_plural_native": "جنيهات سودانية",
+    "nameNative": "جنيه سوداني",
+    "namePlural": "Sudanese pounds",
+    "namePluralNative": "جنيهات سودانية",
     "iso": {
       "code": "SDG",
       "number": "938"
     },
     "symbol": "SDG",
-    "symbol_native": "ج.س.",
-    "decimal_digits": 2,
+    "symbolNative": "ج.س.",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "sd",
     "units": {
       "major": {
         "name": "pound",
@@ -6094,17 +6207,18 @@
   },
   "SEK": {
     "name": "Swedish Krona",
-    "name_native": "Svensk krona",
-    "name_plural": "Swedish kronor",
-    "name_plural_native": "Svenska kronor",
+    "nameNative": "Svensk krona",
+    "namePlural": "Swedish kronor",
+    "namePluralNative": "Svenska kronor",
     "iso": {
       "code": "SEK",
       "number": "752"
     },
     "symbol": "SEK",
-    "symbol_native": "kr",
-    "decimal_digits": 2,
+    "symbolNative": "kr",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "se",
     "units": {
       "major": {
         "name": "krona",
@@ -6143,17 +6257,18 @@
   },
   "SGD": {
     "name": "Singapore Dollar",
-    "name_native": "Singapore Dollar",
-    "name_plural": "Singapore dollars",
-    "name_plural_native": "Singapore Dollars",
+    "nameNative": "Singapore Dollar",
+    "namePlural": "Singapore dollars",
+    "namePluralNative": "Singapore Dollars",
     "iso": {
       "code": "SGD",
       "number": "702"
     },
     "symbol": "SGD",
-    "symbol_native": "$",
-    "decimal_digits": 2,
+    "symbolNative": "$",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "sg",
     "units": {
       "major": {
         "name": "dollar",
@@ -6194,17 +6309,18 @@
   },
   "SHP": {
     "name": "Saint Helena Pound",
-    "name_native": "Saint Helena Pound",
-    "name_plural": "Saint Helena pounds",
-    "name_plural_native": "Saint Helena Pounds",
+    "nameNative": "Saint Helena Pound",
+    "namePlural": "Saint Helena pounds",
+    "namePluralNative": "Saint Helena Pounds",
     "iso": {
       "code": "SHP",
       "number": "654"
     },
     "symbol": "SHP",
-    "symbol_native": "£",
-    "decimal_digits": 2,
+    "symbolNative": "£",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "sh",
     "units": {
       "major": {
         "name": "pound",
@@ -6243,17 +6359,18 @@
   },
   "SLL": {
     "name": "Sierra Leonean Leone (Old)",
-    "name_native": "Leone",
-    "name_plural": "Sierra Leonean leones",
-    "name_plural_native": "Leones",
+    "nameNative": "Leone",
+    "namePlural": "Sierra Leonean leones",
+    "namePluralNative": "Leones",
     "iso": {
       "code": "SLL",
       "number": "694"
     },
     "symbol": "SLL",
-    "symbol_native": "Le",
-    "decimal_digits": 2,
+    "symbolNative": "Le",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "sl",
     "units": {
       "major": {
         "name": "leone",
@@ -6290,17 +6407,18 @@
   },
   "SOS": {
     "name": "Somali Shilling",
-    "name_native": "Shilin Soomaali",
-    "name_plural": "Somali shillings",
-    "name_plural_native": "Shilin Soomaali",
+    "nameNative": "Shilin Soomaali",
+    "namePlural": "Somali shillings",
+    "namePluralNative": "Shilin Soomaali",
     "iso": {
       "code": "SOS",
       "number": "706"
     },
     "symbol": "SOS",
-    "symbol_native": "Sh.So.",
-    "decimal_digits": 2,
+    "symbolNative": "Sh.So.",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "so",
     "units": {
       "major": {
         "name": "shilling",
@@ -6343,17 +6461,18 @@
   },
   "SRD": {
     "name": "Surinamese Dollar",
-    "name_native": "Surinaamse dollar",
-    "name_plural": "Surinamese dollars",
-    "name_plural_native": "Surinaamse dollars",
+    "nameNative": "Surinaamse dollar",
+    "namePlural": "Surinamese dollars",
+    "namePluralNative": "Surinaamse dollars",
     "iso": {
       "code": "SRD",
       "number": "968"
     },
     "symbol": "SRD",
-    "symbol_native": "$",
-    "decimal_digits": 2,
+    "symbolNative": "$",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "sr",
     "units": {
       "major": {
         "name": "dollar",
@@ -6392,17 +6511,18 @@
   },
   "SSP": {
     "name": "South Sudanese Pound",
-    "name_native": "South Sudanese Pound",
-    "name_plural": "South Sudanese pounds",
-    "name_plural_native": "South Sudanese Pounds",
+    "nameNative": "South Sudanese Pound",
+    "namePlural": "South Sudanese pounds",
+    "namePluralNative": "South Sudanese Pounds",
     "iso": {
       "code": "SSP",
       "number": "728"
     },
     "symbol": "SSP",
-    "symbol_native": "£",
-    "decimal_digits": 2,
+    "symbolNative": "£",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "ss",
     "units": {
       "major": {
         "name": "pound",
@@ -6444,17 +6564,18 @@
   },
   "STN": {
     "name": "São Tomé and Príncipe Dobra",
-    "name_native": "Dobra",
-    "name_plural": "São Tomé and Príncipe dobras",
-    "name_plural_native": "Dobras",
+    "nameNative": "Dobra",
+    "namePlural": "São Tomé and Príncipe dobras",
+    "namePluralNative": "Dobras",
     "iso": {
       "code": "STN",
       "number": "930"
     },
     "symbol": "STN",
-    "symbol_native": "Db",
-    "decimal_digits": 2,
+    "symbolNative": "Db",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "st",
     "units": {
       "major": {
         "name": "dobra",
@@ -6493,17 +6614,18 @@
   },
   "SYP": {
     "name": "Syrian Pound",
-    "name_native": "ليرة سورية",
-    "name_plural": "Syrian pounds",
-    "name_plural_native": "ليرات سورية",
+    "nameNative": "ليرة سورية",
+    "namePlural": "Syrian pounds",
+    "namePluralNative": "ليرات سورية",
     "iso": {
       "code": "SYP",
       "number": "760"
     },
     "symbol": "SYP",
-    "symbol_native": "ل.س",
-    "decimal_digits": 2,
+    "symbolNative": "ل.س",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "sy",
     "units": {
       "major": {
         "name": "pound",
@@ -6543,17 +6665,18 @@
   },
   "SZL": {
     "name": "Swazi Lilangeni",
-    "name_native": "Lilangeni",
-    "name_plural": "Swazi emalangeni",
-    "name_plural_native": "Emalangeni",
+    "nameNative": "Lilangeni",
+    "namePlural": "Swazi emalangeni",
+    "namePluralNative": "Emalangeni",
     "iso": {
       "code": "SZL",
       "number": "748"
     },
     "symbol": "SZL",
-    "symbol_native": "E",
-    "decimal_digits": 2,
+    "symbolNative": "E",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "sz",
     "units": {
       "major": {
         "name": "lilangeni",
@@ -6596,17 +6719,18 @@
   },
   "THB": {
     "name": "Thai Baht",
-    "name_native": "บาท",
-    "name_plural": "Thai baht",
-    "name_plural_native": "บาท",
+    "nameNative": "บาท",
+    "namePlural": "Thai baht",
+    "namePluralNative": "บาท",
     "iso": {
       "code": "THB",
       "number": "764"
     },
     "symbol": "THB",
-    "symbol_native": "฿",
-    "decimal_digits": 2,
+    "symbolNative": "฿",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "th",
     "units": {
       "major": {
         "name": "baht",
@@ -6645,17 +6769,18 @@
   },
   "TJS": {
     "name": "Tajikistani Somoni",
-    "name_native": "Сомонӣ",
-    "name_plural": "Tajikistani somonis",
-    "name_plural_native": "Сомонӣ",
+    "nameNative": "Сомонӣ",
+    "namePlural": "Tajikistani somonis",
+    "namePluralNative": "Сомонӣ",
     "iso": {
       "code": "TJS",
       "number": "972"
     },
     "symbol": "TJS",
-    "symbol_native": "SM",
-    "decimal_digits": 2,
+    "symbolNative": "SM",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "tj",
     "units": {
       "major": {
         "name": "somoni",
@@ -6701,17 +6826,18 @@
   },
   "TMT": {
     "name": "Turkmenistani Manat",
-    "name_native": "Manat",
-    "name_plural": "Turkmenistani manats",
-    "name_plural_native": "Manat",
+    "nameNative": "Manat",
+    "namePlural": "Turkmenistani manats",
+    "namePluralNative": "Manat",
     "iso": {
       "code": "TMT",
       "number": "934"
     },
     "symbol": "TMT",
-    "symbol_native": "m",
-    "decimal_digits": 2,
+    "symbolNative": "m",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "tm",
     "units": {
       "major": {
         "name": "manat",
@@ -6753,17 +6879,18 @@
   },
   "TND": {
     "name": "Tunisian Dinar",
-    "name_native": "دينار تونسي",
-    "name_plural": "Tunisian dinars",
-    "name_plural_native": "دينارات تونسية",
+    "nameNative": "دينار تونسي",
+    "namePlural": "Tunisian dinars",
+    "namePluralNative": "دينارات تونسية",
     "iso": {
       "code": "TND",
       "number": "788"
     },
     "symbol": "TND",
-    "symbol_native": "د.ت",
-    "decimal_digits": 3,
+    "symbolNative": "د.ت",
+    "decimalDigits": 3,
     "rounding": 0,
+    "flagCode": "tn",
     "units": {
       "major": {
         "name": "dinar",
@@ -6804,17 +6931,18 @@
   },
   "TOP": {
     "name": "Tongan Paʻanga",
-    "name_native": "Paʻanga",
-    "name_plural": "Tongan paʻanga",
-    "name_plural_native": "Paʻanga",
+    "nameNative": "Paʻanga",
+    "namePlural": "Tongan paʻanga",
+    "namePluralNative": "Paʻanga",
     "iso": {
       "code": "TOP",
       "number": "776"
     },
     "symbol": "TOP",
-    "symbol_native": "T$",
-    "decimal_digits": 2,
+    "symbolNative": "T$",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "to",
     "units": {
       "major": {
         "name": "paʻanga",
@@ -6853,17 +6981,18 @@
   },
   "TRY": {
     "name": "Turkish Lira",
-    "name_native": "Türk Lirası",
-    "name_plural": "Turkish liras",
-    "name_plural_native": "Türk Lirası",
+    "nameNative": "Türk Lirası",
+    "namePlural": "Turkish liras",
+    "namePluralNative": "Türk Lirası",
     "iso": {
       "code": "TRY",
       "number": "949"
     },
     "symbol": "TRY",
-    "symbol_native": "₺",
-    "decimal_digits": 2,
+    "symbolNative": "₺",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "tr",
     "units": {
       "major": {
         "name": "lira",
@@ -6903,17 +7032,18 @@
   },
   "TTD": {
     "name": "Trinidad and Tobago Dollar",
-    "name_native": "Trinidad and Tobago Dollar",
-    "name_plural": "Trinidad and Tobago dollars",
-    "name_plural_native": "Trinidad and Tobago Dollars",
+    "nameNative": "Trinidad and Tobago Dollar",
+    "namePlural": "Trinidad and Tobago dollars",
+    "namePluralNative": "Trinidad and Tobago Dollars",
     "iso": {
       "code": "TTD",
       "number": "780"
     },
     "symbol": "TTD",
-    "symbol_native": "$",
-    "decimal_digits": 2,
+    "symbolNative": "$",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "tt",
     "units": {
       "major": {
         "name": "dollar",
@@ -6952,17 +7082,18 @@
   },
   "TWD": {
     "name": "New Taiwan Dollar",
-    "name_native": "新臺幣",
-    "name_plural": "New Taiwan dollars",
-    "name_plural_native": "新臺幣",
+    "nameNative": "新臺幣",
+    "namePlural": "New Taiwan dollars",
+    "namePluralNative": "新臺幣",
     "iso": {
       "code": "TWD",
       "number": "901"
     },
     "symbol": "TWD",
-    "symbol_native": "NT$",
-    "decimal_digits": 2,
+    "symbolNative": "NT$",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "tw",
     "units": {
       "major": {
         "name": "dollar",
@@ -7002,17 +7133,18 @@
   },
   "TZS": {
     "name": "Tanzanian Shilling",
-    "name_native": "Shilingi",
-    "name_plural": "Tanzanian shillings",
-    "name_plural_native": "Shilingi",
+    "nameNative": "Shilingi",
+    "namePlural": "Tanzanian shillings",
+    "namePluralNative": "Shilingi",
     "iso": {
       "code": "TZS",
       "number": "834"
     },
     "symbol": "TZS",
-    "symbol_native": "TSh",
-    "decimal_digits": 2,
+    "symbolNative": "TSh",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "tz",
     "units": {
       "major": {
         "name": "shilling",
@@ -7049,17 +7181,18 @@
   },
   "UAH": {
     "name": "Ukrainian Hryvnia",
-    "name_native": "Гривня",
-    "name_plural": "Ukrainian hryvnias",
-    "name_plural_native": "Гривні",
+    "nameNative": "Гривня",
+    "namePlural": "Ukrainian hryvnias",
+    "namePluralNative": "Гривні",
     "iso": {
       "code": "UAH",
       "number": "980"
     },
     "symbol": "UAH",
-    "symbol_native": "₴",
-    "decimal_digits": 2,
+    "symbolNative": "₴",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "ua",
     "units": {
       "major": {
         "name": "hryvnia",
@@ -7107,17 +7240,18 @@
   },
   "UGX": {
     "name": "Ugandan Shilling",
-    "name_native": "Shilling ya Uganda",
-    "name_plural": "Ugandan shillings",
-    "name_plural_native": "Shilling za Uganda",
+    "nameNative": "Shilling ya Uganda",
+    "namePlural": "Ugandan shillings",
+    "namePluralNative": "Shilling za Uganda",
     "iso": {
       "code": "UGX",
       "number": "800"
     },
     "symbol": "UGX",
-    "symbol_native": "USh",
-    "decimal_digits": 0,
+    "symbolNative": "USh",
+    "decimalDigits": 0,
     "rounding": 0,
+    "flagCode": "ug",
     "units": {
       "major": {
         "name": "shilling",
@@ -7158,17 +7292,18 @@
   },
   "USD": {
     "name": "US Dollar",
-    "name_native": "US Dollar",
-    "name_plural": "US dollars",
-    "name_plural_native": "US Dollars",
+    "nameNative": "US Dollar",
+    "namePlural": "US dollars",
+    "namePluralNative": "US Dollars",
     "iso": {
       "code": "USD",
       "number": "840"
     },
     "symbol": "USD",
-    "symbol_native": "$",
-    "decimal_digits": 2,
+    "symbolNative": "$",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "us",
     "units": {
       "major": {
         "name": "dollar",
@@ -7224,17 +7359,18 @@
   },
   "UYU": {
     "name": "Uruguayan Peso",
-    "name_native": "Peso uruguayo",
-    "name_plural": "Uruguayan pesos",
-    "name_plural_native": "Pesos uruguayos",
+    "nameNative": "Peso uruguayo",
+    "namePlural": "Uruguayan pesos",
+    "namePluralNative": "Pesos uruguayos",
     "iso": {
       "code": "UYU",
       "number": "858"
     },
     "symbol": "UYU",
-    "symbol_native": "$",
-    "decimal_digits": 2,
+    "symbolNative": "$",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "uy",
     "units": {
       "major": {
         "name": "peso",
@@ -7273,17 +7409,18 @@
   },
   "UZS": {
     "name": "Uzbekistani Som",
-    "name_native": "Сўм",
-    "name_plural": "Uzbekistani soms",
-    "name_plural_native": "Сўм",
+    "nameNative": "Сўм",
+    "namePlural": "Uzbekistani soms",
+    "namePluralNative": "Сўм",
     "iso": {
       "code": "UZS",
       "number": "860"
     },
     "symbol": "UZS",
-    "symbol_native": "сум",
-    "decimal_digits": 2,
+    "symbolNative": "сум",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "uz",
     "units": {
       "major": {
         "name": "som",
@@ -7326,17 +7463,18 @@
   },
   "VES": {
     "name": "Venezuelan Bolívar",
-    "name_native": "Bolívar",
-    "name_plural": "Venezuelan bolívars",
-    "name_plural_native": "Bolívares",
+    "nameNative": "Bolívar",
+    "namePlural": "Venezuelan bolívars",
+    "namePluralNative": "Bolívares",
     "iso": {
       "code": "VES",
       "number": "928"
     },
     "symbol": "VES",
-    "symbol_native": "Bs.",
-    "decimal_digits": 2,
+    "symbolNative": "Bs.",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "ve",
     "units": {
       "major": {
         "name": "bolívar",
@@ -7371,17 +7509,18 @@
   },
   "VND": {
     "name": "Vietnamese Dong",
-    "name_native": "Đồng",
-    "name_plural": "Vietnamese dong",
-    "name_plural_native": "Đồng",
+    "nameNative": "Đồng",
+    "namePlural": "Vietnamese dong",
+    "namePluralNative": "Đồng",
     "iso": {
       "code": "VND",
       "number": "704"
     },
     "symbol": "VND",
-    "symbol_native": "₫",
-    "decimal_digits": 0,
+    "symbolNative": "₫",
+    "decimalDigits": 0,
     "rounding": 0,
+    "flagCode": "vn",
     "units": {
       "major": {
         "name": "đồng",
@@ -7427,17 +7566,18 @@
   },
   "VUV": {
     "name": "Vanuatu Vatu",
-    "name_native": "Vatu",
-    "name_plural": "Vanuatu vatus",
-    "name_plural_native": "Vatu",
+    "nameNative": "Vatu",
+    "namePlural": "Vanuatu vatus",
+    "namePluralNative": "Vatu",
     "iso": {
       "code": "VUV",
       "number": "548"
     },
     "symbol": "VUV",
-    "symbol_native": "VT",
-    "decimal_digits": 0,
+    "symbolNative": "VT",
+    "decimalDigits": 0,
     "rounding": 0,
+    "flagCode": "vu",
     "units": {
       "major": {
         "name": "vatu",
@@ -7478,17 +7618,18 @@
   },
   "WST": {
     "name": "Samoan Tala",
-    "name_native": "Tala",
-    "name_plural": "Samoan tala",
-    "name_plural_native": "Tala",
+    "nameNative": "Tala",
+    "namePlural": "Samoan tala",
+    "namePluralNative": "Tala",
     "iso": {
       "code": "WST",
       "number": "882"
     },
     "symbol": "WST",
-    "symbol_native": "T",
-    "decimal_digits": 2,
+    "symbolNative": "T",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "ws",
     "units": {
       "major": {
         "name": "tala",
@@ -7527,17 +7668,18 @@
   },
   "XAF": {
     "name": "Central African CFA Franc",
-    "name_native": "Franc CFA",
-    "name_plural": "Central African CFA francs",
-    "name_plural_native": "Francs CFA",
+    "nameNative": "Franc CFA",
+    "namePlural": "Central African CFA francs",
+    "namePluralNative": "Francs CFA",
     "iso": {
       "code": "XAF",
       "number": "950"
     },
     "symbol": "XAF",
-    "symbol_native": "FCFA",
-    "decimal_digits": 0,
+    "symbolNative": "FCFA",
+    "decimalDigits": 0,
     "rounding": 0,
+    "flagCode": "cm",
     "units": {
       "major": {
         "name": "franc",
@@ -7583,17 +7725,18 @@
   },
   "XCD": {
     "name": "East Caribbean Dollar",
-    "name_native": "East Caribbean Dollar",
-    "name_plural": "East Caribbean dollars",
-    "name_plural_native": "East Caribbean Dollars",
+    "nameNative": "East Caribbean Dollar",
+    "namePlural": "East Caribbean dollars",
+    "namePluralNative": "East Caribbean Dollars",
     "iso": {
       "code": "XCD",
       "number": "951"
     },
     "symbol": "XCD",
-    "symbol_native": "$",
-    "decimal_digits": 2,
+    "symbolNative": "$",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "ag",
     "units": {
       "major": {
         "name": "dollar",
@@ -7640,17 +7783,18 @@
   },
   "XOF": {
     "name": "West African CFA Franc",
-    "name_native": "Franc CFA",
-    "name_plural": "West African CFA francs",
-    "name_plural_native": "Francs CFA",
+    "nameNative": "Franc CFA",
+    "namePlural": "West African CFA francs",
+    "namePluralNative": "Francs CFA",
     "iso": {
       "code": "XOF",
       "number": "952"
     },
     "symbol": "XOF",
-    "symbol_native": "CFA",
-    "decimal_digits": 0,
+    "symbolNative": "CFA",
+    "decimalDigits": 0,
     "rounding": 0,
+    "flagCode": "sn",
     "units": {
       "major": {
         "name": "franc",
@@ -7698,17 +7842,18 @@
   },
   "XPF": {
     "name": "CFP Franc",
-    "name_native": "Franc CFP",
-    "name_plural": "CFP francs",
-    "name_plural_native": "Francs CFP",
+    "nameNative": "Franc CFP",
+    "namePlural": "CFP francs",
+    "namePluralNative": "Francs CFP",
     "iso": {
       "code": "XPF",
       "number": "953"
     },
     "symbol": "XPF",
-    "symbol_native": "₣",
-    "decimal_digits": 0,
+    "symbolNative": "₣",
+    "decimalDigits": 0,
     "rounding": 0,
+    "flagCode": "pf",
     "units": {
       "major": {
         "name": "franc",
@@ -7749,17 +7894,18 @@
   },
   "YER": {
     "name": "Yemeni Rial",
-    "name_native": "ريال يمني",
-    "name_plural": "Yemeni rials",
-    "name_plural_native": "ريالات يمنية",
+    "nameNative": "ريال يمني",
+    "namePlural": "Yemeni rials",
+    "namePluralNative": "ريالات يمنية",
     "iso": {
       "code": "YER",
       "number": "886"
     },
     "symbol": "YER",
-    "symbol_native": "﷼",
-    "decimal_digits": 2,
+    "symbolNative": "﷼",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "ye",
     "units": {
       "major": {
         "name": "rial",
@@ -7797,17 +7943,18 @@
   },
   "ZAR": {
     "name": "South African Rand",
-    "name_native": "Rand",
-    "name_plural": "South African rand",
-    "name_plural_native": "Rand",
+    "nameNative": "Rand",
+    "namePlural": "South African rand",
+    "namePluralNative": "Rand",
     "iso": {
       "code": "ZAR",
       "number": "710"
     },
     "symbol": "ZAR",
-    "symbol_native": "R",
-    "decimal_digits": 2,
+    "symbolNative": "R",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "za",
     "units": {
       "major": {
         "name": "rand",
@@ -7850,17 +7997,18 @@
   },
   "ZMW": {
     "name": "Zambian Kwacha",
-    "name_native": "Kwacha",
-    "name_plural": "Zambian kwachas",
-    "name_plural_native": "Kwacha",
+    "nameNative": "Kwacha",
+    "namePlural": "Zambian kwachas",
+    "namePluralNative": "Kwacha",
     "iso": {
       "code": "ZMW",
       "number": "967"
     },
     "symbol": "ZMW",
-    "symbol_native": "ZK",
-    "decimal_digits": 2,
+    "symbolNative": "ZK",
+    "decimalDigits": 2,
     "rounding": 0,
+    "flagCode": "zm",
     "units": {
       "major": {
         "name": "kwacha",

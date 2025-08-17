@@ -22,7 +22,7 @@ class CurrenciesTest extends TestCase
         $this->assertNotNull($usd);
         $this->assertEquals('US Dollar', $usd['name']);
         $this->assertEquals('$', $usd['symbol']);
-        $this->assertEquals(2, $usd['decimal_digits']);
+        $this->assertEquals(2, $usd['decimalDigits']);
 
         // Test lowercase code
         $eur = $this->currencies->getCurrency('eur');
@@ -199,12 +199,12 @@ class CurrenciesTest extends TestCase
 
         // Check required fields
         $this->assertArrayHasKey('name', $usd);
-        $this->assertArrayHasKey('name_native', $usd);
-        $this->assertArrayHasKey('name_plural', $usd);
-        $this->assertArrayHasKey('name_plural_native', $usd);
+        $this->assertArrayHasKey('nameNative', $usd);
+        $this->assertArrayHasKey('namePlural', $usd);
+        $this->assertArrayHasKey('namePluralNative', $usd);
         $this->assertArrayHasKey('symbol', $usd);
-        $this->assertArrayHasKey('symbol_native', $usd);
-        $this->assertArrayHasKey('decimal_digits', $usd);
+        $this->assertArrayHasKey('symbolNative', $usd);
+        $this->assertArrayHasKey('decimalDigits', $usd);
         $this->assertArrayHasKey('rounding', $usd);
         $this->assertArrayHasKey('countries', $usd);
         $this->assertIsArray($usd['countries']);

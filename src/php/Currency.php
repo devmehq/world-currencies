@@ -53,7 +53,7 @@ class Currency
      */
     public function getNameNative(): string
     {
-        return $this->data['name_native'] ?? '';
+        return $this->data['nameNative'] ?? '';
     }
 
     /**
@@ -62,7 +62,7 @@ class Currency
      */
     public function getNamePlural(): string
     {
-        return $this->data['name_plural'] ?? '';
+        return $this->data['namePlural'] ?? '';
     }
 
     /**
@@ -71,7 +71,7 @@ class Currency
      */
     public function getNamePluralNative(): string
     {
-        return $this->data['name_plural_native'] ?? '';
+        return $this->data['namePluralNative'] ?? '';
     }
 
     /**
@@ -89,7 +89,7 @@ class Currency
      */
     public function getSymbolNative(): string
     {
-        return $this->data['symbol_native'] ?? '';
+        return $this->data['symbolNative'] ?? '';
     }
 
     /**
@@ -98,7 +98,7 @@ class Currency
      */
     public function getDecimalDigits(): int
     {
-        return $this->data['decimal_digits'] ?? 2;
+        return $this->data['decimalDigits'] ?? 2;
     }
 
     /**
@@ -126,6 +126,15 @@ class Currency
     public function getIsoNumber(): string
     {
         return $this->data['iso']['number'] ?? '';
+    }
+
+    /**
+     * Get flag code
+     * @return string|null ISO 3166-1 alpha-2 country code for flag
+     */
+    public function getFlagCode(): ?string
+    {
+        return $this->data['flagCode'] ?? null;
     }
 
     /**

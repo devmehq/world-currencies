@@ -23,7 +23,7 @@ class TestGetCurrency:
         assert usd is not None
         assert usd['name'] == 'US Dollar'
         assert usd['symbol'] == '$'
-        assert usd['decimal_digits'] == 2
+        assert usd['decimalDigits'] == 2
     
     def test_handle_lowercase_code(self):
         eur = get_currency('eur')
@@ -137,12 +137,12 @@ class TestCurrencyDataStructure:
         
         # Check required fields
         assert 'name' in usd
-        assert 'name_native' in usd
-        assert 'name_plural' in usd
-        assert 'name_plural_native' in usd
+        assert 'nameNative' in usd
+        assert 'namePlural' in usd
+        assert 'namePluralNative' in usd
         assert 'symbol' in usd
-        assert 'symbol_native' in usd
-        assert 'decimal_digits' in usd
+        assert 'symbolNative' in usd
+        assert 'decimalDigits' in usd
         assert 'rounding' in usd
         assert 'countries' in usd
         assert isinstance(usd['countries'], list)
@@ -175,8 +175,8 @@ class TestCurrencyClass:
     
     def test_currency_attributes(self):
         currency = Currency('EUR')
-        assert currency.name_native == 'Euro'
-        assert currency.decimal_digits == 2
+        assert currency.nameNative == 'Euro'
+        assert currency.decimalDigits == 2
         assert isinstance(currency.countries, list)
     
     def test_currency_string_representation(self):

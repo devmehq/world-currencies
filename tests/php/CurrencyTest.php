@@ -148,6 +148,10 @@ class CurrencyTest extends TestCase
         $this->assertIsInt($currency->getDecimalDigits());
         $this->assertIsNumeric($currency->getRounding());
         
+        // Test flag code
+        $flagCode = $currency->getFlagCode();
+        $this->assertTrue($flagCode === null || is_string($flagCode));
+        
         $units = $currency->getUnits();
         $this->assertArrayHasKey('major', $units);
         $this->assertArrayHasKey('minor', $units);

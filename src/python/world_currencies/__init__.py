@@ -82,7 +82,7 @@ def get_currency_by_symbol(symbol: str) -> List[Dict[str, Any]]:
     matching_currencies = []
     
     for currency in currencies.values():
-        if currency.get('symbol') == symbol or currency.get('symbol_native') == symbol:
+        if currency.get('symbol') == symbol or currency.get('symbolNative') == symbol:
             matching_currencies.append(currency)
     
     return matching_currencies
@@ -101,7 +101,7 @@ def get_currencies_by_decimal_digits(digits: int) -> List[Dict[str, Any]]:
     matching_currencies = []
     
     for currency in currencies.values():
-        if currency.get('decimal_digits') == digits:
+        if currency.get('decimalDigits') == digits:
             matching_currencies.append(currency)
     
     return matching_currencies
@@ -132,9 +132,9 @@ def search_currencies(search_term: str) -> List[Dict[str, Any]]:
     
     for currency in currencies.values():
         if (lower_search_term in currency.get('name', '').lower() or
-            lower_search_term in currency.get('name_native', '').lower() or
-            lower_search_term in currency.get('name_plural', '').lower() or
-            lower_search_term in currency.get('name_plural_native', '').lower()):
+            lower_search_term in currency.get('nameNative', '').lower() or
+            lower_search_term in currency.get('namePlural', '').lower() or
+            lower_search_term in currency.get('namePluralNative', '').lower()):
             matching_currencies.append(currency)
     
     return matching_currencies

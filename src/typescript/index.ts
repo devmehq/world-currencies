@@ -2,17 +2,18 @@ import * as currenciesData from '../../data/world-currencies.json';
 
 export interface Currency {
   name: string;
-  name_native: string;
-  name_plural: string;
-  name_plural_native: string;
+  nameNative: string;
+  namePlural: string;
+  namePluralNative: string;
   iso: {
     code: string;
     number: string;
   };
   symbol: string;
-  symbol_native: string;
-  decimal_digits: number;
+  symbolNative: string;
+  decimalDigits: number;
   rounding: number;
+  flagCode: string | null;
   units: {
     major: {
       name: string;
@@ -83,7 +84,7 @@ export function getCurrencyBySymbol(symbol: string): Currency[] {
   const matchingCurrencies: Currency[] = [];
   
   for (const currency of Object.values(currencies)) {
-    if (currency.symbol === symbol || currency.symbol_native === symbol) {
+    if (currency.symbol === symbol || currency.symbolNative === symbol) {
       matchingCurrencies.push(currency);
     }
   }
@@ -100,7 +101,7 @@ export function getCurrenciesByDecimalDigits(digits: number): Currency[] {
   const matchingCurrencies: Currency[] = [];
   
   for (const currency of Object.values(currencies)) {
-    if (currency.decimal_digits === digits) {
+    if (currency.decimalDigits === digits) {
       matchingCurrencies.push(currency);
     }
   }
@@ -128,9 +129,9 @@ export function searchCurrencies(searchTerm: string): Currency[] {
   for (const currency of Object.values(currencies)) {
     if (
       currency.name.toLowerCase().includes(lowerSearchTerm) ||
-      currency.name_native.toLowerCase().includes(lowerSearchTerm) ||
-      currency.name_plural.toLowerCase().includes(lowerSearchTerm) ||
-      currency.name_plural_native.toLowerCase().includes(lowerSearchTerm)
+      currency.nameNative.toLowerCase().includes(lowerSearchTerm) ||
+      currency.namePlural.toLowerCase().includes(lowerSearchTerm) ||
+      currency.namePluralNative.toLowerCase().includes(lowerSearchTerm)
     ) {
       matchingCurrencies.push(currency);
     }
