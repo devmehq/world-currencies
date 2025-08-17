@@ -56,7 +56,7 @@
   "AFN": {
     "name": "Afghan Afghani",
     "name_native": "افغانی",
-    "name_plural": "Afghan Afghanis",
+    "name_plural": "Afghan afghanis",
     "name_plural_native": "افغانی",
     "iso": {
       "code": "AFN",
@@ -106,7 +106,7 @@
   "ALL": {
     "name": "Albanian Lek",
     "name_native": "Lek",
-    "name_plural": "Albanian Lekë",
+    "name_plural": "Albanian lekë",
     "name_plural_native": "Lekë",
     "iso": {
       "code": "ALL",
@@ -206,7 +206,7 @@
   "ANG": {
     "name": "Netherlands Antillean Guilder",
     "name_native": "Gulden",
-    "name_plural": "Netherlands Antillean Guilders",
+    "name_plural": "Netherlands Antillean guilders",
     "name_plural_native": "Gulden",
     "iso": {
       "code": "ANG",
@@ -260,7 +260,7 @@
   "AOA": {
     "name": "Angolan Kwanza",
     "name_native": "Kwanza",
-    "name_plural": "Angolan Kwanzas",
+    "name_plural": "Angolan kwanzas",
     "name_plural_native": "Kwanzas",
     "iso": {
       "code": "AOA",
@@ -310,7 +310,7 @@
   "ARS": {
     "name": "Argentine Peso",
     "name_native": "Peso argentino",
-    "name_plural": "Argentine Pesos",
+    "name_plural": "Argentine pesos",
     "name_plural_native": "Pesos argentinos",
     "iso": {
       "code": "ARS",
@@ -365,7 +365,7 @@
   "AUD": {
     "name": "Australian Dollar",
     "name_native": "Australian Dollar",
-    "name_plural": "Australian Dollars",
+    "name_plural": "Australian dollars",
     "name_plural_native": "Australian Dollars",
     "iso": {
       "code": "AUD",
@@ -421,7 +421,7 @@
   "AWG": {
     "name": "Aruban Florin",
     "name_native": "Florin",
-    "name_plural": "Aruban Florins",
+    "name_plural": "Aruban florin",
     "name_plural_native": "Florin",
     "iso": {
       "code": "AWG",
@@ -471,7 +471,7 @@
   "AZN": {
     "name": "Azerbaijani Manat",
     "name_native": "Manat",
-    "name_plural": "Azerbaijani Manats",
+    "name_plural": "Azerbaijani manats",
     "name_plural_native": "Manat",
     "iso": {
       "code": "AZN",
@@ -523,7 +523,7 @@
   "BAM": {
     "name": "Bosnia and Herzegovina Convertible Mark",
     "name_native": "Konvertibilna marka",
-    "name_plural": "Bosnia and Herzegovina Convertible Marks",
+    "name_plural": "Bosnia and Herzegovina convertible marks",
     "name_plural_native": "Konvertibilne marke",
     "iso": {
       "code": "BAM",
@@ -573,7 +573,7 @@
   "BBD": {
     "name": "Barbadian Dollar",
     "name_native": "Barbadian Dollar",
-    "name_plural": "Barbadian Dollars",
+    "name_plural": "Barbadian dollars",
     "name_plural_native": "Barbadian Dollars",
     "iso": {
       "code": "BBD",
@@ -622,7 +622,7 @@
   "BDT": {
     "name": "Bangladeshi Taka",
     "name_native": "টাকা",
-    "name_plural": "Bangladeshi Takas",
+    "name_plural": "Bangladeshi takas",
     "name_plural_native": "টাকা",
     "iso": {
       "code": "BDT",
@@ -679,7 +679,7 @@
   "BGN": {
     "name": "Bulgarian Lev",
     "name_native": "Лев",
-    "name_plural": "Bulgarian Leva",
+    "name_plural": "Bulgarian leva",
     "name_plural_native": "Лева",
     "iso": {
       "code": "BGN",
@@ -731,7 +731,7 @@
   "BHD": {
     "name": "Bahraini Dinar",
     "name_native": "دينار بحريني",
-    "name_plural": "Bahraini Dinars",
+    "name_plural": "Bahraini dinars",
     "name_plural_native": "دينار بحريني",
     "iso": {
       "code": "BHD",
@@ -780,7 +780,7 @@
   "BIF": {
     "name": "Burundian Franc",
     "name_native": "Franc burundais",
-    "name_plural": "Burundian Francs",
+    "name_plural": "Burundian francs",
     "name_plural_native": "Francs burundais",
     "iso": {
       "code": "BIF",
@@ -831,7 +831,7 @@
   "BMD": {
     "name": "Bermudian Dollar",
     "name_native": "Bermudian Dollar",
-    "name_plural": "Bermudian Dollars",
+    "name_plural": "Bermudian dollars",
     "name_plural_native": "Bermudian Dollars",
     "iso": {
       "code": "BMD",
@@ -883,7 +883,7 @@
   "BND": {
     "name": "Brunei Dollar",
     "name_native": "Ringgit Brunei",
-    "name_plural": "Brunei Dollars",
+    "name_plural": "Brunei dollars",
     "name_plural_native": "Ringgit Brunei",
     "iso": {
       "code": "BND",
@@ -937,7 +937,7 @@
   "BOB": {
     "name": "Bolivian Boliviano",
     "name_native": "Boliviano",
-    "name_plural": "Bolivian Bolivianos",
+    "name_plural": "Bolivian bolivianos",
     "name_plural_native": "Bolivianos",
     "iso": {
       "code": "BOB",
@@ -986,7 +986,7 @@
   "BRL": {
     "name": "Brazilian Real",
     "name_native": "Real",
-    "name_plural": "Brazilian Reais",
+    "name_plural": "Brazilian reals",
     "name_plural_native": "Reais",
     "iso": {
       "code": "BRL",
@@ -1038,7 +1038,7 @@
   "BSD": {
     "name": "Bahamian Dollar",
     "name_native": "Bahamian Dollar",
-    "name_plural": "Bahamian Dollars",
+    "name_plural": "Bahamian dollars",
     "name_plural_native": "Bahamian Dollars",
     "iso": {
       "code": "BSD",
@@ -1095,7 +1095,7 @@
   "BTN": {
     "name": "Bhutanese Ngultrum",
     "name_native": "དངུལ་ཀྲམ",
-    "name_plural": "Bhutanese Ngultrums",
+    "name_plural": "Bhutanese ngultrums",
     "name_plural_native": "དངུལ་ཀྲམ",
     "iso": {
       "code": "BTN",
@@ -1148,7 +1148,7 @@
   "BWP": {
     "name": "Botswana Pula",
     "name_native": "Pula",
-    "name_plural": "Botswana Pulas",
+    "name_plural": "Botswana pulas",
     "name_plural_native": "Pula",
     "iso": {
       "code": "BWP",
@@ -1198,7 +1198,7 @@
   "BYN": {
     "name": "Belarusian Ruble",
     "name_native": "Беларускі рубель",
-    "name_plural": "Belarusian Rubles",
+    "name_plural": "Belarusian rubles",
     "name_plural_native": "Беларускія рублі",
     "iso": {
       "code": "BYN",
@@ -1251,7 +1251,7 @@
   "BZD": {
     "name": "Belize Dollar",
     "name_native": "Belize Dollar",
-    "name_plural": "Belize Dollars",
+    "name_plural": "Belize dollars",
     "name_plural_native": "Belize Dollars",
     "iso": {
       "code": "BZD",
@@ -1302,7 +1302,7 @@
   "CAD": {
     "name": "Canadian Dollar",
     "name_native": "Dollar canadien",
-    "name_plural": "Canadian Dollars",
+    "name_plural": "Canadian dollars",
     "name_plural_native": "Dollars canadiens",
     "iso": {
       "code": "CAD",
@@ -1353,7 +1353,7 @@
   "CHF": {
     "name": "Swiss Franc",
     "name_native": "Schweizer Franken",
-    "name_plural": "Swiss Francs",
+    "name_plural": "Swiss francs",
     "name_plural_native": "Schweizer Franken",
     "iso": {
       "code": "CHF",
@@ -1405,7 +1405,7 @@
   "CLP": {
     "name": "Chilean Peso",
     "name_native": "Peso chileno",
-    "name_plural": "Chilean Pesos",
+    "name_plural": "Chilean pesos",
     "name_plural_native": "Pesos chilenos",
     "iso": {
       "code": "CLP",
@@ -1454,7 +1454,7 @@
   "CNY": {
     "name": "Chinese Yuan",
     "name_native": "人民币",
-    "name_plural": "Chinese Yuan",
+    "name_plural": "Chinese yuan",
     "name_plural_native": "人民币",
     "iso": {
       "code": "CNY",
@@ -1511,7 +1511,7 @@
   "COP": {
     "name": "Colombian Peso",
     "name_native": "Peso colombiano",
-    "name_plural": "Colombian Pesos",
+    "name_plural": "Colombian pesos",
     "name_plural_native": "Pesos colombianos",
     "iso": {
       "code": "COP",
@@ -1565,7 +1565,7 @@
   "CRC": {
     "name": "Costa Rican Colón",
     "name_native": "Colón costarricense",
-    "name_plural": "Costa Rican Colónes",
+    "name_plural": "Costa Rican colóns",
     "name_plural_native": "Colones costarricenses",
     "iso": {
       "code": "CRC",
@@ -1668,7 +1668,7 @@
   "CUP": {
     "name": "Cuban Peso",
     "name_native": "Peso cubano",
-    "name_plural": "Cuban Pesos",
+    "name_plural": "Cuban pesos",
     "name_plural_native": "Pesos cubanos",
     "iso": {
       "code": "CUP",
@@ -1719,7 +1719,7 @@
   "CVE": {
     "name": "Cape Verdean Escudo",
     "name_native": "Escudo cabo-verdiano",
-    "name_plural": "Cape Verdean Escudos",
+    "name_plural": "Cape Verdean escudos",
     "name_plural_native": "Escudos cabo-verdianos",
     "iso": {
       "code": "CVE",
@@ -1768,7 +1768,7 @@
   "CZK": {
     "name": "Czech Koruna",
     "name_native": "Koruna česká",
-    "name_plural": "Czech Korunas",
+    "name_plural": "Czech korunas",
     "name_plural_native": "Koruny české",
     "iso": {
       "code": "CZK",
@@ -1818,7 +1818,7 @@
   "DJF": {
     "name": "Djiboutian Franc",
     "name_native": "Franc djiboutien",
-    "name_plural": "Djiboutian Francs",
+    "name_plural": "Djiboutian francs",
     "name_plural_native": "Francs djiboutiens",
     "iso": {
       "code": "DJF",
@@ -1871,7 +1871,7 @@
   "DKK": {
     "name": "Danish Krone",
     "name_native": "Dansk krone",
-    "name_plural": "Danish Kroner",
+    "name_plural": "Danish kroner",
     "name_plural_native": "Danske kroner",
     "iso": {
       "code": "DKK",
@@ -1922,7 +1922,7 @@
   "DOP": {
     "name": "Dominican Peso",
     "name_native": "Peso dominicano",
-    "name_plural": "Dominican Pesos",
+    "name_plural": "Dominican pesos",
     "name_plural_native": "Pesos dominicanos",
     "iso": {
       "code": "DOP",
@@ -1971,7 +1971,7 @@
   "DZD": {
     "name": "Algerian Dinar",
     "name_native": "دينار جزائري",
-    "name_plural": "Algerian Dinars",
+    "name_plural": "Algerian dinars",
     "name_plural_native": "دينار جزائري",
     "iso": {
       "code": "DZD",
@@ -2024,7 +2024,7 @@
   "EGP": {
     "name": "Egyptian Pound",
     "name_native": "جنيه مصري",
-    "name_plural": "Egyptian Pounds",
+    "name_plural": "Egyptian pounds",
     "name_plural_native": "جنيهات مصرية",
     "iso": {
       "code": "EGP",
@@ -2079,7 +2079,7 @@
   "ERN": {
     "name": "Eritrean Nakfa",
     "name_native": "ናቕፋ",
-    "name_plural": "Eritrean Nakfas",
+    "name_plural": "Eritrean nakfas",
     "name_plural_native": "ናቕፋ",
     "iso": {
       "code": "ERN",
@@ -2129,7 +2129,7 @@
   "ETB": {
     "name": "Ethiopian Birr",
     "name_native": "ብር",
-    "name_plural": "Ethiopian Birrs",
+    "name_plural": "Ethiopian birrs",
     "name_plural_native": "ብር",
     "iso": {
       "code": "ETB",
@@ -2179,7 +2179,7 @@
   "EUR": {
     "name": "Euro",
     "name_native": "Euro",
-    "name_plural": "Euros",
+    "name_plural": "euros",
     "name_plural_native": "Euro",
     "iso": {
       "code": "EUR",
@@ -2256,7 +2256,7 @@
   "FJD": {
     "name": "Fijian Dollar",
     "name_native": "Fijian Dollar",
-    "name_plural": "Fijian Dollars",
+    "name_plural": "Fijian dollars",
     "name_plural_native": "Fijian Dollars",
     "iso": {
       "code": "FJD",
@@ -2307,7 +2307,7 @@
   "FKP": {
     "name": "Falkland Islands Pound",
     "name_native": "Falkland Islands Pound",
-    "name_plural": "Falkland Islands Pounds",
+    "name_plural": "Falkland Islands pounds",
     "name_plural_native": "Falkland Islands Pounds",
     "iso": {
       "code": "FKP",
@@ -2355,9 +2355,9 @@
     ]
   },
   "GBP": {
-    "name": "Pound Sterling",
+    "name": "British Pound",
     "name_native": "British Pound",
-    "name_plural": "Pounds Sterling",
+    "name_plural": "British pounds",
     "name_plural_native": "British Pounds",
     "iso": {
       "code": "GBP",
@@ -2413,7 +2413,7 @@
   "GEL": {
     "name": "Georgian Lari",
     "name_native": "ლარი",
-    "name_plural": "Georgian Laris",
+    "name_plural": "Georgian laris",
     "name_plural_native": "ლარი",
     "iso": {
       "code": "GEL",
@@ -2468,7 +2468,7 @@
   "GHS": {
     "name": "Ghanaian Cedi",
     "name_native": "Ghana Cedi",
-    "name_plural": "Ghanaian Cedis",
+    "name_plural": "Ghanaian cedis",
     "name_plural_native": "Ghana Cedis",
     "iso": {
       "code": "GHS",
@@ -2521,7 +2521,7 @@
   "GIP": {
     "name": "Gibraltar Pound",
     "name_native": "Gibraltar Pound",
-    "name_plural": "Gibraltar Pounds",
+    "name_plural": "Gibraltar pounds",
     "name_plural_native": "Gibraltar Pounds",
     "iso": {
       "code": "GIP",
@@ -2573,7 +2573,7 @@
   "GMD": {
     "name": "Gambian Dalasi",
     "name_native": "Dalasi",
-    "name_plural": "Gambian Dalasis",
+    "name_plural": "Gambian dalasis",
     "name_plural_native": "Dalasis",
     "iso": {
       "code": "GMD",
@@ -2623,7 +2623,7 @@
   "GNF": {
     "name": "Guinean Franc",
     "name_native": "Franc guinéen",
-    "name_plural": "Guinean Francs",
+    "name_plural": "Guinean francs",
     "name_plural_native": "Francs guinéens",
     "iso": {
       "code": "GNF",
@@ -2675,7 +2675,7 @@
   "GTQ": {
     "name": "Guatemalan Quetzal",
     "name_native": "Quetzal",
-    "name_plural": "Guatemalan Quetzals",
+    "name_plural": "Guatemalan quetzals",
     "name_plural_native": "Quetzales",
     "iso": {
       "code": "GTQ",
@@ -2728,7 +2728,7 @@
   "GYD": {
     "name": "Guyanese Dollar",
     "name_native": "Guyanese Dollar",
-    "name_plural": "Guyanese Dollars",
+    "name_plural": "Guyanese dollars",
     "name_plural_native": "Guyanese Dollars",
     "iso": {
       "code": "GYD",
@@ -2775,7 +2775,7 @@
   "HKD": {
     "name": "Hong Kong Dollar",
     "name_native": "港元",
-    "name_plural": "Hong Kong Dollars",
+    "name_plural": "Hong Kong dollars",
     "name_plural_native": "港元",
     "iso": {
       "code": "HKD",
@@ -2826,7 +2826,7 @@
   "HNL": {
     "name": "Honduran Lempira",
     "name_native": "Lempira",
-    "name_plural": "Honduran Lempiras",
+    "name_plural": "Honduran lempiras",
     "name_plural_native": "Lempiras",
     "iso": {
       "code": "HNL",
@@ -2879,7 +2879,7 @@
   "HTG": {
     "name": "Haitian Gourde",
     "name_native": "Gourde haïtienne",
-    "name_plural": "Haitian Gourdes",
+    "name_plural": "Haitian gourdes",
     "name_plural_native": "Gourdes haïtiennes",
     "iso": {
       "code": "HTG",
@@ -2933,7 +2933,7 @@
   "HUF": {
     "name": "Hungarian Forint",
     "name_native": "Magyar forint",
-    "name_plural": "Hungarian Forints",
+    "name_plural": "Hungarian forints",
     "name_plural_native": "Magyar forint",
     "iso": {
       "code": "HUF",
@@ -2983,7 +2983,7 @@
   "IDR": {
     "name": "Indonesian Rupiah",
     "name_native": "Rupiah",
-    "name_plural": "Indonesian Rupiahs",
+    "name_plural": "Indonesian rupiahs",
     "name_plural_native": "Rupiah",
     "iso": {
       "code": "IDR",
@@ -3034,7 +3034,7 @@
   "ILS": {
     "name": "Israeli New Shekel",
     "name_native": "שקל חדש",
-    "name_plural": "Israeli New Shekels",
+    "name_plural": "Israeli new shekels",
     "name_plural_native": "שקלים חדשים",
     "iso": {
       "code": "ILS",
@@ -3085,7 +3085,7 @@
   "INR": {
     "name": "Indian Rupee",
     "name_native": "रुपया",
-    "name_plural": "Indian Rupees",
+    "name_plural": "Indian rupees",
     "name_plural_native": "रुपये",
     "iso": {
       "code": "INR",
@@ -3138,7 +3138,7 @@
   "IQD": {
     "name": "Iraqi Dinar",
     "name_native": "دينار عراقي",
-    "name_plural": "Iraqi Dinars",
+    "name_plural": "Iraqi dinars",
     "name_plural_native": "دينار عراقي",
     "iso": {
       "code": "IQD",
@@ -3186,7 +3186,7 @@
   "IRR": {
     "name": "Iranian Rial",
     "name_native": "ریال",
-    "name_plural": "Iranian Rials",
+    "name_plural": "Iranian rials",
     "name_plural_native": "ریال",
     "iso": {
       "code": "IRR",
@@ -3234,7 +3234,7 @@
   "ISK": {
     "name": "Icelandic Króna",
     "name_native": "Íslensk króna",
-    "name_plural": "Icelandic Krónur",
+    "name_plural": "Icelandic krónur",
     "name_plural_native": "Íslenskar krónur",
     "iso": {
       "code": "ISK",
@@ -3282,7 +3282,7 @@
   "JMD": {
     "name": "Jamaican Dollar",
     "name_native": "Jamaican Dollar",
-    "name_plural": "Jamaican Dollars",
+    "name_plural": "Jamaican dollars",
     "name_plural_native": "Jamaican Dollars",
     "iso": {
       "code": "JMD",
@@ -3333,7 +3333,7 @@
   "JOD": {
     "name": "Jordanian Dinar",
     "name_native": "دينار أردني",
-    "name_plural": "Jordanian Dinars",
+    "name_plural": "Jordanian dinars",
     "name_plural_native": "دينار أردني",
     "iso": {
       "code": "JOD",
@@ -3384,7 +3384,7 @@
   "JPY": {
     "name": "Japanese Yen",
     "name_native": "円",
-    "name_plural": "Japanese Yen",
+    "name_plural": "Japanese yen",
     "name_plural_native": "円",
     "iso": {
       "code": "JPY",
@@ -3433,7 +3433,7 @@
   "KES": {
     "name": "Kenyan Shilling",
     "name_native": "Shilling ya Kenya",
-    "name_plural": "Kenyan Shillings",
+    "name_plural": "Kenyan shillings",
     "name_plural_native": "Shilling za Kenya",
     "iso": {
       "code": "KES",
@@ -3482,7 +3482,7 @@
   "KGS": {
     "name": "Kyrgyzstani Som",
     "name_native": "Сом",
-    "name_plural": "Kyrgyzstani Soms",
+    "name_plural": "Kyrgyzstani soms",
     "name_plural_native": "Сом",
     "iso": {
       "code": "KGS",
@@ -3536,7 +3536,7 @@
   "KHR": {
     "name": "Cambodian Riel",
     "name_native": "រៀល",
-    "name_plural": "Cambodian Riels",
+    "name_plural": "Cambodian riels",
     "name_plural_native": "រៀល",
     "iso": {
       "code": "KHR",
@@ -3589,7 +3589,7 @@
   "KMF": {
     "name": "Comorian Franc",
     "name_native": "Franc comorien",
-    "name_plural": "Comorian Francs",
+    "name_plural": "Comorian francs",
     "name_plural_native": "Francs comoriens",
     "iso": {
       "code": "KMF",
@@ -3641,7 +3641,7 @@
   "KPW": {
     "name": "North Korean Won",
     "name_native": "조선 원",
-    "name_plural": "North Korean Won",
+    "name_plural": "North Korean won",
     "name_plural_native": "조선 원",
     "iso": {
       "code": "KPW",
@@ -3693,7 +3693,7 @@
   "KRW": {
     "name": "South Korean Won",
     "name_native": "원",
-    "name_plural": "South Korean Won",
+    "name_plural": "South Korean won",
     "name_plural_native": "원",
     "iso": {
       "code": "KRW",
@@ -3742,7 +3742,7 @@
   "KWD": {
     "name": "Kuwaiti Dinar",
     "name_native": "دينار كويتي",
-    "name_plural": "Kuwaiti Dinars",
+    "name_plural": "Kuwaiti dinars",
     "name_plural_native": "دينار كويتي",
     "iso": {
       "code": "KWD",
@@ -3791,7 +3791,7 @@
   "KYD": {
     "name": "Cayman Islands Dollar",
     "name_native": "Cayman Islands Dollar",
-    "name_plural": "Cayman Islands Dollars",
+    "name_plural": "Cayman Islands dollars",
     "name_plural_native": "Cayman Islands Dollars",
     "iso": {
       "code": "KYD",
@@ -3839,7 +3839,7 @@
   "KZT": {
     "name": "Kazakhstani Tenge",
     "name_native": "Теңге",
-    "name_plural": "Kazakhstani Tenge",
+    "name_plural": "Kazakhstani tenges",
     "name_plural_native": "Теңге",
     "iso": {
       "code": "KZT",
@@ -3892,7 +3892,7 @@
   "LAK": {
     "name": "Lao Kip",
     "name_native": "ກີບ",
-    "name_plural": "Lao Kip",
+    "name_plural": "Lao kips",
     "name_plural_native": "ກີບ",
     "iso": {
       "code": "LAK",
@@ -3941,7 +3941,7 @@
   "LBP": {
     "name": "Lebanese Pound",
     "name_native": "ليرة لبنانية",
-    "name_plural": "Lebanese Pounds",
+    "name_plural": "Lebanese pounds",
     "name_plural_native": "ليرات لبنانية",
     "iso": {
       "code": "LBP",
@@ -3991,7 +3991,7 @@
   "LKR": {
     "name": "Sri Lankan Rupee",
     "name_native": "රුපියල",
-    "name_plural": "Sri Lankan Rupees",
+    "name_plural": "Sri Lankan rupees",
     "name_plural_native": "රුපියල්",
     "iso": {
       "code": "LKR",
@@ -4045,7 +4045,7 @@
   "LRD": {
     "name": "Liberian Dollar",
     "name_native": "Liberian Dollar",
-    "name_plural": "Liberian Dollars",
+    "name_plural": "Liberian dollars",
     "name_plural_native": "Liberian Dollars",
     "iso": {
       "code": "LRD",
@@ -4094,7 +4094,7 @@
   "LSL": {
     "name": "Lesotho Loti",
     "name_native": "Loti",
-    "name_plural": "Lesotho Maloti",
+    "name_plural": "Lesotho maloti",
     "name_plural_native": "Maloti",
     "iso": {
       "code": "LSL",
@@ -4143,7 +4143,7 @@
   "LYD": {
     "name": "Libyan Dinar",
     "name_native": "دينار ليبي",
-    "name_plural": "Libyan Dinars",
+    "name_plural": "Libyan dinars",
     "name_plural_native": "دينار ليبي",
     "iso": {
       "code": "LYD",
@@ -4195,7 +4195,7 @@
   "MAD": {
     "name": "Moroccan Dirham",
     "name_native": "درهم مغربي",
-    "name_plural": "Moroccan Dirhams",
+    "name_plural": "Moroccan dirhams",
     "name_plural_native": "دراهم مغربية",
     "iso": {
       "code": "MAD",
@@ -4247,7 +4247,7 @@
   "MDL": {
     "name": "Moldovan Leu",
     "name_native": "Leu moldovenesc",
-    "name_plural": "Moldovan Lei",
+    "name_plural": "Moldovan lei",
     "name_plural_native": "Lei moldovenești",
     "iso": {
       "code": "MDL",
@@ -4301,7 +4301,7 @@
   "MGA": {
     "name": "Malagasy Ariary",
     "name_native": "Ariary",
-    "name_plural": "Malagasy Ariary",
+    "name_plural": "Malagasy ariaries",
     "name_plural_native": "Ariary",
     "iso": {
       "code": "MGA",
@@ -4353,7 +4353,7 @@
   "MKD": {
     "name": "Macedonian Denar",
     "name_native": "Денар",
-    "name_plural": "Macedonian Denari",
+    "name_plural": "Macedonian denari",
     "name_plural_native": "Денари",
     "iso": {
       "code": "MKD",
@@ -4403,7 +4403,7 @@
   "MMK": {
     "name": "Myanmar Kyat",
     "name_native": "ကျပ်",
-    "name_plural": "Myanmar Kyats",
+    "name_plural": "Myanmar kyats",
     "name_plural_native": "ကျပ်",
     "iso": {
       "code": "MMK",
@@ -4456,9 +4456,9 @@
     ]
   },
   "MNT": {
-    "name": "Mongolian Tögrög",
+    "name": "Mongolian Tugrik",
     "name_native": "Төгрөг",
-    "name_plural": "Mongolian Tögrög",
+    "name_plural": "Mongolian tugriks",
     "name_plural_native": "Төгрөг",
     "iso": {
       "code": "MNT",
@@ -4513,7 +4513,7 @@
   "MOP": {
     "name": "Macanese Pataca",
     "name_native": "澳門元",
-    "name_plural": "Macanese Patacas",
+    "name_plural": "Macanese patacas",
     "name_plural_native": "澳門元",
     "iso": {
       "code": "MOP",
@@ -4562,7 +4562,7 @@
   "MRU": {
     "name": "Mauritanian Ouguiya",
     "name_native": "أوقية موريتانية",
-    "name_plural": "Mauritanian Ouguiyas",
+    "name_plural": "Mauritanian ouguiyas",
     "name_plural_native": "أوقية موريتانية",
     "iso": {
       "code": "MRU",
@@ -4610,7 +4610,7 @@
   "MUR": {
     "name": "Mauritian Rupee",
     "name_native": "Roupie mauricienne",
-    "name_plural": "Mauritian Rupees",
+    "name_plural": "Mauritian rupees",
     "name_plural_native": "Roupies mauriciennes",
     "iso": {
       "code": "MUR",
@@ -4663,7 +4663,7 @@
   "MVR": {
     "name": "Maldivian Rufiyaa",
     "name_native": "ރުފިޔާ",
-    "name_plural": "Maldivian Rufiyaas",
+    "name_plural": "Maldivian rufiyaas",
     "name_plural_native": "ރުފިޔާ",
     "iso": {
       "code": "MVR",
@@ -4715,7 +4715,7 @@
   "MWK": {
     "name": "Malawian Kwacha",
     "name_native": "Kwacha",
-    "name_plural": "Malawian Kwachas",
+    "name_plural": "Malawian kwachas",
     "name_plural_native": "Kwacha",
     "iso": {
       "code": "MWK",
@@ -4772,7 +4772,7 @@
   "MXN": {
     "name": "Mexican Peso",
     "name_native": "Peso mexicano",
-    "name_plural": "Mexican Pesos",
+    "name_plural": "Mexican pesos",
     "name_plural_native": "Pesos mexicanos",
     "iso": {
       "code": "MXN",
@@ -4826,7 +4826,7 @@
   "MYR": {
     "name": "Malaysian Ringgit",
     "name_native": "Ringgit Malaysia",
-    "name_plural": "Malaysian Ringgits",
+    "name_plural": "Malaysian ringgits",
     "name_plural_native": "Ringgit Malaysia",
     "iso": {
       "code": "MYR",
@@ -4874,7 +4874,7 @@
   "MZN": {
     "name": "Mozambican Metical",
     "name_native": "Metical",
-    "name_plural": "Mozambican Meticais",
+    "name_plural": "Mozambican meticals",
     "name_plural_native": "Meticais",
     "iso": {
       "code": "MZN",
@@ -4928,7 +4928,7 @@
   "NAD": {
     "name": "Namibian Dollar",
     "name_native": "Namibian Dollar",
-    "name_plural": "Namibian Dollars",
+    "name_plural": "Namibian dollars",
     "name_plural_native": "Namibian Dollars",
     "iso": {
       "code": "NAD",
@@ -4978,7 +4978,7 @@
   "NGN": {
     "name": "Nigerian Naira",
     "name_native": "Naira",
-    "name_plural": "Nigerian Nairas",
+    "name_plural": "Nigerian nairas",
     "name_plural_native": "Naira",
     "iso": {
       "code": "NGN",
@@ -5027,7 +5027,7 @@
   "NIO": {
     "name": "Nicaraguan Córdoba",
     "name_native": "Córdoba",
-    "name_plural": "Nicaraguan Córdobas",
+    "name_plural": "Nicaraguan córdobas",
     "name_plural_native": "Córdobas",
     "iso": {
       "code": "NIO",
@@ -5080,7 +5080,7 @@
   "NOK": {
     "name": "Norwegian Krone",
     "name_native": "Norsk krone",
-    "name_plural": "Norwegian Kroner",
+    "name_plural": "Norwegian kroner",
     "name_plural_native": "Norske kroner",
     "iso": {
       "code": "NOK",
@@ -5129,7 +5129,7 @@
   "NPR": {
     "name": "Nepalese Rupee",
     "name_native": "रुपैयाँ",
-    "name_plural": "Nepalese Rupees",
+    "name_plural": "Nepalese rupees",
     "name_plural_native": "रुपैयाँ",
     "iso": {
       "code": "NPR",
@@ -5184,7 +5184,7 @@
   "NZD": {
     "name": "New Zealand Dollar",
     "name_native": "New Zealand Dollar",
-    "name_plural": "New Zealand Dollars",
+    "name_plural": "New Zealand dollars",
     "name_plural_native": "New Zealand Dollars",
     "iso": {
       "code": "NZD",
@@ -5236,7 +5236,7 @@
   "OMR": {
     "name": "Omani Rial",
     "name_native": "ريال عماني",
-    "name_plural": "Omani Rials",
+    "name_plural": "Omani rials",
     "name_plural_native": "ريالات عمانية",
     "iso": {
       "code": "OMR",
@@ -5285,7 +5285,7 @@
   "PAB": {
     "name": "Panamanian Balboa",
     "name_native": "Balboa",
-    "name_plural": "Panamanian Balboas",
+    "name_plural": "Panamanian balboas",
     "name_plural_native": "Balboas",
     "iso": {
       "code": "PAB",
@@ -5331,7 +5331,7 @@
   "PEN": {
     "name": "Peruvian Sol",
     "name_native": "Sol",
-    "name_plural": "Peruvian Soles",
+    "name_plural": "Peruvian soles",
     "name_plural_native": "Soles",
     "iso": {
       "code": "PEN",
@@ -5383,7 +5383,7 @@
   "PGK": {
     "name": "Papua New Guinean Kina",
     "name_native": "Kina",
-    "name_plural": "Papua New Guinean Kina",
+    "name_plural": "Papua New Guinean kina",
     "name_plural_native": "Kina",
     "iso": {
       "code": "PGK",
@@ -5433,7 +5433,7 @@
   "PHP": {
     "name": "Philippine Peso",
     "name_native": "Piso",
-    "name_plural": "Philippine Pesos",
+    "name_plural": "Philippine pesos",
     "name_plural_native": "Piso",
     "iso": {
       "code": "PHP",
@@ -5485,7 +5485,7 @@
   "PKR": {
     "name": "Pakistani Rupee",
     "name_native": "روپیہ",
-    "name_plural": "Pakistani Rupees",
+    "name_plural": "Pakistani rupees",
     "name_plural_native": "روپے",
     "iso": {
       "code": "PKR",
@@ -5533,9 +5533,9 @@
     ]
   },
   "PLN": {
-    "name": "Polish Złoty",
+    "name": "Polish Zloty",
     "name_native": "Złoty",
-    "name_plural": "Polish Złotys",
+    "name_plural": "Polish zlotys",
     "name_plural_native": "Złote",
     "iso": {
       "code": "PLN",
@@ -5588,7 +5588,7 @@
   "PYG": {
     "name": "Paraguayan Guarani",
     "name_native": "Guaraní",
-    "name_plural": "Paraguayan Guaranis",
+    "name_plural": "Paraguayan guaranis",
     "name_plural_native": "Guaraníes",
     "iso": {
       "code": "PYG",
@@ -5636,7 +5636,7 @@
   "QAR": {
     "name": "Qatari Riyal",
     "name_native": "ريال قطري",
-    "name_plural": "Qatari Riyals",
+    "name_plural": "Qatari riyals",
     "name_plural_native": "ريالات قطرية",
     "iso": {
       "code": "QAR",
@@ -5686,7 +5686,7 @@
   "RON": {
     "name": "Romanian Leu",
     "name_native": "Leu românesc",
-    "name_plural": "Romanian Lei",
+    "name_plural": "Romanian lei",
     "name_plural_native": "Lei românești",
     "iso": {
       "code": "RON",
@@ -5736,7 +5736,7 @@
   "RSD": {
     "name": "Serbian Dinar",
     "name_native": "Динар",
-    "name_plural": "Serbian Dinars",
+    "name_plural": "Serbian dinars",
     "name_plural_native": "Динара",
     "iso": {
       "code": "RSD",
@@ -5787,9 +5787,9 @@
     ]
   },
   "RUB": {
-    "name": "Russian Rubles",
+    "name": "Russian Ruble",
     "name_native": "Рубль",
-    "name_plural": "Russian Rubles",
+    "name_plural": "Russian rubles",
     "name_plural_native": "Рубли",
     "iso": {
       "code": "RUB",
@@ -5844,7 +5844,7 @@
   "RWF": {
     "name": "Rwandan Franc",
     "name_native": "Ifaranga",
-    "name_plural": "Rwandan Francs",
+    "name_plural": "Rwandan francs",
     "name_plural_native": "Amafaranga",
     "iso": {
       "code": "RWF",
@@ -5892,7 +5892,7 @@
   "SAR": {
     "name": "Saudi Riyal",
     "name_native": "ريال سعودي",
-    "name_plural": "Saudi Riyals",
+    "name_plural": "Saudi riyals",
     "name_plural_native": "ريالات سعودية",
     "iso": {
       "code": "SAR",
@@ -5944,7 +5944,7 @@
   "SBD": {
     "name": "Solomon Islands Dollar",
     "name_native": "Solomon Islands Dollar",
-    "name_plural": "Solomon Islands Dollars",
+    "name_plural": "Solomon Islands dollars",
     "name_plural_native": "Solomon Islands Dollars",
     "iso": {
       "code": "SBD",
@@ -5994,7 +5994,7 @@
   "SCR": {
     "name": "Seychellois Rupee",
     "name_native": "Roupie seychelloise",
-    "name_plural": "Seychellois Rupees",
+    "name_plural": "Seychellois rupees",
     "name_plural_native": "Roupies seychelloises",
     "iso": {
       "code": "SCR",
@@ -6043,7 +6043,7 @@
   "SDG": {
     "name": "Sudanese Pound",
     "name_native": "جنيه سوداني",
-    "name_plural": "Sudanese Pounds",
+    "name_plural": "Sudanese pounds",
     "name_plural_native": "جنيهات سودانية",
     "iso": {
       "code": "SDG",
@@ -6095,7 +6095,7 @@
   "SEK": {
     "name": "Swedish Krona",
     "name_native": "Svensk krona",
-    "name_plural": "Swedish Kronor",
+    "name_plural": "Swedish kronor",
     "name_plural_native": "Svenska kronor",
     "iso": {
       "code": "SEK",
@@ -6144,7 +6144,7 @@
   "SGD": {
     "name": "Singapore Dollar",
     "name_native": "Singapore Dollar",
-    "name_plural": "Singapore Dollars",
+    "name_plural": "Singapore dollars",
     "name_plural_native": "Singapore Dollars",
     "iso": {
       "code": "SGD",
@@ -6195,7 +6195,7 @@
   "SHP": {
     "name": "Saint Helena Pound",
     "name_native": "Saint Helena Pound",
-    "name_plural": "Saint Helena Pounds",
+    "name_plural": "Saint Helena pounds",
     "name_plural_native": "Saint Helena Pounds",
     "iso": {
       "code": "SHP",
@@ -6242,9 +6242,9 @@
     ]
   },
   "SLL": {
-    "name": "Sierra Leonean Leone",
+    "name": "Sierra Leonean Leone (Old)",
     "name_native": "Leone",
-    "name_plural": "Sierra Leonean Leones",
+    "name_plural": "Sierra Leonean leones",
     "name_plural_native": "Leones",
     "iso": {
       "code": "SLL",
@@ -6291,7 +6291,7 @@
   "SOS": {
     "name": "Somali Shilling",
     "name_native": "Shilin Soomaali",
-    "name_plural": "Somali Shillings",
+    "name_plural": "Somali shillings",
     "name_plural_native": "Shilin Soomaali",
     "iso": {
       "code": "SOS",
@@ -6344,7 +6344,7 @@
   "SRD": {
     "name": "Surinamese Dollar",
     "name_native": "Surinaamse dollar",
-    "name_plural": "Surinamese Dollars",
+    "name_plural": "Surinamese dollars",
     "name_plural_native": "Surinaamse dollars",
     "iso": {
       "code": "SRD",
@@ -6393,7 +6393,7 @@
   "SSP": {
     "name": "South Sudanese Pound",
     "name_native": "South Sudanese Pound",
-    "name_plural": "South Sudanese Pounds",
+    "name_plural": "South Sudanese pounds",
     "name_plural_native": "South Sudanese Pounds",
     "iso": {
       "code": "SSP",
@@ -6445,7 +6445,7 @@
   "STN": {
     "name": "São Tomé and Príncipe Dobra",
     "name_native": "Dobra",
-    "name_plural": "São Tomé and Príncipe Dobras",
+    "name_plural": "São Tomé and Príncipe dobras",
     "name_plural_native": "Dobras",
     "iso": {
       "code": "STN",
@@ -6494,7 +6494,7 @@
   "SYP": {
     "name": "Syrian Pound",
     "name_native": "ليرة سورية",
-    "name_plural": "Syrian Pounds",
+    "name_plural": "Syrian pounds",
     "name_plural_native": "ليرات سورية",
     "iso": {
       "code": "SYP",
@@ -6544,7 +6544,7 @@
   "SZL": {
     "name": "Swazi Lilangeni",
     "name_native": "Lilangeni",
-    "name_plural": "Swazi Emalangeni",
+    "name_plural": "Swazi emalangeni",
     "name_plural_native": "Emalangeni",
     "iso": {
       "code": "SZL",
@@ -6597,7 +6597,7 @@
   "THB": {
     "name": "Thai Baht",
     "name_native": "บาท",
-    "name_plural": "Thai Baht",
+    "name_plural": "Thai baht",
     "name_plural_native": "บาท",
     "iso": {
       "code": "THB",
@@ -6646,7 +6646,7 @@
   "TJS": {
     "name": "Tajikistani Somoni",
     "name_native": "Сомонӣ",
-    "name_plural": "Tajikistani Somoni",
+    "name_plural": "Tajikistani somonis",
     "name_plural_native": "Сомонӣ",
     "iso": {
       "code": "TJS",
@@ -6702,7 +6702,7 @@
   "TMT": {
     "name": "Turkmenistani Manat",
     "name_native": "Manat",
-    "name_plural": "Turkmenistani Manat",
+    "name_plural": "Turkmenistani manats",
     "name_plural_native": "Manat",
     "iso": {
       "code": "TMT",
@@ -6754,7 +6754,7 @@
   "TND": {
     "name": "Tunisian Dinar",
     "name_native": "دينار تونسي",
-    "name_plural": "Tunisian Dinars",
+    "name_plural": "Tunisian dinars",
     "name_plural_native": "دينارات تونسية",
     "iso": {
       "code": "TND",
@@ -6805,7 +6805,7 @@
   "TOP": {
     "name": "Tongan Paʻanga",
     "name_native": "Paʻanga",
-    "name_plural": "Tongan Paʻanga",
+    "name_plural": "Tongan paʻanga",
     "name_plural_native": "Paʻanga",
     "iso": {
       "code": "TOP",
@@ -6854,7 +6854,7 @@
   "TRY": {
     "name": "Turkish Lira",
     "name_native": "Türk Lirası",
-    "name_plural": "Turkish Lira",
+    "name_plural": "Turkish liras",
     "name_plural_native": "Türk Lirası",
     "iso": {
       "code": "TRY",
@@ -6904,7 +6904,7 @@
   "TTD": {
     "name": "Trinidad and Tobago Dollar",
     "name_native": "Trinidad and Tobago Dollar",
-    "name_plural": "Trinidad and Tobago Dollars",
+    "name_plural": "Trinidad and Tobago dollars",
     "name_plural_native": "Trinidad and Tobago Dollars",
     "iso": {
       "code": "TTD",
@@ -6953,7 +6953,7 @@
   "TWD": {
     "name": "New Taiwan Dollar",
     "name_native": "新臺幣",
-    "name_plural": "New Taiwan Dollars",
+    "name_plural": "New Taiwan dollars",
     "name_plural_native": "新臺幣",
     "iso": {
       "code": "TWD",
@@ -7003,7 +7003,7 @@
   "TZS": {
     "name": "Tanzanian Shilling",
     "name_native": "Shilingi",
-    "name_plural": "Tanzanian Shillings",
+    "name_plural": "Tanzanian shillings",
     "name_plural_native": "Shilingi",
     "iso": {
       "code": "TZS",
@@ -7050,7 +7050,7 @@
   "UAH": {
     "name": "Ukrainian Hryvnia",
     "name_native": "Гривня",
-    "name_plural": "Ukrainian Hryvnias",
+    "name_plural": "Ukrainian hryvnias",
     "name_plural_native": "Гривні",
     "iso": {
       "code": "UAH",
@@ -7108,7 +7108,7 @@
   "UGX": {
     "name": "Ugandan Shilling",
     "name_native": "Shilling ya Uganda",
-    "name_plural": "Ugandan Shillings",
+    "name_plural": "Ugandan shillings",
     "name_plural_native": "Shilling za Uganda",
     "iso": {
       "code": "UGX",
@@ -7157,9 +7157,9 @@
     ]
   },
   "USD": {
-    "name": "United States Dollar",
+    "name": "US Dollar",
     "name_native": "US Dollar",
-    "name_plural": "United States Dollars",
+    "name_plural": "US dollars",
     "name_plural_native": "US Dollars",
     "iso": {
       "code": "USD",
@@ -7225,7 +7225,7 @@
   "UYU": {
     "name": "Uruguayan Peso",
     "name_native": "Peso uruguayo",
-    "name_plural": "Uruguayan Pesos",
+    "name_plural": "Uruguayan pesos",
     "name_plural_native": "Pesos uruguayos",
     "iso": {
       "code": "UYU",
@@ -7274,7 +7274,7 @@
   "UZS": {
     "name": "Uzbekistani Som",
     "name_native": "Сўм",
-    "name_plural": "Uzbekistani Soms",
+    "name_plural": "Uzbekistani soms",
     "name_plural_native": "Сўм",
     "iso": {
       "code": "UZS",
@@ -7327,7 +7327,7 @@
   "VES": {
     "name": "Venezuelan Bolívar",
     "name_native": "Bolívar",
-    "name_plural": "Venezuelan Bolívares",
+    "name_plural": "Venezuelan bolívars",
     "name_plural_native": "Bolívares",
     "iso": {
       "code": "VES",
@@ -7370,9 +7370,9 @@
     ]
   },
   "VND": {
-    "name": "Vietnamese Đồng",
+    "name": "Vietnamese Dong",
     "name_native": "Đồng",
-    "name_plural": "Vietnamese Đồng",
+    "name_plural": "Vietnamese dong",
     "name_plural_native": "Đồng",
     "iso": {
       "code": "VND",
@@ -7428,7 +7428,7 @@
   "VUV": {
     "name": "Vanuatu Vatu",
     "name_native": "Vatu",
-    "name_plural": "Vanuatu Vatu",
+    "name_plural": "Vanuatu vatus",
     "name_plural_native": "Vatu",
     "iso": {
       "code": "VUV",
@@ -7479,7 +7479,7 @@
   "WST": {
     "name": "Samoan Tala",
     "name_native": "Tala",
-    "name_plural": "Samoan Tala",
+    "name_plural": "Samoan tala",
     "name_plural_native": "Tala",
     "iso": {
       "code": "WST",
@@ -7528,7 +7528,7 @@
   "XAF": {
     "name": "Central African CFA Franc",
     "name_native": "Franc CFA",
-    "name_plural": "Central African CFA Francs",
+    "name_plural": "Central African CFA francs",
     "name_plural_native": "Francs CFA",
     "iso": {
       "code": "XAF",
@@ -7584,7 +7584,7 @@
   "XCD": {
     "name": "East Caribbean Dollar",
     "name_native": "East Caribbean Dollar",
-    "name_plural": "East Caribbean Dollars",
+    "name_plural": "East Caribbean dollars",
     "name_plural_native": "East Caribbean Dollars",
     "iso": {
       "code": "XCD",
@@ -7641,7 +7641,7 @@
   "XOF": {
     "name": "West African CFA Franc",
     "name_native": "Franc CFA",
-    "name_plural": "West African CFA Francs",
+    "name_plural": "West African CFA francs",
     "name_plural_native": "Francs CFA",
     "iso": {
       "code": "XOF",
@@ -7699,7 +7699,7 @@
   "XPF": {
     "name": "CFP Franc",
     "name_native": "Franc CFP",
-    "name_plural": "CFP Francs",
+    "name_plural": "CFP francs",
     "name_plural_native": "Francs CFP",
     "iso": {
       "code": "XPF",
@@ -7750,7 +7750,7 @@
   "YER": {
     "name": "Yemeni Rial",
     "name_native": "ريال يمني",
-    "name_plural": "Yemeni Rials",
+    "name_plural": "Yemeni rials",
     "name_plural_native": "ريالات يمنية",
     "iso": {
       "code": "YER",
@@ -7798,7 +7798,7 @@
   "ZAR": {
     "name": "South African Rand",
     "name_native": "Rand",
-    "name_plural": "South African Rand",
+    "name_plural": "South African rand",
     "name_plural_native": "Rand",
     "iso": {
       "code": "ZAR",
@@ -7851,7 +7851,7 @@
   "ZMW": {
     "name": "Zambian Kwacha",
     "name_native": "Kwacha",
-    "name_plural": "Zambian Kwachas",
+    "name_plural": "Zambian kwachas",
     "name_plural_native": "Kwacha",
     "iso": {
       "code": "ZMW",
